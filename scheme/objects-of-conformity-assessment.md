@@ -1,7 +1,8 @@
 # Objects of Conformity Assessment
 Objects of conformity assessment fall into the major categories indicated by the second-level headings below. Specific objects are listed with a link to the corresponding conformity assessment requirements.
 
-# Digital Credential Management Systems 
+# Digital Credential Management System 
+A digital credential management system may consist of the following components that can be assessed for the purposes of conformity:
 
 ## Issuance
 
@@ -15,6 +16,7 @@ Objects of conformity assessment fall into the major categories indicated by the
 
 
 # Digital Trust Services
+Digital trust services may consist of the following components that can be assessed for the purposes of conformity:
 
 ## Issuing Services
 
