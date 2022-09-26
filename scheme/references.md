@@ -1,6 +1,12 @@
 # References
 Link to relevant references. In no particular order
 
+## General References
+
+* [Conformity Assessment for standards writers](https://www.iso.org/publication/PUB100303.html)
+* [Introduction to Conformity Assessment ISO/CASCO](https://www.unescap.org/sites/default/files/3%20-%20Introduction%20to%20Conformity%20Assessment%20and%20ISO%20CASCO.pdf)
+
+## Digital Credential Ecosystem Referencs
 * [Open Wallet Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-an-intent-to-form-the-openwallet-foundation)
 * [Ontario's Digital ID: Technology and standards](https://www.ontario.ca/page/ontarios-digital-id-technology-and-standards)
 * [DHS](https://docs.google.com/spreadsheets/d/1Z4cYfjbbE-rABcfC-xab8miocKLomivYMUFibOh9BVo/edit)

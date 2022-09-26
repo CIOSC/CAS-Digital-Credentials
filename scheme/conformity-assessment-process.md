@@ -60,3 +60,6 @@ In applying these principles:
 * supports national measurement infrastructure for conformity assessment and, through mutual recognition agreements, equivalence with measurement standards in other countries;
 * recommends the use of the national and international standards infrastructure for the development of standards and other criteria for conformity assessment and participates in the standards development process where appropriate; and
 promotes the use of accredited conformity assessment bodies, as a means of improving competitiveness and facilitating trade.
+
+---
+Adapted from [Conformity Assessment and Accreditation Policy in the UK](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/949132/conformity-assessment-and-accreditation-policy-in-the-uk.pdf)

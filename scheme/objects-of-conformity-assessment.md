@@ -1,10 +1,14 @@
 # Objects of Conformity Assessment
-Objects of conformity assessment fall into the major categories indicated by the second-level headings below. Specific objects are listed with a link to the corresponding conformity assessment requirements.
+Categories of objects of conformity assessment are listed by the major headings below. Specific objects of conformitiy are listed with a links to the corresponding conformity assessment requirements.
+* Product
+* Process
+* Service 
 
 # Digital Credential Management System 
 A digital credential management system consist of the following components that can be assessed for the purposes of conformity:
 
 ## Issuance
+* Type
 
 ## Management
 
