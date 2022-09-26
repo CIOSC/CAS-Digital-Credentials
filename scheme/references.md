@@ -9,5 +9,6 @@ Link to relevant references. In no particular order
 * [W3C VC Use Cases](https://www.w3.org/TR/vc-use-cases/)
 * [VC Issuing Protocols](https://docs.google.com/presentation/d/12K8EIzFjzsC2i1WwfzggsXISGXZ64f1xwHJ5qO5rylc/edit#slide=id.g142b7bb9163_0_26)
 * [RWOT Verifiable Credential Market Signals](https://docs.google.com/presentation/d/1JjfDbeXfE7aO7uYDNqNQ8ixVr9tXUQL7mhwudwxZN38/edit#slide=id.g1579e3d0398_1_1926)
+* [EBSI Specification](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Data+Models+and+Schemas)
 
 
