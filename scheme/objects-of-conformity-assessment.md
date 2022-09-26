@@ -22,7 +22,11 @@ Digital trust services may consist of the following components that can be asses
 
 ## Verification Services
 
-## Digital Wallent
+# Digital Wallet
+
+# User Tasks
+
+Issue, Assert, Verify, Store, Retrieve, Move, Revoke, Amend
 
 
 
