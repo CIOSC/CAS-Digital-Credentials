@@ -31,7 +31,22 @@ A digital credential management system consist of the following components that 
 
 ## Presentation
 
+* [JOSE](https://datatracker.ietf.org/wg/jose/charter/)
+
 ## Verification
+
+## Formats
+A format is a means to structure and convey information. This may also include encoding and decoding. 
+
+### Requirements
+
+1. Formats MUST demonstrate conformity to one or serveral of the following specifications 
+
+* [JSON](https://www.json.org/json-en.html)
+* [JWT](https://www.rfc-editor.org/rfc/rfc7519)
+
+### Methods of Test
+
 
 
 # Digital Trust Services
