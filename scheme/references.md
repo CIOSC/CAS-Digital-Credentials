@@ -17,4 +17,7 @@ Link to relevant references. In no particular order
 * [RWOT Verifiable Credential Market Signals](https://docs.google.com/presentation/d/1JjfDbeXfE7aO7uYDNqNQ8ixVr9tXUQL7mhwudwxZN38/edit#slide=id.g1579e3d0398_1_1926)
 * [EBSI Specification](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Data+Models+and+Schemas)
 
+## Government References
+* [Government of Canada Digital Credentials](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html)
+
 

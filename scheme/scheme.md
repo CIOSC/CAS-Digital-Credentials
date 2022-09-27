@@ -6,6 +6,12 @@
 * This scheme specifies the minimum requirements to enable the development of a conformity assessment program for: **digital credential management systems** that **issue**, **manage**, **store**, **present**,and **verify** machine‐readable digital credentials. This includes: **digital trust services** which is defined as including **verifiable data registries**, **issuing and verifying services**, and **digital wallets**.
 * The intended application of the conformity assessment scheme is in relation to product certification criteria under [ISO/IEC17065](https://www.iso.org/standard/46568.html).
 
+
+This scheme is being developed in accordance with the direction [Government of Canada Digital Credentials](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html) direction:
+
+"_Canadians expect easy, secure, and trusted access to digital services. They want to control who can and—more importantly—can’t, access their digital information. Digital credentials offer Canadians the ability to confirm their identity during service transactions. Government is looking to leverage new technology to meet this need, while ensuring that trust is maintained and privacy is protected when interacting with government in Canada. As the digital credentials ecosystem evolves, the credentials could be used by other public and private sector services._"
+
+
 # Conformity Assessment Scheme
 A general overview of the [conformity assessment process](./conformity-assessment-process.md)
 
