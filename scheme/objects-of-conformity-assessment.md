@@ -35,7 +35,12 @@ A digital credential management system consist of the following components that 
 
 ## Verification
 
-## Formats
+# Credential Data Models
+
+ Credential data models are composed of three main components: credential metadata, credential attributes (claims) and cryptographic material which allows a holder to prove the authenticity of presented data to a verifier. 
+
+
+# Encoding / Decoding Formats
 A format is a means to structure and convey information. This may also include encoding and decoding. 
 
 ### Requirements

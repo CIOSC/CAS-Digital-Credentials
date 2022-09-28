@@ -24,4 +24,10 @@ Link to relevant references. These references are provided for informative purpo
 
 * [ISO/IEC 18013-5 Personal identification — ISOcompliant driving licence —Part 5:Mobile driving licence (mDL) application](https://www.sis.se/api/document/preview/80031411/)
 
+## Ecosystem References
+
+* [Findy](findy-network.github.io)
+* [Procivis Proposal to reconcile Aries and ISO 18013-5](https://www.procivis.ch/post/iso-iec-18013-5-vs-self-sovereign-identity-a-proposal-for-an-mdl-verifiable-credential)
+* [Aries]()
+
 
