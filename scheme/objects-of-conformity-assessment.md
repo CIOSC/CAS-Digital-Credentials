@@ -5,26 +5,21 @@ An **object of conformity assessment** is formal specification of a product, pro
 
 The overall goal is to have consistent, repeatable tests that can be carried out by a third party and to give confidence to all interested parties that the product, process or service fulfils the specified requirements.
 
-
-
 This scheme defines objects of conformity assessment categorized by the major headings below. Specific objects of conformity are listed with a links to the corresponding conformity assessment requirements.
 
 Objects of conformity can be specified in conjuction with related product standards and guides to demonstrate that a product, process or service complies with specified criteria.
 ---
 
 # Digital Credential Management System 
-A digital credential management system consist of the following components that can be assessed for the purposes of conformity:
+A digital credential management system consist of the following components that can be assessed indivually or in combination.
 
-## Issuance
+## Issuance System
 * Type
 
-## Management
+## Management System
 
-## Storage
+## Storage System
 
-## Presentation
-
-* [JOSE](https://datatracker.ietf.org/wg/jose/charter/)
 
 ## Verification
 
@@ -58,9 +53,6 @@ A format is a means to structure and convey information. This may also include e
 * [JSON](https://www.json.org/json-en.html)
 * [JWT](https://www.rfc-editor.org/rfc/rfc7519)
 
-### Methods of Test
-
-
 
 # Digital Trust Services
 Digital trust services may consist of the following components that can be assessed for the purposes of conformity:
@@ -74,6 +66,11 @@ A role a system might perform by mediating the creation and verification of iden
 
 
 # Digital Wallet
+
+## Presentation
+
+* [JOSE](https://datatracker.ietf.org/wg/jose/charter/)
+
 
 # User Tasks
 [W3C User Tasks](https://www.w3.org/TR/vc-use-cases/#user-tasks)
