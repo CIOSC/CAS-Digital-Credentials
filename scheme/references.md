@@ -6,6 +6,7 @@ Link to relevant references. These references are provided for informative purpo
 * [Conformity Assessment for standards writers](https://www.iso.org/publication/PUB100303.html)
 * [Introduction to Conformity Assessment ISO/CASCO](https://www.unescap.org/sites/default/files/3%20-%20Introduction%20to%20Conformity%20Assessment%20and%20ISO%20CASCO.pdf)
 * [Conformity assessment for standards writers Do’s and don’ts](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/pub100303.pdf)
+* [CASCO Conformity Assessment Toolbox](https://isotc.iso.org/livelink/livelink?func=ll&objId=20644954&objAction=browse&viewType=1)
 
 
 ## Digital Credential Ecosystems

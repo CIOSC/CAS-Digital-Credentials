@@ -1,6 +1,8 @@
 # Conformity Assessment Scheme
 
 # Background and Context
+Conformity assessment is the demonstration that specified requirements relating to a product, process, system person or body are fulfilled.(ISO/IEC 17000, Clause 2.1). It is an activity which results in determining whether or not products, services, processes, management systems or persons meet the requirements of standards or other specifications.
+
 
 This scheme is being developed in accordance with the direction [Government of Canada Digital Credentials](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html) direction:
 
