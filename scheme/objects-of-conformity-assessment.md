@@ -17,7 +17,7 @@ Categories of objects of conformity assessment are listed by the major headings 
 * Service 
 
 Objects of conformity can be specified in conjuction with related product standards and guides to demonstrate that a product, process or service complies with specified criteria.
-
+---
 
 # Digital Credential Management System 
 A digital credential management system consist of the following components that can be assessed for the purposes of conformity:
@@ -34,6 +34,21 @@ A digital credential management system consist of the following components that 
 * [JOSE](https://datatracker.ietf.org/wg/jose/charter/)
 
 ## Verification
+
+# Digital Credentials
+## Definition
+**Digital Credentials** is a portable digital records about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. They are the digital representation of traditional physical certificates or information,
+
+## Minimum Requirements
+
+* Digital credentials issued by a system SHALL be tamper-evident. Include the testing/test method requirements for proving a digital credential is tamper-evident
+
+* The authorship of digital credentials issued by a system shall be cryptographically verified.
+
+## Methods of Test
+
+* TBD
+
 
 # Credential Data Models
 
