@@ -1,12 +1,14 @@
 # References
 Link to relevant references. These references are provided for informative purposes only. 
 
-## General References
+## Conformity Assesment
 
 * [Conformity Assessment for standards writers](https://www.iso.org/publication/PUB100303.html)
 * [Introduction to Conformity Assessment ISO/CASCO](https://www.unescap.org/sites/default/files/3%20-%20Introduction%20to%20Conformity%20Assessment%20and%20ISO%20CASCO.pdf)
+* [Conformity assessment for standards writers Do’s and don’ts](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/pub100303.pdf)
 
-## Digital Credential Ecosystem Referencs
+
+## Digital Credential Ecosystems
 * [Open Wallet Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-an-intent-to-form-the-openwallet-foundation)
 * [Ontario's Digital ID: Technology and standards](https://www.ontario.ca/page/ontarios-digital-id-technology-and-standards)
 * [DHS](https://docs.google.com/spreadsheets/d/1Z4cYfjbbE-rABcfC-xab8miocKLomivYMUFibOh9BVo/edit)
@@ -16,18 +18,16 @@ Link to relevant references. These references are provided for informative purpo
 * [VC Issuing Protocols](https://docs.google.com/presentation/d/12K8EIzFjzsC2i1WwfzggsXISGXZ64f1xwHJ5qO5rylc/edit#slide=id.g142b7bb9163_0_26)
 * [RWOT Verifiable Credential Market Signals](https://docs.google.com/presentation/d/1JjfDbeXfE7aO7uYDNqNQ8ixVr9tXUQL7mhwudwxZN38/edit#slide=id.g1579e3d0398_1_1926)
 * [EBSI Specification](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Data+Models+and+Schemas)
-
-## Government References
-* [Government of Canada Digital Credentials](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html)
-
-## ISO
-
 * [ISO/IEC 18013-5 Personal identification — ISOcompliant driving licence —Part 5:Mobile driving licence (mDL) application](https://www.sis.se/api/document/preview/80031411/)
-
-## Ecosystem References
-
 * [Findy](findy-network.github.io)
 * [Procivis Proposal to reconcile Aries and ISO 18013-5](https://www.procivis.ch/post/iso-iec-18013-5-vs-self-sovereign-identity-a-proposal-for-an-mdl-verifiable-credential)
 * [Aries]()
+
+
+## Government (including Legal and Regulatory)
+* [Government of Canada Digital Credentials](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html)
+
+
+
 
 

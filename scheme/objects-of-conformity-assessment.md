@@ -1,20 +1,13 @@
-# Overview
-The overall aim of the conformity assessment of products, processes or services is to give confidence to all interested parties that a product, process or service fulfills specified requirements. The value of a conformity assessment scheme is to contribute to the degree of confidence and trust that can established by an impartial and competent demonstration of fulfillment of specified requirements carried out by a third-party.
-
-A conformity assessment scheme:
-* provide consumers (users) of products with sufficient information to allow them to make informed decisions on products and services;
-* assist the suppliers to achieve market acceptance. If the product has a recognizable mark on it consumers may be more willing to make the purchase;
-* can play a role in regulated products (subject to technical regulations);
-* assists vendors and customers in selecting the components for their own products and services;
-* given confidence to solution providers and integrators confidence in the products they are using.
-
-For more detali see [Conformity Assessment Process](./conformity-assessment-process.md)
-
 # Objects of Conformity Assessment
-Categories of objects of conformity assessment are listed by the major headings below. Specific objects of conformitiy are listed with a links to the corresponding conformity assessment requirements.
-* Product
-* Process
-* Service 
+An **object of conformity assessment** is formal specification of a product, process, or service component (or components) that can be evaluated according to:
+* set of specified (minimum) requirements
+* subject to a defined method of test
+
+The overall goal is to have consistent, repeatable tests that can be carried out by a third party and to give confidence to all interested parties that the product, process or service fulfils the specified requirements.
+
+
+
+This scheme defines objects of conformity assessment categorized by the major headings below. Specific objects of conformity are listed with a links to the corresponding conformity assessment requirements.
 
 Objects of conformity can be specified in conjuction with related product standards and guides to demonstrate that a product, process or service complies with specified criteria.
 ---

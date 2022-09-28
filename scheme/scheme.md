@@ -35,7 +35,6 @@ The scope of this scheme specifies the minimum requirements to enable the develo
 
 
 
-
 # Conformity Assessment Scheme
 A general overview of the [conformity assessment process](./conformity-assessment-process.md)
 
@@ -48,7 +47,16 @@ This conformity assesment scheme (CAS) is developed in accordance with [IAF MD25
 * [17011 Specific Application](./17011-specific-application.md) any specific application or explanation in accordance with ISO 17011 that is relevant to the CAS
 *  [17021 Specific Application](./17021-specific-application.md) and specific application or explantation in accordance with ISO 17065
 
+The overall aim of the conformity assessment of products, processes or services is to give confidence to all interested parties that a product, process or service fulfills specified requirements. The value of a conformity assessment scheme is to contribute to the degree of confidence and trust that can established by an impartial and competent demonstration of fulfillment of specified requirements carried out by a third-party.
 
+A conformity assessment scheme:
+* provide consumers (users) of products with sufficient information to allow them to make informed decisions on products and services;
+* assist the suppliers to achieve market acceptance. If the product has a recognizable mark on it consumers may be more willing to make the purchase;
+* can play a role in regulated products (subject to technical regulations);
+* assists vendors and customers in selecting the components for their own products and services;
+* given confidence to solution providers and integrators confidence in the products they are using.
+
+For more detail see [Conformity Assessment Process](./conformity-assessment-process.md)
 
 # References
 [References](./references.md)
