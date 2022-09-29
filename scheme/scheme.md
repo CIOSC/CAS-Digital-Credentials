@@ -40,12 +40,14 @@ The scope of this scheme specifies the minimum requirements to enable the develo
 # Conformity Assessment Scheme
 A general overview of the [conformity assessment process](./conformity-assessment-process.md)
 
-This conformity assesment scheme (CAS) is developed in accordance with [IAF MD25](https://iaf.nu/iaf_system/uploads/documents/IAF_MD_25_Criteria_for_the_Evaluation_of_CAS_07012022.pdf) and consists of the following:
+A description of [conformity assessment approach](conformity-assessment-approach.md) that is specific to this scheme.
+
+To support a protototye conformity assessment program, this conformity assesment scheme (CAS) is being developed in accordance with [IAF MD25](https://iaf.nu/iaf_system/uploads/documents/IAF_MD_25_Criteria_for_the_Evaluation_of_CAS_07012022.pdf) and consists of the following:
 
 * [Scheme Objectives](./objectives.md) for the specific industry or user group.
 * [Objects of Conformity Assessment](objects-of-conformity-assessment.md) for the producs and/or services
 * [Requirements for Conformity Assessment](./requirements-conformity-assessment.md)
-* [Conformity Assessment Process](./conformity-assessment-process.md) used to determine conformity of the objects, including [IAF MLA Level 3 standards](./iaf-mla-level3.md) without any contradiction or exclusions.
+* [Conformity Assessment Approach](./conformity-assessment-approach.md) used to determine conformity of the objects, including [IAF MLA Level 3 standards](./iaf-mla-level3.md) without any contradiction or exclusions.
 * [17011 Specific Application](./17011-specific-application.md) any specific application or explanation in accordance with ISO 17011 that is relevant to the CAS
 *  [17021 Specific Application](./17021-specific-application.md) and specific application or explantation in accordance with ISO 17065
 

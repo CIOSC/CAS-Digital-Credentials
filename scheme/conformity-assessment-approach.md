@@ -1,7 +1,9 @@
 # Conformity Assessess Approach
-The conformity assessment process uses a functional approach as set out in ISO/IEC 17000.
+The conformity assessment approach uses a functional approach as set out in ISO/IEC 17000.
 
-## Selectin and Determination
+For a more general overview, please see [conformity assessment process](./conformity-assessment-process.md)
+
+## Selection and Determination
 
 For each object of conformity of assessment, the following MUST be specified and carried out:
 

@@ -72,11 +72,6 @@ A role a system might perform by mediating the creation and verification of iden
 * [JOSE](https://datatracker.ietf.org/wg/jose/charter/)
 
 
-# User Tasks
-[W3C User Tasks](https://www.w3.org/TR/vc-use-cases/#user-tasks)
-
-Issue, Assert, Verify, Store, Retrieve, Move, Revoke, Amend
-
 
 
 
