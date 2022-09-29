@@ -21,7 +21,4 @@ Adapted from ISO/IEC 17065
  * Methods of test can be used in combination with a number of related product standards and guides to demonstrate that a product complies with specified criteria.
 
 
-## Method of Test
-For each object of conformity of assessment, the following MUST be carried out:
 
-1. Description of component (or components) that 

@@ -7,6 +7,7 @@ Link to relevant references. These references are provided for informative purpo
 * [Introduction to Conformity Assessment ISO/CASCO](https://www.unescap.org/sites/default/files/3%20-%20Introduction%20to%20Conformity%20Assessment%20and%20ISO%20CASCO.pdf)
 * [Conformity assessment for standards writers Do’s and don’ts](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/pub100303.pdf)
 * [CASCO Conformity Assessment Toolbox](https://isotc.iso.org/livelink/livelink?func=ll&objId=20644954&objAction=browse&viewType=1)
+* []
 
 
 ## Digital Credential Ecosystems
@@ -22,11 +23,14 @@ Link to relevant references. These references are provided for informative purpo
 * [ISO/IEC 18013-5 Personal identification — ISOcompliant driving licence —Part 5:Mobile driving licence (mDL) application](https://www.sis.se/api/document/preview/80031411/)
 * [Findy](findy-network.github.io)
 * [Procivis Proposal to reconcile Aries and ISO 18013-5](https://www.procivis.ch/post/iso-iec-18013-5-vs-self-sovereign-identity-a-proposal-for-an-mdl-verifiable-credential)
-* [Aries]()
+* [Hyperledger Aries](https://github.com/hyperledger/aries)
+* [MIT Learner Wallet Specification](https://digitalcredentials.mit.edu/docs/Learner-Credential-Wallet-Specification-May-2021.pdf)
+* [W3C VCWG Technical Plenary](https://docs.google.com/presentation/d/1hrqozY2EGZ8i8y40abyEuJmIb6hCiRS-37pdj6bhBLY/edit)
 
 
 ## Government (including Legal and Regulatory)
 * [Government of Canada Digital Credentials](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html)
+* [User-Centric Verifiable Digital Credentials](https://github.com/canada-ca/ucvdcc)
 
 
 
