@@ -35,6 +35,8 @@ _Selection of the product, service and/or process that is being tested in relati
 ### Conformity Asssessment Requirements
 1. A description of the components being assessed MUST be provided that demonstrates the object of conformity assessment
 
+
+
 ### Additional Guidance
 * ...
 
@@ -44,7 +46,9 @@ _Determination of activities to obtain information regarding the fulfillment  of
 
 
 ### Conformity Asssessment Requirements
-1. TBD
+1. Digital credentials SHALL be tamper-evident. 
+2. The authorship of a digital credential SHALL be cryptographically verified.
+3. Method of test MUST prove that is digital credential is tamper-evident
 
 ### Additional Guidance
 * ...
@@ -87,3 +91,21 @@ _The creation of a “statement of conformity”, which is a generic expression 
 
 ### Additional Guidance
 ...
+
+## Part 8: Other Considerations
+other requirements that may be part of object of conformity of assessess 
+
+### Credential Data Models
+
+ Credential data models are composed of three main components: credential metadata, credential attributes (claims) and cryptographic material which allows a holder to prove the authenticity of presented data to a verifier. 
+
+
+### Encoding / Decoding Formats
+A format is a means to structure and convey information. This may also include encoding and decoding. 
+
+### Technical schemes
+
+Credential formats MUST demonstrate conformity to one or several of the following specifications 
+
+* [JSON](https://www.json.org/json-en.html)
+* [JWT](https://www.rfc-editor.org/rfc/rfc7519)

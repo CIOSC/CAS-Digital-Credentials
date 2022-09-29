@@ -18,46 +18,17 @@ Where possible, objects of conformity are defined with reference to relevant **l
 
 
 # Digital Credential Management System 
-A digital credential management system consist of the following components that can be assessed indivually or in combination.
+A digital credential management system may consist of the following components that can be assessed indivually or in combination.
 
-## Issuance System
-* Type
+## Issuance 
+TBD
 
-## Management System
-
-## Storage System
-
+## Storage 
+TBD
 
 ## Verification
+TBD
 
-
-
-
-## Minimum Requirements
-
-* Digital credentials issued by a system SHALL be tamper-evident. Include the testing/test method requirements for proving a digital credential is tamper-evident
-
-* The authorship of digital credentials issued by a system shall be cryptographically verified.
-
-## Methods of Test
-
-* TBD
-
-
-# Credential Data Models
-
- Credential data models are composed of three main components: credential metadata, credential attributes (claims) and cryptographic material which allows a holder to prove the authenticity of presented data to a verifier. 
-
-
-# Encoding / Decoding Formats
-A format is a means to structure and convey information. This may also include encoding and decoding. 
-
-### Requirements
-
-1. Formats MUST demonstrate conformity to one or serveral of the following specifications 
-
-* [JSON](https://www.json.org/json-en.html)
-* [JWT](https://www.rfc-editor.org/rfc/rfc7519)
 
 
 # Digital Trust Services
