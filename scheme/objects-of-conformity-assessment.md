@@ -7,8 +7,15 @@ The overall goal is to have consistent, repeatable tests that can be carried out
 
 This scheme defines objects of conformity assessment categorized by the major headings below. Specific objects of conformity are listed with a links to the corresponding conformity assessment requirements.
 
-Objects of conformity can be specified in conjuction with related product standards and guides to demonstrate that a product, process or service complies with specified criteria.
----
+Objects of conformity are specified in conjuction with related product standards and guides to demonstrate that a product, process or service complies with specified criteria.
+
+Where possible, objects of conformity are defined with reference to relevant **legislation**, **policy**, **regulation**, **standard** or **guidance** issued by a [competent authority](./scheme-definitions.md)
+
+
+# Digital Credential
+
+
+
 
 # Digital Credential Management System 
 A digital credential management system consist of the following components that can be assessed indivually or in combination.
@@ -23,9 +30,8 @@ A digital credential management system consist of the following components that 
 
 ## Verification
 
-# Digital Credentials
-## Definition
-**Digital Credentials** is a portable digital records about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. They are the digital representation of traditional physical certificates or information,
+
+
 
 ## Minimum Requirements
 

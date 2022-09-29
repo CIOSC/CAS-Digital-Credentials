@@ -31,6 +31,7 @@ Link to relevant references. All references are provided without warrant or endo
 ## Government (including Legal and Regulatory)
 * [Government of Canada Digital Credentials](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html)
 * [User-Centric Verifiable Digital Credentials](https://github.com/canada-ca/ucvdcc)
+* [California Legislature: SB-786 County birth, death, and marriage records: blockchain](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB786#93ENR)
 
 ## Relevant Blogs and Media Articles
 
