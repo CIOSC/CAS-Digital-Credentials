@@ -7,14 +7,14 @@ The overall goal is to have consistent, repeatable tests that can be carried out
 
 This scheme defines objects of conformity assessment categorized by the major headings below. Specific objects of conformity are listed with a links to the corresponding conformity assessment requirements.
 
-Objects of conformity are specified in conjuction with related product standards and guides to demonstrate that a product, process or service complies with specified criteria.
+Objects of conformity are specified in connjuction with related product standards and guides to demonstrate that a product, process or service complies with specified criteria.
 
 Where possible, objects of conformity are defined with reference to relevant **legislation**, **policy**, **regulation**, **standard** or **guidance** issued by a [competent authority](./scheme-definitions.md)
 
 
 # Digital Credential
 
-
+[Digital Credential](./objects/objca-digital-credential.md)
 
 
 # Digital Credential Management System 
