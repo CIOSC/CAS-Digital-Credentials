@@ -3,7 +3,7 @@
 ## Part 1: Object of Conformity Assessment Definition
 _Normative definition and description used for the purposes of the object of conformity assessment._
 
-**Digital Credential** is a portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information. [Refefence]()
+**Digital Credential** is a portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information. [Statement of Work](/docs/statement-of-work.md)
 
 ### Related Definitions
 Non-normative definitions which may assist in interpretation and application of the conformity. 
