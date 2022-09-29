@@ -9,6 +9,12 @@ Link to relevant references. All references are provided without warrant or endo
 * [CASCO Conformity Assessment Toolbox](https://isotc.iso.org/livelink/livelink?func=ll&objId=20644954&objAction=browse&viewType=1)
 * []
 
+## Standards, Specifications, Recommendations and Reports
+
+* [W3C Verifiable Credentials Data Model Version 1.1](https://www.w3.org/TR/vc-data-model/)
+* [W3C Decentralized Identifiers (DIDs v1.0](https://www.w3.org/TR/did-core/)
+* [Cryptography Review of W3C Verifiable Credentials Data Model (VCDM) and Decentralized Identifiers (DIDs) Standards and Cryptography Implementation Recommendations](http://www.csl.sri.com/papers/vcdm-did-crypto-recs/)
+* [DIF BBS Signature Scheme](https://identity.foundation/bbs-signature/draft-looker-cfrg-bbs-signatures.html)
 
 ## Digital Credential Ecosystems
 * [Open Wallet Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-an-intent-to-form-the-openwallet-foundation)
@@ -32,6 +38,9 @@ Link to relevant references. All references are provided without warrant or endo
 * [Government of Canada Digital Credentials](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html)
 * [User-Centric Verifiable Digital Credentials](https://github.com/canada-ca/ucvdcc)
 * [California Legislature: SB-786 County birth, death, and marriage records: blockchain](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB786#93ENR)
+* [DHS Scaling Interoperability](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/att-0027/DHS.SVIP-Scaling.W3C.VC.DID.Interoperability-SHARE_20220712.pdf)
+* [DHS Implementation Profile](/docs/DHS.W3C.VC-DID.Implemenation.Profile-20220929-SHARE.pdf)
+
 
 ## Relevant Blogs and Media Articles
 
