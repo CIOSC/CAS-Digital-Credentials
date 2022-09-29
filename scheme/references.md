@@ -1,5 +1,5 @@
 # References
-Link to relevant references. These references are provided for informative purposes only. 
+Link to relevant references. All references are provided without warrant or endorsement and are intended for informative purposes only.
 
 ## Conformity Assesment
 
@@ -32,7 +32,9 @@ Link to relevant references. These references are provided for informative purpo
 * [Government of Canada Digital Credentials](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html)
 * [User-Centric Verifiable Digital Credentials](https://github.com/canada-ca/ucvdcc)
 
+## Relevant Blogs and Media Articles
 
+* [Sept 29, 2022 The Importance of Open Source Digital Wallets to the Future of the Internet](https://blog.irvingwb.com/blog/2022/09/the-open-software-foundation.html)
 
 
 
