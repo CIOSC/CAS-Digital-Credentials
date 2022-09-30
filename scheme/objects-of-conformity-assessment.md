@@ -24,7 +24,7 @@ A digital credential management system may consist of the following components t
 TODO
 
 ## Storage 
-TBD
+TODO
 
 ## Verification
 TODO
