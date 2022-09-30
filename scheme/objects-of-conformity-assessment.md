@@ -21,13 +21,13 @@ Where possible, objects of conformity are defined with reference to relevant **l
 A digital credential management system may consist of the following components that can be assessed indivually or in combination.
 
 ## Issuance 
-TBD
+TODO
 
 ## Storage 
 TBD
 
 ## Verification
-TBD
+TODO
 
 
 
