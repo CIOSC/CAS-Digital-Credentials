@@ -46,5 +46,14 @@ Link to relevant references. All references are provided without warrant or endo
 
 * [Sept 29, 2022 The Importance of Open Source Digital Wallets to the Future of the Internet](https://blog.irvingwb.com/blog/2022/09/the-open-software-foundation.html)
 
+## Technical Specifications for Conformity Assessment
+List of specifications that are recognized within the scheme.
+
+* [Hyperledger AnonCreds](https://anoncreds-wg.github.io/anoncreds-spec/)
+* [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
+* [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
+* [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
+* [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
+
 
 
