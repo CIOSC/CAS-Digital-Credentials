@@ -42,6 +42,9 @@ The scope of this scheme specifies the minimum requirements to enable the develo
 * The scheme will take into account consideratons of: 
     * Regulatory and market needs for the safe commericialization of digital credentials and digital trust services,
 
+# Objects of Conformity Assessment
+
+[Objects of Conformity Assessment](./objects-of-conformity-assessment.md)
 
 
 # References
