@@ -11,6 +11,7 @@ Objects of conformity are specified in connjuction with related product standard
 
 Where possible, objects of conformity are defined with reference to relevant **legislation**, **policy**, **regulation**, **standard** or **guidance** issued by a [competent authority](./scheme-definitions.md)
 
+[Summary Table](./objects/objca-table.md)
 
 # Digital Credential
 
