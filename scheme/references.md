@@ -40,6 +40,7 @@ Link to relevant references. All references are provided without warrant or endo
 * [California Legislature: SB-786 County birth, death, and marriage records: blockchain](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB786#93ENR)
 * [DHS Scaling Interoperability](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/att-0027/DHS.SVIP-Scaling.W3C.VC.DID.Interoperability-SHARE_20220712.pdf)
 * [DHS Implementation Profile](/docs/DHS.W3C.VC-DID.Implemenation.Profile-20220929-SHARE.pdf)
+* [EBSI Publications](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/What+is+ebsi)
 
 
 ## Relevant Blogs and Media Articles
