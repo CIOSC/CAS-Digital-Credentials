@@ -1,4 +1,4 @@
-# Objects of Conformity Assessment Summary Table
+# Objects of Conformity Assessment Schedule
 
 Objects of Conformity Assessment definitions are adapted from a variety of techical specifications and standards. 
 
