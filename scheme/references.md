@@ -47,9 +47,10 @@ Link to relevant references. All references are provided without warrant or endo
 
 * [Sept 29, 2022 The Importance of Open Source Digital Wallets to the Future of the Internet](https://blog.irvingwb.com/blog/2022/09/the-open-software-foundation.html)
 * [Sept 21, 2022 Decoupling AnonCreds from Hyperledger Indy](https://blog.cheqd.io/anoncreds-indy-pendence-4946367469d4)
+* [July 27, 2022 Aries Agent Test Harness Enhancemement Project](https://www.idlab.org/en/aries-agent-test-harness-enhancement-project/)
 
-## Technical Specifications for Conformity Assessment
-List of specifications that are recognized within the scheme.
+## Specfications, Standards and Recommendations for Conformity Assessment
+References to specifications,standards and recommendations for consideration as part of the conformity assessment scheme.
 
 * [Hyperledger AnonCreds](https://anoncreds-wg.github.io/anoncreds-spec/)
 * [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
@@ -57,7 +58,23 @@ List of specifications that are recognized within the scheme.
 * [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
 * [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
 * [ToIP Trust Registry V1 Protocol Specification](https://github.com/trustoverip/tswg-trust-registry-tf/blob/main/docs/ToIP%20Trust%20Registry%20V1%20Specification.md)
+* [DIF DIDComm Messaging Specification](https://identity.foundation/didcomm-messaging/spec/)
+* [DIF Well Known DID Configuration](https://identity.foundation/specs/did-configuration/)
+* [DIF Peer DID Method Specification](https://identity.foundation/specs/did-configuration/)
+* [OAuth Working Group Specifications: Active Drafts and RFCs](https://oauth.net/specs/)
+* [OpenID for Verifiable Credential Issuance](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
+* [OpenID for Verifiable Presentations](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)
+* [OpenID for Self-Issued OpenID Provider v2](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
+* [FIDO Alliance Specifications](https://fidoalliance.org/specifications/download/)
 
-## Test Harnesses and Suites
+
+
+## Services, Test Suites and Demonstration Instances
+
+* [Universal Resolver: GitHub Repo](https://github.com/decentralized-identity/universal-resolver)
+* [Universal Resolver: DIF Hosted Instance](https://dev.uniresolver.io/)
+* [W3C Verifiable Credentials Working Group Test Suite](https://github.com/w3c/vc-test-suite)
+* [IDLAB W3C VC Conformance Assessment and Testing Report](https://www.idlab.org/en/our-services/assessment-services/w3c-vc-testing/)
+* [IDLAB Assessment Programs](https://www.idlab.org/en/assessment-services/assessment-programs/)
 
 
