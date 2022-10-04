@@ -3,9 +3,8 @@
 ## Part 1: Object of Conformity Assessment Definition
 _Normative definition and description used for the purposes of the object of conformity assessment._
 
-**Issuer** is an _Entity_ that asserts one or more claims about one or more _Subjects_, creates a _Credential_ from these claims, and assigns the _Credential_ to a _Holder_.
+**Issuer** is an _Entity_ that asserts one or more _claims_ about one or more _Subjects_, creates a _Credential_ from these _claims_, and assigns the _Credential_ to a _Holder_. [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
 
-**Definition** definition here [Refefence]()
 
 ### Related Definitions
 Non-normative definitions which may assist in interpretation and application of the conformity. 
@@ -21,9 +20,26 @@ Further definitions provided by the evaluator or vendor:
 ## Part 2: Use Cases
 _A description of an appropriate [use case](./use-cases.md) that situates the context where the object of conformity is being used._
 
+1. 
+
 
 ### Conformity Asssessment Requirements
-1. A relevant use case MUST be provided to illustrate how the object of conformity behaves in context.
+1. An _Issuer_ must document how its Credential Issuance process to meet the required outcome(s) documented in [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/).
+
+1. An _Issuer_ must document how its Identity Continuity process to meet the required outcome(s) documented in [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/).
+
+1. An _Issuer_ must document how its Identity Linking process to meet the required outcome(s) documented in [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/).
+
+1. An _Issuer_ must document how its Identity-Credential Binding process to meet the required outcome(s) documented in [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/).
+
+1. An _Issuer_ must document how its Credential-Authenticator Binding process to meet the required outcome(s) documented in [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/).
+
+
+
+The Organization shall define its processes for credential issuance, identity continuity, identity linking, identity-credential binding and credential – authenticator binding to meet the credential issuance outcomes 
+
+
+
 
 ### Additional Guidance
 * ...
