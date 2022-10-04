@@ -46,6 +46,7 @@ Link to relevant references. All references are provided without warrant or endo
 ## Relevant Blogs and Media Articles
 
 * [Sept 29, 2022 The Importance of Open Source Digital Wallets to the Future of the Internet](https://blog.irvingwb.com/blog/2022/09/the-open-software-foundation.html)
+* [Sept 21, 2022 Decoupling AnonCreds from Hyperledger Indy](https://blog.cheqd.io/anoncreds-indy-pendence-4946367469d4)
 
 ## Technical Specifications for Conformity Assessment
 List of specifications that are recognized within the scheme.
@@ -55,6 +56,8 @@ List of specifications that are recognized within the scheme.
 * [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
 * [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
 * [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
+* [ToIP Trust Registry V1 Protocol Specification](https://github.com/trustoverip/tswg-trust-registry-tf/blob/main/docs/ToIP%20Trust%20Registry%20V1%20Specification.md)
 
+## Test Harnesses and Suites
 
 
