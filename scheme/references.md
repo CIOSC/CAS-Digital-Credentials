@@ -1,7 +1,7 @@
 # References
 Link to relevant references. All references are provided without warrant or endorsement and are intended for informative purposes only.
 
-## Conformity Assesment
+## Conformity Assessment
 
 * [Conformity Assessment for standards writers](https://www.iso.org/publication/PUB100303.html)
 * [Introduction to Conformity Assessment ISO/CASCO](https://www.unescap.org/sites/default/files/3%20-%20Introduction%20to%20Conformity%20Assessment%20and%20ISO%20CASCO.pdf)
@@ -53,6 +53,7 @@ Link to relevant references. All references are provided without warrant or endo
 References to specifications,standards and recommendations for consideration as part of the conformity assessment scheme.
 
 * [Hyperledger AnonCreds](https://anoncreds-wg.github.io/anoncreds-spec/)
+* [Aries Interop Profile](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0302-aries-interop-profile#aries-interop-profile-version-10)
 * [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
 * [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
 * [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)

@@ -8,7 +8,7 @@ Test methods can be drawn up by ISO/TCs and SCs, however they must simply outlin
 
 Adapted from ISO/IEC 17007
 
-* Test methods SHOULD describe clearly how the test is to be performed includ ing the choice and preparation of the samples, use of testing equipment,the data to be recorded, the acceptance criteria, acceptance and rejection limits and what is acceptable in terms of uncertainty of measurement, accuracy, reproducibility and repeatability.
+* Test methods SHOULD describe clearly how the test is to be performed including the choice and preparation of the samples, use of testing equipment,the data to be recorded, the acceptance criteria, acceptance and rejection limits and what is acceptable in terms of uncertainty of measurement, accuracy, reproducibility and repeatability.
 * Test methods SHOULD be selected bearing in mind their effectiveness, economy and practical application
 * Non-destructive tests SHOULD be chosen whenever they provide the same level of confidence as destructive tests
 * The document SHOULD specify the sequence of tests when the sequence can influence the results

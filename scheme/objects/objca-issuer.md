@@ -7,21 +7,28 @@ _Normative definition and description used for the purposes of the object of con
 
 
 ### Related Definitions
-Non-normative definitions which may assist in interpretation and application of the conformity. 
+**Claim** is a statement about a _Subject_. [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
 
-* **Credential** [103-1]() an assertion of identity, qualification, competence, authority, rights, privileges, permissions, status, eligibility, or asset ownership (or a combination of these). A Credential contains a set of one or more Claims asserted about one or more Subjects.  
+**Credential** is a set of one or more _claims_ asserted about one or more _Subjects_. [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
 
-* **Verifiable Credential** [California](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB786#93ENR) means a cryptographically secure set of information that is both of the following: (A) Created in accordance with open standards that comply with all existing privacy protections. (B) Shared through a user-controlled, portable means that can be authenticated through publicly available services. 
+**Entity** is a thing with a distinct and independent existence, such as a _Person_, _Organization_, or _device_, that can be _Subject_ to legislation, policy, or regulations within a context, and which may have certain rights, duties, and obligations. An _Entity_ can perform one or more roles in the _digital ecosystem_. [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
 
-Further definitions provided by the evaluator or vendor:
-* Relevant definitions
+**Holder** an _Entity_ that controls one or more _Credentials_ from which a _Presentation_ can be expressed to a _Verifier_. A _Holder_ is usually, but not always, the _Subject_ of a _Credential_. [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
 
 
 ## Part 2: Use Cases
 _A description of an appropriate [use case](./use-cases.md) that situates the context where the object of conformity is being used._
 
-1. 
+1. Assert
+    1. Foo
+    1. Bar
+    1. Baz
 
+
+1. Issue
+    1. Alpha
+    1. Beta
+    1. Gamma
 
 ### Conformity Asssessment Requirements
 1. An _Issuer_ must document how its Credential Issuance process to meet the required outcome(s) documented in [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/).

@@ -1,0 +1,27 @@
+input-files:
+ - ${.}/../scheme/objects/objca-table.md
+ - ${.}/../scheme/objects/objca-digital-credential.md
+ - ${.}/../scheme/objects/objca-issuer.md
+
+from: markdown
+
+
+output-file: ${.}/ts-115.docx
+
+to: docx
+
+
+standalone: true
+
+table-of-contents: true
+
+toc-depth: 3
+
+
+fail-if-warnings: true
+
+
+verbosity: INFO
+
+log-file: ${.}/build.log
+
