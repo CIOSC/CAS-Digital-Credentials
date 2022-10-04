@@ -20,7 +20,7 @@ Objects of Conformity Assessment definitions are adapted from a variety of techi
 |**Holder**|an Entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.|PROPOSED|
 |**Storage**|TO DO storage of info - keys, credentails ets.|PROPOSED|
 |**Schema Object**|Schemas are used to list a set of attributes. Issuers of Verifiable Credentials may reference schemas within Credentials they issue in order to provide a layer of semantic interoperability with other issuers utilising the same schema.|PROPOSED|
-|**Credential Definition**|Credential Definitions are used to specify the following information: 1. identifier of the credential issuer, 2. 
-Schema of issued credential. 3. Keys used to sign claims within the credential 4. Crytographic methods used. 5. Revocation methods (optional)|
+|**Credential Definition**| Credential Definitions are used to specify the following information: 1. Identifier of the credential issuer, 2. Schema of issued credential. 3. Keys used to sign claims within the credential 4. Cryptographic methods used. 5. Revocation methods (optional)|
 |**Revocation Registry**|A Revocation Registry contains information required for verifiers to verify whether a revokable verifiable credential has been revoked by the issuer since issuance.|PROPOSED|
+|**Trust Registry**|A Trust Registry answers queries about whether a particular party is trusted and authorized to perform a particular action in a particular context|PROPOSED|
 
