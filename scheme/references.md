@@ -46,6 +46,7 @@ Link to relevant references. All references are provided without warrant or endo
 ## Relevant Blogs and Media Articles
 
 * [Sept 29, 2022 The Importance of Open Source Digital Wallets to the Future of the Internet](https://blog.irvingwb.com/blog/2022/09/the-open-software-foundation.html)
+* [Sept 21, 2022 Decoupling AnonCreds from Hyperledger Indy](https://blog.cheqd.io/anoncreds-indy-pendence-4946367469d4)
 
 ## Technical Specifications for Conformity Assessment
 List of specifications that are recognized within the scheme.
@@ -56,5 +57,6 @@ List of specifications that are recognized within the scheme.
 * [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
 * [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
 
+## Test Harnesses and Suites
 
 
