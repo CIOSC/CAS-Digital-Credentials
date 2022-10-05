@@ -64,6 +64,7 @@ References to specifications,standards and recommendations for consideration as 
 * [DIF DIDComm Messaging Specification](https://identity.foundation/didcomm-messaging/spec/)
 * [DIF Well Known DID Configuration](https://identity.foundation/specs/did-configuration/)
 * [DIF Peer DID Method Specification](https://identity.foundation/specs/did-configuration/)
+* [DIF Secure Data Storage](https://github.com/decentralized-identity/confidential-storage)
 * [OAuth Working Group Specifications: Active Drafts and RFCs](https://oauth.net/specs/)
 * [OpenID for Verifiable Credential Issuance](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
 * [OpenID for Verifiable Presentations](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)
