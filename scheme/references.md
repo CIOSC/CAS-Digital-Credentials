@@ -32,6 +32,7 @@ Link to relevant references. All references are provided without warrant or endo
 * [Hyperledger Aries](https://github.com/hyperledger/aries)
 * [MIT Learner Wallet Specification](https://digitalcredentials.mit.edu/docs/Learner-Credential-Wallet-Specification-May-2021.pdf)
 * [W3C VCWG Technical Plenary](https://docs.google.com/presentation/d/1hrqozY2EGZ8i8y40abyEuJmIb6hCiRS-37pdj6bhBLY/edit)
+* [ToIP Governance Use Cases](https://docs.google.com/document/d/1FfeyooY6Kw016D-UxeM6NnL4lhRoUKJiZa8ctIx1sNg/edit)
 
 
 ## Government (including Legal and Regulatory)
