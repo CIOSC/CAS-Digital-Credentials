@@ -35,7 +35,7 @@ The scope of this scheme specifies the minimum requirements to enable the develo
 
 * The intended application of the conformity assessment scheme is in relation to product certification criteria under [ISO/IEC17065](https://www.iso.org/standard/46568.html).
 
-* This scheme is intended to be used to assess public and private credentiials to ensure they meet the minimum requirements for interoperability, safety, privacy and well-being of Canadians.
+* This scheme is intended to be used to assess public and private credentials to ensure they meet the minimum requirements for interoperability, safety, privacy and well-being of Canadians.
 
 * This scheme will provide technical requirements for digital credentials and digital trust services, with the expectation that these will form the foundation of related conformity assessment solutions.
 
