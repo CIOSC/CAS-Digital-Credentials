@@ -56,6 +56,7 @@ References to specifications,standards and recommendations for consideration as 
 * [Aries Interop Profile](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0302-aries-interop-profile#aries-interop-profile-version-10)
 * [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
 * [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
+* [W3C Verifiable Credential JWT](https://w3c.github.io/vc-jwt/)
 * [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
 * [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
 * [ToIP Trust Registry V1 Protocol Specification](https://github.com/trustoverip/tswg-trust-registry-tf/blob/main/docs/ToIP%20Trust%20Registry%20V1%20Specification.md)
