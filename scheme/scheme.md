@@ -40,7 +40,7 @@ The scope of this scheme specifies the minimum requirements to enable the develo
 * This scheme will provide technical requirements for digital credentials and digital trust services, with the expectation that these will form the foundation of related conformity assessment solutions.
 
 * The scheme will take into account consideratons of: 
-    * Regulatory and market needs for the safe commericialization of digital credentials and digital trust services,
+    * Regulatory and market needs for the safe commercialization of digital credentials and digital trust services,
 
 # Objects of Conformity Assessment
 
