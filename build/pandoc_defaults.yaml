@@ -9,9 +9,8 @@ from: markdown
 
 pdf-engine: pdflatex
 
-output-file: ${.}/ts-115-working-draft.pdf
-
-to: pdf
+# output-file: ${.}/ts-115-working-draft.pdf
+# to: pdf
 
 
 standalone: true
