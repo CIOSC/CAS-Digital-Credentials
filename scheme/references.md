@@ -18,6 +18,7 @@ Link to relevant references. All references are provided without warrant or endo
 
 ## Digital Credential Ecosystems
 * [Open Wallet Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-an-intent-to-form-the-openwallet-foundation)
+* [Open Wallet Foundation GitHub Repo](https://github.com/openwallet-foundation)
 * [Ontario's Digital ID: Technology and standards](https://www.ontario.ca/page/ontarios-digital-id-technology-and-standards)
 * [DHS](https://docs.google.com/spreadsheets/d/1Z4cYfjbbE-rABcfC-xab8miocKLomivYMUFibOh9BVo/edit)
 * [Verifiable Credentials Explained](https://www.lfph.io/wp-content/uploads/2021/04/Verifiable-Credentials-Flavors-Explained-Infographic.pdf)
@@ -80,5 +81,9 @@ References to specifications,standards and recommendations for consideration as 
 * [W3C Verifiable Credentials Working Group Test Suite](https://github.com/w3c/vc-test-suite)
 * [IDLAB W3C VC Conformance Assessment and Testing Report](https://www.idlab.org/en/our-services/assessment-services/w3c-vc-testing/)
 * [IDLAB Assessment Programs](https://www.idlab.org/en/assessment-services/assessment-programs/)
+* [Hyperledger Aries Agent Test Harness](https://github.com/hyperledger/aries-agent-test-harness)
+* [Hyperleger Aries Mobile Test Harness](https://github.com/hyperledger/aries-mobile-test-harness)
+* [Hyperledger Aries Interoperability Information](https://aries-interop.info/)
+
 
 
