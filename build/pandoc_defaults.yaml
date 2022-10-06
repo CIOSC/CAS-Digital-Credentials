@@ -12,6 +12,7 @@ pdf-engine: pdflatex
 # output-file: ${.}/ts-115-working-draft.pdf
 # to: pdf
 
+number-sections: true
 
 standalone: true
 
