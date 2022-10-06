@@ -11,6 +11,7 @@ Link to relevant references. All references are provided without warrant or endo
 
 ## Digital Credential Ecosystems
 * [Digital Credentials Consortium](https://digitalcredentials.mit.edu/)
+* [European Self Sovereign Identity Framework](https://decentralized-id.com/government/europe/eSSIF/)
 * [Open Wallet Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-an-intent-to-form-the-openwallet-foundation)
 * [Open Wallet Foundation GitHub Repo](https://github.com/openwallet-foundation)
 * [Ontario's Digital ID: Technology and standards](https://www.ontario.ca/page/ontarios-digital-id-technology-and-standards)
@@ -28,6 +29,7 @@ Link to relevant references. All references are provided without warrant or endo
 * [MIT Learner Wallet Specification](https://digitalcredentials.mit.edu/docs/Learner-Credential-Wallet-Specification-May-2021.pdf)
 * [W3C VCWG Technical Plenary](https://docs.google.com/presentation/d/1hrqozY2EGZ8i8y40abyEuJmIb6hCiRS-37pdj6bhBLY/edit)
 * [ToIP Governance Use Cases](https://docs.google.com/document/d/1FfeyooY6Kw016D-UxeM6NnL4lhRoUKJiZa8ctIx1sNg/edit)
+* [TRAIN - Trust Management Infrastructure](https://train.trust-scheme.de/info/)
 
 
 ## Government (including Legal and Regulatory)

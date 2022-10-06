@@ -30,5 +30,5 @@ The Technical Specification will support a prototype conformity assessment progr
 * enable interoperability and mutual support for digital credentials and digital trust services nationally and internationally.
 * offer an avenue for product differentiation and competition between developers and providers.
 * provide greater consumer confidence in digital credentials and digital trust services and products, thus potentially helping with adoption.
-* provide a means for third-party assessment of the safety, efficacy, and ethical profile of digital credentials and digital trust services.* 
+* provide a means for third-party assessment of the safety, efficacy, and ethical profile of digital credentials and digital trust services. 
 * provide Canadian governments with a standards-based tool for establishing regulations for digital credentials and digital trust services.

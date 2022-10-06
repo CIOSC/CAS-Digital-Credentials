@@ -1,15 +1,17 @@
 input-files:
- - ${.}/disclaimer.md
+ - ${.}/cover.md
  - ${.}/../scheme/objects/objca-table.md
  - ${.}/../scheme/objects/objca-digital-credential.md
  - ${.}/../scheme/objects/objca-issuer.md
+ - ${.}/../scheme/references.md
 
 from: markdown
 
+pdf-engine: pdflatex
 
-output-file: ${.}/ts-115-working-draft.docx
+output-file: ${.}/ts-115-working-draft.pdf
 
-to: docx
+to: pdf
 
 
 standalone: true
