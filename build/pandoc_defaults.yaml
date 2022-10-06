@@ -6,7 +6,7 @@ input-files:
 from: markdown
 
 
-output-file: ${.}/ts-115.docx
+output-file: ${.}/ts-115-working-draft.docx
 
 to: docx
 

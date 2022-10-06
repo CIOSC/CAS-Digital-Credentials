@@ -1,7 +1,7 @@
 # TS-115
 Digital Credentials Workspace for TS-115:
 
-The technical specification document (.docx) is periodically built from the repo and a working version is available at: [Technical Specification - working version](./build/ts-115.docx). The finalized version resulting from service agreement will be produced and released as a pdf.
+The technical specification document (.docx) is periodically built from the repo and a working version is available at: [Technical Specification - working version](./build/ts-115-working-draft.docx). The finalized version resulting from service agreement will be produced and released as a pdf.
 
 # Project Detail Summary
 * This project is being carried out under CIOSC Service Agreement No. 2022‐07 ‐ National Technical Specification for digital credentials and digital trust services. An excerpt of the [statement of work](./docs/statement-of-work.md) is available.
