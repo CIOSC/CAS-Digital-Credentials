@@ -45,11 +45,14 @@ Link to relevant references. All references are provided without warrant or endo
 * [EBSI Publications](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/What+is+ebsi)
 
 
-## Relevant Blogs and Media Articles
+## Industry Reports, Blogs, Media Articles, etc.
 
 * [Sept 29, 2022 The Importance of Open Source Digital Wallets to the Future of the Internet](https://blog.irvingwb.com/blog/2022/09/the-open-software-foundation.html)
 * [Sept 21, 2022 Decoupling AnonCreds from Hyperledger Indy](https://blog.cheqd.io/anoncreds-indy-pendence-4946367469d4)
 * [July 27, 2022 Aries Agent Test Harness Enhancemement Project](https://www.idlab.org/en/aries-agent-test-harness-enhancement-project/)
+* [Oct 27, 2021 continuumloop Digital Wallet Report](https://thewalletwars.s3.amazonaws.com/Wallet-UPDATE-Webinar-27OCT2021.pdf)
+* [Apr 28, 2019 continuumloop The Current and Future State of Digital Wallets](https://www.continuumloop.com/wp-content/uploads/2022/02/The-Current-and-Future-State-of-Digital-Wallets-v1.0-FINAL.pdf)
+
 
 ## Specfications, Standards and Recommendations for Conformity Assessment
 References to specifications,standards and recommendations for consideration as part of the conformity assessment scheme.
