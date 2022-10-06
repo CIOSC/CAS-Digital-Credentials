@@ -27,7 +27,7 @@ _A description of an appropriate [use case](./use-cases.md) that situates the co
 * ...
 
 
-## Part3: Selection of Product, Service and Process
+## Part 3: Selection of Product, Service and Process
 
 _Selection of the product, service and/or process that is being tested in relation to the specified requirements._
 

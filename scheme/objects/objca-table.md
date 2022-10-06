@@ -1,6 +1,6 @@
 # Objects of Conformity Assessment Schedule
 
-Objects of Conformity Assessment definitions are adapted from a variety of techical specifications and standards. 
+Objects of Conformity Assessment definitions are adapted from selected techical specifications and standards. The definition reflects an agreed on understanding of what is required of the object for the purposes of conformity assessment testing.
 
 These definitions are intended to be: 
 * CONCISE as agreed on by the technical experts.
@@ -16,7 +16,8 @@ These definitions are intended to be:
 
 |Object of Conformity Assessment |Object of Conformity Assessment Definition|Status|
 |----|----|----|
-|**Credential**|A portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information.|[SPEC](./objca-digital-credential.md)|
+|**Digital Credential**|A portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information.|[SPEC](./objca-digital-credential.md)|
+|**Digital Trust Services**|Digital trust services are enabling services for digital credentials, such as a blockchain-based verifiable data registries, issuing and verifying services, and digital wallets.|PROPOSED| 
 |**Identifier**|The set of identity attributes used to uniquely distinguish a particular Entity within a population. [CIOSC]()|PROPOSED|
 |**Issuer**|an Entity that asserts one or more Claims about one or more Subjects, creates a Credential from these Claims, and assigns the Credential to a Holder.  |[SPEC](./objca-issuer.md)|
 |**Verifier**|An Entity that accepts a Presentation from a Holder for the purposes of delivering services or administering programs. PROPOSED|

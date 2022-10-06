@@ -1,4 +1,5 @@
 input-files:
+ - ${.}/disclaimer.md
  - ${.}/../scheme/objects/objca-table.md
  - ${.}/../scheme/objects/objca-digital-credential.md
  - ${.}/../scheme/objects/objca-issuer.md
