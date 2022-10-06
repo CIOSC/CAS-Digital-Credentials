@@ -3,7 +3,7 @@
 ## Part 1: Object of Conformity Assessment Definition
 _Normative definition and description used for the purposes of the object of conformity assessment._
 
-**Issuer** is an _Entity_ that asserts one or more _claims_ about one or more _Subjects_, creates a _Credential_ from these _claims_, and assigns the _Credential_ to a _Holder_. [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
+>**Issuer** is an _Entity_ that asserts one or more _claims_ about one or more _Subjects_, creates a _Credential_ from these _claims_, and assigns the _Credential_ to a _Holder_. [CAN/CIOSC 103-1:2020](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
 
 
 ### Related Definitions

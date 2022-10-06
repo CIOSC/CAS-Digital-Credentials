@@ -14,6 +14,9 @@ These definitions are intended to be:
 * FINALIZED - definition finalized by the working grou. 
 * SPEC [Link to specification (template example)](./objca-template.md)
 
+## Objects of Conformity Asessment Definitions
+Defined and listed in the table below
+
 |Object of Conformity Assessment |Object of Conformity Assessment Definition|Status|
 |----|----|----|
 |**Digital Credential**|A portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information.|[SPEC](./objca-digital-credential.md)|
@@ -26,8 +29,33 @@ These definitions are intended to be:
 |**Holder**|An Entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.|PROPOSED|
 |**Storage**|TO DO|PROPOSED|
 |**Schema Object**|Schemas are used to list a set of attributes. Issuers of Verifiable Credentials may reference schemas within Credentials they issue in order to provide a layer of semantic interoperability with other issuers utilising the same schema.|PROPOSED|
-|**Credential Definition**| Credential Definitions are used to specify the following information: 1. Identifier of the credential issuer, 2. Schema of issued credential. 3. Keys used to sign claims within the credential 4. Cryptographic methods used. 5. Revocation methods (optional)|
+|**Credential Format**| A Credential Format is used to specify: 1. Identifier of the credential issuer, 2. Schema of issued credential. 3. Keys used to sign claims within the credential 4. Cryptographic methods used. 5. Revocation methods (optional)|[SPEC](./objca-credential-format.md)
 |**Revocation Registry**|A Revocation Registry contains information required for verifiers to verify whether a revokable verifiable credential has been revoked by the issuer since issuance.|PROPOSED|
 |**Trust Registry**|A Trust Registry answers queries about whether a particular party is trusted and authorized to perform a particular action in a particular context. A system role that mediate the creation and verification of identifiers, keys, and other relevant data, such as verifiable credential schemas, revocation registries and issuer public keys.|PROPOSED|
 |**Messaging Protocol**|A Messaging Protocol supports identifier-based relationships, credential exchanges, and specialized application workflows in a manner that ensures privacy and security.|PROPOSED|
+
+### Other Proposed (from DHS)
+* Signing Algorithm
+* Revocation Algorithm
+* Key Management - Issuer
+* Key Management - Holder
+* Encoding Scheme
+* Rich Schemas / Semantic
+* Selective Disclosure
+* Predicates
+
+## Recognized Bodies
+A recognized body is any organziation that develops a standards, specifications or recommendation that is used is conjuction with conformity assessment scheme.
+
+(To be reviewed:)
+* DIF 
+* FIDO
+* Hyperledger
+* IETF
+* ISO
+* ICAO
+* ToIP
+* W3C
+* 
+
 
