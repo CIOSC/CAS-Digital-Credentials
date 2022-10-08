@@ -95,4 +95,4 @@ References to specifications,standards and recommendations for consideration as 
 * [Cryptography Review of W3C Verifiable Credentials Data Model (VCDM) and Decentralized Identifiers (DIDs) Standards and Cryptography Implementation Recommendations](http://www.csl.sri.com/papers/vcdm-did-crypto-recs/)
 * [Cross Community Architecture Survey](https://github.com/decentralized-identity/decentralized-identity.github.io/blob/master/assets/crosscommunity-architecture-survey-oct-2020.pdf)
 
-
+--end--
