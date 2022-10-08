@@ -26,7 +26,7 @@ The scope of this scheme specifies the minimum requirements to enable the develo
 
 **Digital Credentials** are portable digital records about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. They are the digital representation of traditional physical certificates or information, such as:
 * Personal identification
-* Proof of payment (e.g., plance ticket)
+* Proof of payment (e.g., plane ticket)
 * Certificate of incorporation
 * University degrees
 
@@ -35,12 +35,12 @@ The scope of this scheme specifies the minimum requirements to enable the develo
 
 * The intended application of the conformity assessment scheme is in relation to product certification criteria under [ISO/IEC17065](https://www.iso.org/standard/46568.html).
 
-* This scheme is intended to be used to assess public and private credentidials to ensure they meet the minimum requirements for interoperability, safety, privacy and well-being of Canadians.
+* This scheme is intended to be used to assess public and private credentials to ensure they meet the minimum requirements for interoperability, safety, privacy and well-being of Canadians.
 
-* This scheme will provide technical requirements for digital requirements and digital trust services, with the expectation that these will form the foundation of related conformity assessment solutions.
+* This scheme will provide technical requirements for digital credentials and digital trust services, with the expectation that these will form the foundation of related conformity assessment solutions.
 
 * The scheme will take into account consideratons of: 
-    * Regulatory and market needs for the safe commericialization of digital credentials and digital trust services,
+    * Regulatory and market needs for the safe commercialization of digital credentials and digital trust services,
 
 # Objects of Conformity Assessment
 
