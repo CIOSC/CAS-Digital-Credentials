@@ -93,5 +93,6 @@ References to specifications,standards and recommendations for consideration as 
 * [Oct 27, 2021 continuumloop Digital Wallet Report](https://thewalletwars.s3.amazonaws.com/Wallet-UPDATE-Webinar-27OCT2021.pdf)
 * [Apr 28, 2019 continuumloop The Current and Future State of Digital Wallets](https://www.continuumloop.com/wp-content/uploads/2022/02/The-Current-and-Future-State-of-Digital-Wallets-v1.0-FINAL.pdf)
 * [Cryptography Review of W3C Verifiable Credentials Data Model (VCDM) and Decentralized Identifiers (DIDs) Standards and Cryptography Implementation Recommendations](http://www.csl.sri.com/papers/vcdm-did-crypto-recs/)
+* [Cross Community Architecture Survey](https://github.com/decentralized-identity/decentralized-identity.github.io/blob/master/assets/crosscommunity-architecture-survey-oct-2020.pdf)
 
 
