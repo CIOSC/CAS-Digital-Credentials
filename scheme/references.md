@@ -82,6 +82,7 @@ References to specifications,standards and recommendations for consideration as 
 * [W3C did:key Method Specificatin](https://w3c-ccg.github.io/did-method-key/)
 * [W3C did:web Method Specification](https://w3c-ccg.github.io/did-method-web/)
 
+
 ## Services, Test Suites and Demonstration Instances
 
 * [Universal Resolver: GitHub Repo](https://github.com/decentralized-identity/universal-resolver)
