@@ -1,20 +1,19 @@
 # Objects of Conformity Assessment Schedule
 
-Objects of Conformity Assessment definitions are adapted from selected techical specifications and standards. The definition reflects an agreed on understanding of what is required of the object for the purposes of conformity assessment testing.
+Objects of Conformity Assessment definitions are adapted from selected techical specifications and standards and agreed to by the working group. The definition reflects a common understanding of what is required to define scope of method of test for the purposes of conformity.
 
-These definitions are intended to be: 
+THe objects of conformity assessment definitions are intended to be: 
 * CONCISE as agreed on by the technical experts.
 * NORMATIVE in relation to the conformity assessment scheme, scope, requirements and method of test.
 * NON-NORMATIVE in relation to other standards, specifications and recommendations.
 * SUBSTANTIVE to assist in the mapping and scoping of product, process or service components for the purposes of conformity assessment.
 
-*Status* field has the following values"
-* **PROPOSED** - proposed to the working group
-* **DRAFT** - in active draft by the working group
-* **PILOT** - consideration for pilot as part of a conformity asssessment program (note: definition may still be in draft)
-* **PROGRAM** - finalized by the working group and 
+*Status* field has the following values:
+* **PROPOSED** - proposed by technical experts and contributors.
+* **DRAFT** - in active draft by the techical experts with [link to object of conformity assessment specification (template example)](./objca-template.md)
+* **PILOT** - approved by the sponsor for pilot as part of a prototype conformity asssessment program (note: material may still be in draft phase)
+* **RELEASED** - material is finalized and released as part of a published deliverable. 
 
-* SPEC [Link to specification (template example)](./objca-template.md)
 
 ## Objects of Conformity Asessment Definitions
 Defined and listed in the table below
@@ -23,11 +22,11 @@ Defined and listed in the table below
 |----|----|----|
 |**Digital Credential**|`A portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information.`|[DRAFT](./objca-digital-credential.md)|
 |**Digital Trust Service**|`Digital trust services is enabling service for digital credentials, such as a blockchain-based verifiable data registry, issuing and verifying services, and, digital wallets.`|PROPOSED| 
-|**Identifier**|`The set of identity attributes used to uniquely distinguish a particular Entity within a population.` [CIOSC]()|PROPOSED|
+|**Identifier**|`The set of identity attributes used to uniquely distinguish a particular Entity within a population.`|PROPOSED|
 |**Issuer**|`An Entity that asserts one or more Claims about one or more Subjects, creates a Credential from these Claims, and assigns the Credential to a Holder.`|[DRAFT](./objca-issuer.md)|
 |**Verifier**|`An Entity that accepts a Presentation (Proof) from a Holder for the purposes of delivering services, administering programs or yielding an ACCEPT or REJECT decision.`| PROPOSED|
 |**Key**|`A key is data structure that represents a cryptographic key.`|PROPOSED|
-|Presentation|`A Presentaion isinformation derived from one or more Credentials. The source Credentials may have been issued by different Issuers.`|PROPOSED|
+|**Presentation**|`A Presentaion isinformation derived from one or more Credentials. The source Credentials may have been issued by different Issuers.`|PROPOSED|
 |**Signature**|`An electronic representation where, at a minimum: the Entity signing the data can be associated with the electronic representation, it is clear that the Entity intended to sign, the reason or purpose for signing is conveyed, and the data integrity of the signed transaction is maintained, including the original. <br> **Alternate definition:** A key represents content secured with a digital   signature or message authentication code` |PROPOSED|
 |**Holder**|`An Entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.`|PROPOSED|
 |**Cryptographic Proof**|`A Cryptographic Proof is a method by which one party (the prover) can prove to another party (the verifier) that a given statement is true without conveying additional information apart from the fact that the statement is true.`|PROPOSED|
