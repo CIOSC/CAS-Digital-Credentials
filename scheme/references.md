@@ -84,9 +84,10 @@ References to specifications,standards and recommendations for consideration as 
 * [Hyperledger Aries Agent Test Harness](https://github.com/hyperledger/aries-agent-test-harness)
 * [Hyperleger Aries Mobile Test Harness](https://github.com/hyperledger/aries-mobile-test-harness)
 * [Hyperledger Aries Interoperability Information](https://aries-interop.info/)
+* [Tonomy DID-JWT-VC implementation](https://github.com/Tonomy-Foundation/Antelope-SSI-Toolkit/issues/17#issuecomment-1263319391)
 
 
-## Industry Reports, Blogs, Media Articles, etc.
+## Industry/Vendor Reports, Blogs, Media Articles, etc.
 
 * [Sept 29, 2022 The Importance of Open Source Digital Wallets to the Future of the Internet](https://blog.irvingwb.com/blog/2022/09/the-open-software-foundation.html)
 * [Sept 21, 2022 Decoupling AnonCreds from Hyperledger Indy](https://blog.cheqd.io/anoncreds-indy-pendence-4946367469d4)
@@ -95,5 +96,9 @@ References to specifications,standards and recommendations for consideration as 
 * [Apr 28, 2019 continuumloop The Current and Future State of Digital Wallets](https://www.continuumloop.com/wp-content/uploads/2022/02/The-Current-and-Future-State-of-Digital-Wallets-v1.0-FINAL.pdf)
 * [Cryptography Review of W3C Verifiable Credentials Data Model (VCDM) and Decentralized Identifiers (DIDs) Standards and Cryptography Implementation Recommendations](http://www.csl.sri.com/papers/vcdm-did-crypto-recs/)
 * [Cross Community Architecture Survey](https://github.com/decentralized-identity/decentralized-identity.github.io/blob/master/assets/crosscommunity-architecture-survey-oct-2020.pdf)
+* [Tonomy - How Best to Implement and in which VC Library?](https://docs.google.com/presentation/d/1DsjJOfOCMhfXJgATbQAt6Ugk9Vmbq0zVrzL8thgsGVI/edit?usp=sharing)
+
+## Academic Research and Papers
+*[Stanford Proofs in Cyptography](https://crypto.stanford.edu/~ananthr/docs/crypto-proofs.pdf)
 
 --end--
