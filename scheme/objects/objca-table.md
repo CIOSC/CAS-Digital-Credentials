@@ -36,7 +36,7 @@ Defined and listed in the table below
 |**Credential Proof**|`see Cryptographic Proof`|TODO|
 |**Credential Exchange**|`Credential Exchange is the set of protocols required to 1. Issue a Credential to a Holder, 2) Present a Proof to a Verifier`|TODO|
 |**Credential Binding**|`Credential Binding is the process of associating a Credential issued to a Holder`|TODO|
-|**Credential Data Model**|A credential data model organizes elements of data and standardizes how they relate to one another and to the properties of real-world|PROPOSED|
+|**Credential Data Model**|`A credential data model organizes elements of data and standardizes how they relate to one another and to the properties of real-world`|PROPOSED|
 |**DID Methods**|description|TODO|
 |**Revocation Registry**|`A Revocation Registry contains information required for verifiers to verify whether a revokable verifiable credential has been revoked by the issuer since issuance.`|PROPOSED|
 |**Trust Registry**|`A Trust Registry answers queries about whether a particular party is trusted and authorized to perform a particular action in a particular context. A system role that mediate the creation and verification of identifiers, keys, and other relevant data, such as verifiable credential schemas, revocation registries and issuer public keys.`|PROPOSED|
