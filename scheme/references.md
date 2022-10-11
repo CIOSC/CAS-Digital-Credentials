@@ -31,11 +31,13 @@ Link to relevant references. All references are provided without warrant or endo
 * [W3C VCWG Technical Plenary](https://docs.google.com/presentation/d/1hrqozY2EGZ8i8y40abyEuJmIb6hCiRS-37pdj6bhBLY/edit)
 * [ToIP Governance Use Cases](https://docs.google.com/document/d/1FfeyooY6Kw016D-UxeM6NnL4lhRoUKJiZa8ctIx1sNg/edit)
 * [TRAIN - Trust Management Infrastructure](https://train.trust-scheme.de/info/)
+* [Centre Verite DOCS](https://docs.centre.io/verite/patterns/identifier)
 
 
 ## Government (including Legal and Regulatory)
 * [Government of Canada Digital Credentials](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html)
 * [User-Centric Verifiable Digital Credentials](https://github.com/canada-ca/ucvdcc)
+* [Public Sector Profile of the Pan-Canadian Trust Framework V1.4](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
 * [California Legislature: SB-786 County birth, death, and marriage records: blockchain](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB786#93ENR)
 * [DHS Scaling Interoperability](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/att-0027/DHS.SVIP-Scaling.W3C.VC.DID.Interoperability-SHARE_20220712.pdf)
 * [DHS Implementation Profile](/docs/DHS.W3C.VC-DID.Implemenation.Profile-20220929-SHARE.pdf)
@@ -49,21 +51,31 @@ Link to relevant references. All references are provided without warrant or endo
 ## Specifications, Standards and Recommendations for Conformity Assessment
 References to specifications,standards and recommendations for consideration as part of the conformity assessment scheme.
 
+* [CAN/CIOSC 103-1 Digital Trust and Identity - Part 1 - Fundamentals](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
 * [Hyperledger AnonCreds](https://anoncreds-wg.github.io/anoncreds-spec/)
 * [Hyperledger Aries Interop Profile](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0302-aries-interop-profile#aries-interop-profile-version-10)
 * [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
 * [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
 * [W3C Verifiable Credential JWT](https://w3c.github.io/vc-jwt/)
+* [W3C did:key Method Specificatin](https://w3c-ccg.github.io/did-method-key/)
+* [W3C did:web Method Specification](https://w3c-ccg.github.io/did-method-web/)
 * [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
 * [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
 * [IEFT CBOR Web Token RFC 8392](https://datatracker.ietf.org/doc/rfc8392/)
 * [IETF JSON Web Proof](https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html)
+* [IETF Multibase Format](https://datatracker.ietf.org/doc/html/draft-multiformats-multibase-03)
+* [IETF Multiformant Code Registrations](https://datatracker.ietf.org/doc/html/draft-snell-multicodec-00)
+
 * [ToIP Trust Registry V1 Protocol Specification](https://github.com/trustoverip/tswg-trust-registry-tf/blob/main/docs/ToIP%20Trust%20Registry%20V1%20Specification.md)
 * [DIF DIDComm Messaging Specification](https://identity.foundation/didcomm-messaging/spec/)
 * [DIF Well Known DID Configuration](https://identity.foundation/specs/did-configuration/)
 * [DIF Peer DID Method Specification](https://identity.foundation/specs/did-configuration/)
 * [DIF Confidential Data Storage](https://github.com/decentralized-identity/confidential-storage)
 * [DIF BBS Signature Scheme](https://identity.foundation/bbs-signature/draft-looker-cfrg-bbs-signatures.html)
+* [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/)
+* [DIF Credential Manifest](https://identity.foundation/credential-manifest/)
+* [DIF Wallet and Credential Interactions](https://identity.foundation/wallet-and-credential-interactions/)
+
 * [ICAO Guiding Core Principles for the Development of Digital Travel Credential](https://www.icao.int/Security/FAL/TRIP/PublishingImages/Pages/Publications/Guiding%20core%20principles%20for%20the%20development%20of%20a%20Digital%20Travel%20Credential%20%20%28DTC%29.PDF)
 * [ICAO Machine Readable Travel Documents](https://www.icao.int/publications/pages/publication.aspx?docnum=9303)
 * [OAuth Working Group Specifications: Active Drafts and RFCs](https://oauth.net/specs/)
@@ -86,6 +98,7 @@ References to specifications,standards and recommendations for consideration as 
 * [Hyperleger Aries Mobile Test Harness](https://github.com/hyperledger/aries-mobile-test-harness)
 * [Hyperledger Aries Interoperability Information](https://aries-interop.info/)
 * [Tonomy DID-JWT-VC implementation](https://github.com/Tonomy-Foundation/Antelope-SSI-Toolkit/issues/17#issuecomment-1263319391)
+* [W3C Status List 2021](https://w3c-ccg.github.io/vc-status-list-2021/)
 
 
 ## Industry/Vendor Reports, Blogs, Media Articles, etc.
@@ -101,5 +114,17 @@ References to specifications,standards and recommendations for consideration as 
 
 ## Academic Research and Papers
 *[Stanford Proofs in Cyptography](https://crypto.stanford.edu/~ananthr/docs/crypto-proofs.pdf)
+
+
+## Libraries
+Implementation libraries
+
+* [DIF did-jwt-vc](https://github.com/decentralized-identity/did-jwt-vc)
+* [DIF did-resolver](https://github.com/decentralized-identity/did-resolver)
+* [DIF web-did-resolver](https://github.com/decentralized-identity/web-did-resolver)
+* [DIF key-did-resolver](https://github.com/ceramicnetwork/js-ceramic/tree/develop/packages/key-did-resolver)
+
+
+
 
 --end--
