@@ -50,21 +50,6 @@ Link to relevant references. All references are provided without warrant or endo
 References to specifications,standards and recommendations for consideration as part of the conformity assessment scheme.
 
 * [CAN/CIOSC 103-1 Digital Trust and Identity - Part 1 - Fundamentals](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
-* [Hyperledger AnonCreds](https://anoncreds-wg.github.io/anoncreds-spec/)
-* [Hyperledger Aries Interop Profile](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0302-aries-interop-profile#aries-interop-profile-version-10)
-* [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
-* [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
-* [W3C Verifiable Credential JWT](https://w3c.github.io/vc-jwt/)
-* [W3C did:key Method Specification](https://w3c-ccg.github.io/did-method-key/)
-* [W3C did:web Method Specification](https://w3c-ccg.github.io/did-method-web/)
-* [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
-* [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
-* [IEFT CBOR Web Token RFC 8392](https://datatracker.ietf.org/doc/rfc8392/)
-* [IETF JSON Web Proof](https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html)
-* [IETF Multibase Format](https://datatracker.ietf.org/doc/html/draft-multiformats-multibase-03)
-* [IETF Multiformant Code Registrations](https://datatracker.ietf.org/doc/html/draft-snell-multicodec-00)
-
-* [ToIP Trust Registry V1 Protocol Specification](https://github.com/trustoverip/tswg-trust-registry-tf/blob/main/docs/ToIP%20Trust%20Registry%20V1%20Specification.md)
 * [DIF DIDComm Messaging Specification](https://identity.foundation/didcomm-messaging/spec/)
 * [DIF Well Known DID Configuration](https://identity.foundation/specs/did-configuration/)
 * [DIF Peer DID Method Specification](https://identity.foundation/specs/did-configuration/)
@@ -82,10 +67,10 @@ References to specifications,standards and recommendations for consideration as 
 * [IETF CBOR Web Token RFC 8392](https://datatracker.ietf.org/doc/rfc8392/)
 * [IETF JSON Web Proof](https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html)
 * [IETF Multibase Format](https://datatracker.ietf.org/doc/html/draft-multiformats-multibase-03)
-* [IETF Multiformant Code Registrations](https://datatracker.ietf.org/doc/html/draft-snell-multicodec-00)
+* [IETF Multiformatt Code Registrations](https://datatracker.ietf.org/doc/html/draft-snell-multicodec-00)
+* [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
 * [ITU Public-key and attribute certificate frameworks ](https://www.itu.int/rec/T-REC-X.509)
 * [ITU Recommendation X.509 (10/19)](https://www.itu.int/rec/T-REC-X.509-201910-I/en)
-* [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
 * [OAuth Working Group Specifications: Active Drafts and RFCs](https://oauth.net/specs/)
 * [OpenID for Verifiable Credential Issuance](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
 * [OpenID for Verifiable Presentations](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)
@@ -96,7 +81,6 @@ References to specifications,standards and recommendations for consideration as 
 * [W3C Verifiable Credential JWT](https://w3c.github.io/vc-jwt/)
 * [W3C did:key Method Specificatin](https://w3c-ccg.github.io/did-method-key/)
 * [W3C did:web Method Specification](https://w3c-ccg.github.io/did-method-web/)
-
 
 ## Services, Test Suites and Demonstration Instances
 
