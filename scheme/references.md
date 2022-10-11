@@ -46,12 +46,11 @@ Link to relevant references. All references are provided without warrant or endo
 * [Europen Digital Identity Wallet Consortium](https://eudiwalletconsortium.org/)
 
 
-
-
 ## Specifications, Standards and Recommendations for Conformity Assessment
 References to specifications,standards and recommendations for consideration as part of the conformity assessment scheme.
 
 * [CAN/CIOSC 103-1 Digital Trust and Identity - Part 1 - Fundamentals](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
+<<<<<<< HEAD
 * [Hyperledger AnonCreds](https://anoncreds-wg.github.io/anoncreds-spec/)
 * [Hyperledger Aries Interop Profile](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0302-aries-interop-profile#aries-interop-profile-version-10)
 * [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
@@ -67,6 +66,8 @@ References to specifications,standards and recommendations for consideration as 
 * [IETF Multiformant Code Registrations](https://datatracker.ietf.org/doc/html/draft-snell-multicodec-00)
 
 * [ToIP Trust Registry V1 Protocol Specification](https://github.com/trustoverip/tswg-trust-registry-tf/blob/main/docs/ToIP%20Trust%20Registry%20V1%20Specification.md)
+=======
+>>>>>>> reference
 * [DIF DIDComm Messaging Specification](https://identity.foundation/didcomm-messaging/spec/)
 * [DIF Well Known DID Configuration](https://identity.foundation/specs/did-configuration/)
 * [DIF Peer DID Method Specification](https://identity.foundation/specs/did-configuration/)
@@ -75,16 +76,29 @@ References to specifications,standards and recommendations for consideration as 
 * [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/)
 * [DIF Credential Manifest](https://identity.foundation/credential-manifest/)
 * [DIF Wallet and Credential Interactions](https://identity.foundation/wallet-and-credential-interactions/)
-
+* [FIDO Alliance Specifications](https://fidoalliance.org/specifications/download/)
+* [Hyperledger AnonCreds](https://anoncreds-wg.github.io/anoncreds-spec/)
+* [Hyperledger Aries Interop Profile](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0302-aries-interop-profile#aries-interop-profile-version-10)
 * [ICAO Guiding Core Principles for the Development of Digital Travel Credential](https://www.icao.int/Security/FAL/TRIP/PublishingImages/Pages/Publications/Guiding%20core%20principles%20for%20the%20development%20of%20a%20Digital%20Travel%20Credential%20%20%28DTC%29.PDF)
 * [ICAO Machine Readable Travel Documents](https://www.icao.int/publications/pages/publication.aspx?docnum=9303)
-* [OAuth Working Group Specifications: Active Drafts and RFCs](https://oauth.net/specs/)
+* [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
+* [IETF CBOR Web Token RFC 8392](https://datatracker.ietf.org/doc/rfc8392/)
+* [IETF JSON Web Proof](https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html)
+* [IETF Multibase Format](https://datatracker.ietf.org/doc/html/draft-multiformats-multibase-03)
+* [IETF Multiformant Code Registrations](https://datatracker.ietf.org/doc/html/draft-snell-multicodec-00)
 * [ITU Public-key and attribute certificate frameworks ](https://www.itu.int/rec/T-REC-X.509)
 * [ITU Recommendation X.509 (10/19)](https://www.itu.int/rec/T-REC-X.509-201910-I/en)
+* [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
+* [OAuth Working Group Specifications: Active Drafts and RFCs](https://oauth.net/specs/)
 * [OpenID for Verifiable Credential Issuance](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
 * [OpenID for Verifiable Presentations](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)
 * [OpenID for Self-Issued OpenID Provider v2](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
-* [FIDO Alliance Specifications](https://fidoalliance.org/specifications/download/)
+* [ToIP Trust Registry V1 Protocol Specification](https://github.com/trustoverip/tswg-trust-registry-tf/blob/main/docs/ToIP%20Trust%20Registry%20V1%20Specification.md)
+* [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
+* [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
+* [W3C Verifiable Credential JWT](https://w3c.github.io/vc-jwt/)
+* [W3C did:key Method Specificatin](https://w3c-ccg.github.io/did-method-key/)
+* [W3C did:web Method Specification](https://w3c-ccg.github.io/did-method-web/)
 
 
 ## Services, Test Suites and Demonstration Instances
@@ -114,7 +128,6 @@ References to specifications,standards and recommendations for consideration as 
 
 ## Academic Research and Papers
 *[Stanford Proofs in Cyptography](https://crypto.stanford.edu/~ananthr/docs/crypto-proofs.pdf)
-
 
 ## Libraries
 Implementation libraries
