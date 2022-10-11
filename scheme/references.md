@@ -50,7 +50,6 @@ Link to relevant references. All references are provided without warrant or endo
 References to specifications,standards and recommendations for consideration as part of the conformity assessment scheme.
 
 * [CAN/CIOSC 103-1 Digital Trust and Identity - Part 1 - Fundamentals](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
-<<<<<<< HEAD
 * [Hyperledger AnonCreds](https://anoncreds-wg.github.io/anoncreds-spec/)
 * [Hyperledger Aries Interop Profile](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0302-aries-interop-profile#aries-interop-profile-version-10)
 * [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
@@ -66,8 +65,6 @@ References to specifications,standards and recommendations for consideration as 
 * [IETF Multiformant Code Registrations](https://datatracker.ietf.org/doc/html/draft-snell-multicodec-00)
 
 * [ToIP Trust Registry V1 Protocol Specification](https://github.com/trustoverip/tswg-trust-registry-tf/blob/main/docs/ToIP%20Trust%20Registry%20V1%20Specification.md)
-=======
->>>>>>> reference
 * [DIF DIDComm Messaging Specification](https://identity.foundation/didcomm-messaging/spec/)
 * [DIF Well Known DID Configuration](https://identity.foundation/specs/did-configuration/)
 * [DIF Peer DID Method Specification](https://identity.foundation/specs/did-configuration/)
