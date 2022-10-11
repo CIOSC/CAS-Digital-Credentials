@@ -17,6 +17,8 @@ Further definitions provided by the evaluator or vendor:
 ## Part 2: Use Cases
 _A description of an appropriate [use case](./use-cases.md) that situates the context where the object of conformity is being used._
 
+1. The use case must describe a WALLET scenario or an ISSUER scenario.
+
 
 ### Conformity Asssessment Requirements
 1. A relevant use case MUST be provided to illustrate how the object of conformity behaves in context.
@@ -33,6 +35,11 @@ _Selection of the product, service and/or process that is being tested in relati
 * LD Proofs with BBS+
 * ISO mDL
 * JWT
+* JSON-JWT
+* JSON-LD
+* JSON-LD with LD Signatures
+* JSON-LD ZKP with BBS+
+* JWP
 
 
 

@@ -24,8 +24,9 @@ Defined and listed in the table below
 |**Identifier**|The set of identity attributes used to uniquely distinguish a particular Entity within a population. [CIOSC]()|PROPOSED|
 |**Issuer**|an Entity that asserts one or more Claims about one or more Subjects, creates a Credential from these Claims, and assigns the Credential to a Holder.  |[DRAFT](./objca-issuer.md)|
 |**Verifier**|An Entity that accepts a Presentation from a Holder for the purposes of delivering services or administering programs. PROPOSED|
+|**Key**|A key is data structure that represents a cryptographic key.|PROPOSED|
 |Presentation|information derived from one or more Credentials. The source Credentials may have been issued by different Issuers. |PROPOSED|
-|**Signature**|An electronic representation where, at a minimum: the Entity signing the data can be associated with the electronic representation, it is clear that the Entity intended to sign, the reason or purpose for signing is conveyed, and the data integrity of the signed transaction is maintained, including the original. |PROPOSED|
+|**Signature**|An electronic representation where, at a minimum: the Entity signing the data can be associated with the electronic representation, it is clear that the Entity intended to sign, the reason or purpose for signing is conveyed, and the data integrity of the signed transaction is maintained, including the original. <br> **Alternate definition:** A key represents content secured with a digital   signature or message authentication code |PROPOSED|
 |**Holder**|An Entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.|PROPOSED|
 |**Storage**|TO DO|PROPOSED|
 |**Schema Object**|Schemas are used to list a set of attributes. Issuers of Verifiable Credentials may reference schemas within Credentials they issue in order to provide a layer of semantic interoperability with other issuers utilising the same schema.|PROPOSED|
