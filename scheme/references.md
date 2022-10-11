@@ -57,7 +57,7 @@ References to specifications,standards and recommendations for consideration as 
 * [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
 * [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
 * [W3C Verifiable Credential JWT](https://w3c.github.io/vc-jwt/)
-* [W3C did:key Method Specificatin](https://w3c-ccg.github.io/did-method-key/)
+* [W3C did:key Method Specification](https://w3c-ccg.github.io/did-method-key/)
 * [W3C did:web Method Specification](https://w3c-ccg.github.io/did-method-web/)
 * [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
 * [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
