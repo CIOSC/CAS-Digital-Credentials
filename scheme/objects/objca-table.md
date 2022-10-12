@@ -2,12 +2,12 @@
 
 Objects of Conformity Assessment definitions are adapted from selected techical specifications and standards and agreed to by the working group. The definition reflects a common understanding of what is required to define scope of method of test for the purposes of conformity.
 
-THe objects of conformity assessment definitions are intended to be:
+The objects of conformity assessment definitions are intended to be:
 
-* CONCISE as agreed on by the technical experts.
-* NORMATIVE in relation to the conformity assessment scheme, scope, requirements and method of test.
-* NON-NORMATIVE in relation to other standards, specifications and recommendations.
-* SUBSTANTIVE to assist in the mapping and scoping of product, process or service components for the purposes of conformity assessment.
+* **CONCISE** as agreed on by the technical experts.
+* **NORMATIVE** in relation to the conformity assessment scheme, scope, requirements and method of test.
+* **NON-NORMATIVE** in relation to other standards, specifications and recommendations.
+* **SUBSTANTIVE** to assist in the mapping and scoping of product, process or service components for the purposes of conformity assessment.
 
 *Status* field has the following values:
 
@@ -28,8 +28,8 @@ Defined and listed in the table below
 |**Issuer**|`An Entity that asserts one or more Claims about one or more Subjects, creates a Credential from these Claims, and assigns the Credential to a Holder.`|[DRAFT](./objca-issuer.md)|
 |**Verifier**|`An Entity that accepts a Presentation (Proof) from a Holder for the purposes of delivering services, administering programs or yielding an ACCEPT or REJECT decision.`| PROPOSED|
 |**Key**|`A key is data structure that represents a cryptographic key.`|PROPOSED|
-|**Presentation**|`A Presentaion isinformation derived from one or more Credentials. The source Credentials may have been issued by different Issuers.`|PROPOSED|
-|**Signature**|`An electronic representation where, at a minimum: the Entity signing the data can be associated with the electronic representation, it is clear that the Entity intended to sign, the reason or purpose for signing is conveyed, and the data integrity of the signed transaction is maintained, including the original. <br> **Alternate definition:** A key represents content secured with a digital   signature or message authentication code` |PROPOSED|
+|**Presentation**|`A Presentaion is information derived from one or more Credentials. The source Credentials may have been issued by different Issuers.`|PROPOSED|
+|**Signature**|`An electronic representation where, at a minimum: the Entity signing the data can be associated with the electronic representation, it is clear that the Entity intended to sign, the reason or purpose for signing is conveyed, and the data integrity of the signed transaction is maintained, including the original. **Alternate definition:** A key represents content secured with a digital   signature or message authentication code` |PROPOSED|
 |**Holder**|`An Entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.`|PROPOSED|
 |**Cryptographic Proof**|`A Cryptographic Proof is a method by which one party (the prover) can prove to another party (the verifier) that a given statement is true without conveying additional information apart from the fact that the statement is true.`|PROPOSED|
 |**Storage**|TO DO|PROPOSED|
