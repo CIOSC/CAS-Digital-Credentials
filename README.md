@@ -2,7 +2,11 @@
 
 Digital Credentials Workspace for TS-115:
 
-The technical specification document (.docx) is periodically built from the repo and a working version is available at: [Technical Specification - working version](./build/ts-115-working-draft.docx). The finalized version resulting from service agreement will be produced and released as a pdf.
+## Technical Specification Documents
+
+Technical specification documents (.docx) are periodically built from this repo. Unofficial working versions are available at: [Technical Specification - working version](./build/ts-115-working-draft.docx).
+
+Finalized versions resulting from the conclusion of service agreement will be produced and made available [here](./publish/publish.md)
 
 ## Project Detail Summary
 
