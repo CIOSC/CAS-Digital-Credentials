@@ -3,12 +3,14 @@
 Objects of Conformity Assessment definitions are adapted from selected techical specifications and standards and agreed to by the working group. The definition reflects a common understanding of what is required to define scope of method of test for the purposes of conformity.
 
 THe objects of conformity assessment definitions are intended to be: 
+
 * CONCISE as agreed on by the technical experts.
 * NORMATIVE in relation to the conformity assessment scheme, scope, requirements and method of test.
 * NON-NORMATIVE in relation to other standards, specifications and recommendations.
 * SUBSTANTIVE to assist in the mapping and scoping of product, process or service components for the purposes of conformity assessment.
 
 *Status* field has the following values:
+
 * **PROPOSED** - proposed by technical experts and contributors.
 * **DRAFT** - in active draft by the techical experts with [link to object of conformity assessment specification (template example)](./objca-template.md)
 * **PILOT** - approved by the sponsor for pilot as part of a prototype conformity asssessment program (note: material may still be in draft phase)
@@ -16,6 +18,7 @@ THe objects of conformity assessment definitions are intended to be:
 
 
 ## Objects of Conformity Asessment Definitions
+
 Defined and listed in the table below
 
 |Object of Conformity Assessment |Object of Conformity Assessment Definition|Status|
@@ -43,6 +46,7 @@ Defined and listed in the table below
 |**Messaging Protocol**|`A Messaging Protocol supports identifier-based relationships, credential exchanges, and specialized application workflows in a manner that ensures privacy and security.`|PROPOSED|
 
 ### Other Objects of Conformity Assessment for consideration (from DHS)
+
 * Signing Algorithm
 * Revocation Algorithm
 * Key Management - Issuer
@@ -53,10 +57,12 @@ Defined and listed in the table below
 * Predicates
 
 ## Recognized Bodies
+
 A recognized body is any organization that develops a standards, specifications or recommendation that is used is conjuction with conformity assessment scheme.
 
 (To be reviewed:)
-* DIF 
+
+* DIF
 * FIDO
 * Hyperledger
 * IETF
