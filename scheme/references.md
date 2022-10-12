@@ -21,6 +21,7 @@ Link to relevant references. All references are provided without warrant or endo
 * [VC WG TPAC Sept 2022](https://docs.google.com/presentation/d/1hrqozY2EGZ8i8y40abyEuJmIb6hCiRS-37pdj6bhBLY/edit#slide=id.p11)
 * [W3C VC Use Cases](https://www.w3.org/TR/vc-use-cases/)
 * [VC Issuing Protocols](https://docs.google.com/presentation/d/12K8EIzFjzsC2i1WwfzggsXISGXZ64f1xwHJ5qO5rylc/edit#slide=id.g142b7bb9163_0_26)
+* [W3C Verifiable Conditions](https://github.com/w3c-ccg/verifiable-conditions)
 * [W3C DECENTRALIZED IDENTIFIER AND VERIFIABLE CREDENTIALS APPLICATIONS COMMUNITY GROUP](https://www.w3.org/community/applied-did-and-vc/)
 * [RWOT Verifiable Credential Market Signals](https://docs.google.com/presentation/d/1JjfDbeXfE7aO7uYDNqNQ8ixVr9tXUQL7mhwudwxZN38/edit#slide=id.g1579e3d0398_1_1926)
 * [EBSI Specification](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Data+Models+and+Schemas)
@@ -106,6 +107,7 @@ References to specifications,standards and recommendations for consideration as 
 * [Cryptography Review of W3C Verifiable Credentials Data Model (VCDM) and Decentralized Identifiers (DIDs) Standards and Cryptography Implementation Recommendations](http://www.csl.sri.com/papers/vcdm-did-crypto-recs/)
 * [Cross Community Architecture Survey](https://github.com/decentralized-identity/decentralized-identity.github.io/blob/master/assets/crosscommunity-architecture-survey-oct-2020.pdf)
 * [Tonomy - How Best to Implement and in which VC Library?](https://docs.google.com/presentation/d/1DsjJOfOCMhfXJgATbQAt6Ugk9Vmbq0zVrzL8thgsGVI/edit?usp=sharing)
+* [VC Library Research](https://docs.google.com/spreadsheets/d/1zyFlATImpzndK9wu8J9DaWslZqITNM-5VCUxgGVn5oE/edit?usp=sharing)
 
 ## Academic Research and Papers
 
