@@ -10,4 +10,3 @@ The following are the working documents built on a periodic basis. These version
 To build with the latest contents of the repo, please clone this repo, install [Pandoc](https://pandoc.org/), cd to this directory and run:  
 
 `./build.sh`
-

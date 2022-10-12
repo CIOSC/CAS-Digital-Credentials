@@ -9,7 +9,6 @@ Link to relevant references. All references are provided without warrant or endo
 * [Conformity assessment for standards writers Do’s and don’ts](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/pub100303.pdf)
 * [CASCO Conformity Assessment Toolbox](https://isotc.iso.org/livelink/livelink?func=ll&objId=20644954&objAction=browse&viewType=1)
 
-
 ## Digital Credential Ecosystems
 
 * [Digital Credentials Consortium](https://digitalcredentials.mit.edu/)
@@ -22,7 +21,7 @@ Link to relevant references. All references are provided without warrant or endo
 * [VC WG TPAC Sept 2022](https://docs.google.com/presentation/d/1hrqozY2EGZ8i8y40abyEuJmIb6hCiRS-37pdj6bhBLY/edit#slide=id.p11)
 * [W3C VC Use Cases](https://www.w3.org/TR/vc-use-cases/)
 * [VC Issuing Protocols](https://docs.google.com/presentation/d/12K8EIzFjzsC2i1WwfzggsXISGXZ64f1xwHJ5qO5rylc/edit#slide=id.g142b7bb9163_0_26)
-* [W3C DECENTRALIZED IDENTIFIER AND VERIFIABLE CREDENTIALS APPLICATIONS COMMUNITY GROUP ](https://www.w3.org/community/applied-did-and-vc/)
+* [W3C DECENTRALIZED IDENTIFIER AND VERIFIABLE CREDENTIALS APPLICATIONS COMMUNITY GROUP](https://www.w3.org/community/applied-did-and-vc/)
 * [RWOT Verifiable Credential Market Signals](https://docs.google.com/presentation/d/1JjfDbeXfE7aO7uYDNqNQ8ixVr9tXUQL7mhwudwxZN38/edit#slide=id.g1579e3d0398_1_1926)
 * [EBSI Specification](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Data+Models+and+Schemas)
 * [ISO/IEC 18013-5 Personal identification — ISOcompliant driving licence —Part 5:Mobile driving licence (mDL) application](https://www.sis.se/api/document/preview/80031411/)
@@ -97,7 +96,7 @@ References to specifications,standards and recommendations for consideration as 
 * [Tonomy DID-JWT-VC implementation](https://github.com/Tonomy-Foundation/Antelope-SSI-Toolkit/issues/17#issuecomment-1263319391)
 * [W3C Status List 2021](https://w3c-ccg.github.io/vc-status-list-2021/)
 
-## Industry/Vendor Reports, Blogs, Media Articles, etc.
+## Industry/Vendor Reports, Blogs, Media Articles, etc
 
 * [Sept 29, 2022 The Importance of Open Source Digital Wallets to the Future of the Internet](https://blog.irvingwb.com/blog/2022/09/the-open-software-foundation.html)
 * [Sept 21, 2022 Decoupling AnonCreds from Hyperledger Indy](https://blog.cheqd.io/anoncreds-indy-pendence-4946367469d4)
