@@ -2,7 +2,7 @@
 
 Objects of Conformity Assessment definitions are adapted from selected techical specifications and standards and agreed to by the working group. The definition reflects a common understanding of what is required to define scope of method of test for the purposes of conformity.
 
-THe objects of conformity assessment definitions are intended to be: 
+THe objects of conformity assessment definitions are intended to be:
 
 * CONCISE as agreed on by the technical experts.
 * NORMATIVE in relation to the conformity assessment scheme, scope, requirements and method of test.
@@ -14,8 +14,7 @@ THe objects of conformity assessment definitions are intended to be:
 * **PROPOSED** - proposed by technical experts and contributors.
 * **DRAFT** - in active draft by the techical experts with [link to object of conformity assessment specification (template example)](./objca-template.md)
 * **PILOT** - approved by the sponsor for pilot as part of a prototype conformity asssessment program (note: material may still be in draft phase)
-* **RELEASED** - material is finalized and released as part of a published deliverable. 
-
+* **RELEASED** - material is finalized and released as part of a published deliverable.
 
 ## Objects of Conformity Asessment Definitions
 
@@ -24,7 +23,7 @@ Defined and listed in the table below
 |Object of Conformity Assessment |Object of Conformity Assessment Definition|Status|
 |----|----|----|
 |**Digital Credential**|`A portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information.`|[DRAFT](./objca-digital-credential.md)|
-|**Digital Trust Service**|`Digital trust services is enabling service for digital credentials, such as a blockchain-based verifiable data registry, issuing and verifying services, and, digital wallets.`|PROPOSED| 
+|**Digital Trust Service**|`Digital trust services is enabling service for digital credentials, such as a blockchain-based verifiable data registry, issuing and verifying services, and, digital wallets.`|PROPOSED|
 |**Identifier**|`The set of identity attributes used to uniquely distinguish a particular Entity within a population.`|PROPOSED|
 |**Issuer**|`An Entity that asserts one or more Claims about one or more Subjects, creates a Credential from these Claims, and assigns the Credential to a Holder.`|[DRAFT](./objca-issuer.md)|
 |**Verifier**|`An Entity that accepts a Presentation (Proof) from a Holder for the purposes of delivering services, administering programs or yielding an ACCEPT or REJECT decision.`| PROPOSED|
@@ -70,6 +69,3 @@ A recognized body is any organization that develops a standards, specifications 
 * ICAO
 * ToIP
 * W3C
-* 
-
-
