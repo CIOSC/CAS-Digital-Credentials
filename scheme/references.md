@@ -1,4 +1,5 @@
 # References
+
 Link to relevant references. All references are provided without warrant or endorsement and are intended for informative purposes only.
 
 ## Conformity Assessment
@@ -10,6 +11,7 @@ Link to relevant references. All references are provided without warrant or endo
 
 
 ## Digital Credential Ecosystems
+
 * [Digital Credentials Consortium](https://digitalcredentials.mit.edu/)
 * [European Self Sovereign Identity Framework](https://decentralized-id.com/government/europe/eSSIF/)
 * [Open Wallet Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-an-intent-to-form-the-openwallet-foundation)
@@ -33,8 +35,8 @@ Link to relevant references. All references are provided without warrant or endo
 * [TRAIN - Trust Management Infrastructure](https://train.trust-scheme.de/info/)
 * [Centre Verite DOCS](https://docs.centre.io/verite/patterns/identifier)
 
-
 ## Government (including Legal and Regulatory)
+
 * [Government of Canada Digital Credentials](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html)
 * [User-Centric Verifiable Digital Credentials](https://github.com/canada-ca/ucvdcc)
 * [Public Sector Profile of the Pan-Canadian Trust Framework V1.4](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
@@ -45,8 +47,8 @@ Link to relevant references. All references are provided without warrant or endo
 * [European Digital Identity Framework](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2021/0136(COD)&l=en)
 * [Europen Digital Identity Wallet Consortium](https://eudiwalletconsortium.org/)
 
-
 ## Specifications, Standards and Recommendations for Conformity Assessment
+
 References to specifications,standards and recommendations for consideration as part of the conformity assessment scheme.
 
 * [CAN/CIOSC 103-1 Digital Trust and Identity - Part 1 - Fundamentals](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
@@ -69,7 +71,7 @@ References to specifications,standards and recommendations for consideration as 
 * [IETF Multibase Format](https://datatracker.ietf.org/doc/html/draft-multiformats-multibase-03)
 * [IETF Multiformatt Code Registrations](https://datatracker.ietf.org/doc/html/draft-snell-multicodec-00)
 * [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
-* [ITU Public-key and attribute certificate frameworks ](https://www.itu.int/rec/T-REC-X.509)
+* [ITU Public-key and attribute certificate frameworks](https://www.itu.int/rec/T-REC-X.509)
 * [ITU Recommendation X.509 (10/19)](https://www.itu.int/rec/T-REC-X.509-201910-I/en)
 * [OAuth Working Group Specifications: Active Drafts and RFCs](https://oauth.net/specs/)
 * [OpenID for Verifiable Credential Issuance](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
@@ -95,7 +97,6 @@ References to specifications,standards and recommendations for consideration as 
 * [Tonomy DID-JWT-VC implementation](https://github.com/Tonomy-Foundation/Antelope-SSI-Toolkit/issues/17#issuecomment-1263319391)
 * [W3C Status List 2021](https://w3c-ccg.github.io/vc-status-list-2021/)
 
-
 ## Industry/Vendor Reports, Blogs, Media Articles, etc.
 
 * [Sept 29, 2022 The Importance of Open Source Digital Wallets to the Future of the Internet](https://blog.irvingwb.com/blog/2022/09/the-open-software-foundation.html)
@@ -108,17 +109,17 @@ References to specifications,standards and recommendations for consideration as 
 * [Tonomy - How Best to Implement and in which VC Library?](https://docs.google.com/presentation/d/1DsjJOfOCMhfXJgATbQAt6Ugk9Vmbq0zVrzL8thgsGVI/edit?usp=sharing)
 
 ## Academic Research and Papers
-*[Stanford Proofs in Cyptography](https://crypto.stanford.edu/~ananthr/docs/crypto-proofs.pdf)
+
+* [Stanford Proofs in Cryptography](https://crypto.stanford.edu/~ananthr/docs/crypto-proofs.pdf)
+* [Self-Sovereign Identity: A Systematic Review, Mapping and Taxonomy. Sensors 2022, 22, 5641](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9371034/pdf/sensors-22-05641.pdf)
 
 ## Libraries
+
 Implementation libraries
 
 * [DIF did-jwt-vc](https://github.com/decentralized-identity/did-jwt-vc)
 * [DIF did-resolver](https://github.com/decentralized-identity/did-resolver)
 * [DIF web-did-resolver](https://github.com/decentralized-identity/web-did-resolver)
 * [DIF key-did-resolver](https://github.com/ceramicnetwork/js-ceramic/tree/develop/packages/key-did-resolver)
-
-
-
 
 --end--
