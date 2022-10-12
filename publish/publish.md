@@ -1,3 +1,3 @@
 # Published Versions
 
-Published versions will be made available in this folder.
+Published versions in English and French will be made available in this folder.

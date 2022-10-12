@@ -6,7 +6,7 @@ Digital Credentials Workspace for TS-115:
 
 Technical specification documents (.docx) are periodically built from this repo. Unofficial working versions are available at: [Technical Specification - working versions](./build/build.md).
 
-Finalized versions resulting from the conclusion of service agreement will be produced and made available [here](./publish/publish.md)
+Published versions resulting from the conclusion of service agreement will be produced and made available in English and French [here](./publish/publish.md)
 
 ## Project Detail Summary
 
@@ -14,4 +14,4 @@ Finalized versions resulting from the conclusion of service agreement will be pr
 * The primary deliverable is the [Technical Specification](./scheme/scheme.md) which is being developed as a Github repository, consisting of  comformity assessment scheme elements that can be used to define a small-scale set of conformity assessment criteria to support a protototy conformity assessment program.
 * The elements of the technical specification that are developed are part of this service agreement are organized within the context of a [Conformity Assessment Scheme Document](./scheme/scheme.md) intended to support a prototype conformity assessment program.
 
-Please Note: Under the current service agreement, this repo is not intendened to a finalized and completed conformity assessment scheme. The elements of the technical specification have been structured in a manner to produce a technical specification document and be integrated into conformity assessment scheme. French translation of components will follow.
+*Please Note: This repo is intendeed to provide the operating context of a prototype conformity assessment scheme for which the technical specification may be applied. As such, only a subset of repo elements are used produce the technical specification documents.*
