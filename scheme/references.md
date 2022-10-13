@@ -12,6 +12,7 @@ Link to relevant references. All references are provided without warrant or endo
 ## Digital Credential Ecosystems
 
 * [Digital Credentials Consortium](https://digitalcredentials.mit.edu/)
+* [Grongingen Declaration Network](https://www.groningendeclaration.org/2022-groningen/)
 * [European Self Sovereign Identity Framework](https://decentralized-id.com/government/europe/eSSIF/)
 * [Open Wallet Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-an-intent-to-form-the-openwallet-foundation)
 * [Open Wallet Foundation GitHub Repo](https://github.com/openwallet-foundation)
@@ -79,7 +80,8 @@ References to specifications,standards and recommendations for consideration as 
 * [OpenID for Self-Issued OpenID Provider v2](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
 * [ToIP Trust Registry V1 Protocol Specification](https://github.com/trustoverip/tswg-trust-registry-tf/blob/main/docs/ToIP%20Trust%20Registry%20V1%20Specification.md)
 * [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
-* [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
+* [W3C Verifiable Credentials Data Model][def]
+* [W3C JSON-LD 1.1](https://www.w3.org/TR/json-ld11/)
 * [W3C Verifiable Credential JWT](https://w3c.github.io/vc-jwt/)
 * [W3C did:key Method Specificatin](https://w3c-ccg.github.io/did-method-key/)
 * [W3C did:web Method Specification](https://w3c-ccg.github.io/did-method-web/)
@@ -108,6 +110,7 @@ References to specifications,standards and recommendations for consideration as 
 * [Cross Community Architecture Survey](https://github.com/decentralized-identity/decentralized-identity.github.io/blob/master/assets/crosscommunity-architecture-survey-oct-2020.pdf)
 * [Tonomy - How Best to Implement and in which VC Library?](https://docs.google.com/presentation/d/1DsjJOfOCMhfXJgATbQAt6Ugk9Vmbq0zVrzL8thgsGVI/edit?usp=sharing)
 * [VC Library Research](https://docs.google.com/spreadsheets/d/1zyFlATImpzndK9wu8J9DaWslZqITNM-5VCUxgGVn5oE/edit?usp=sharing)
+* [W3C VC & W3C DID Cryptography Review](http://www.csl.sri.com/papers/vcdm-did-crypto-recs/crypto-review-and-recs-for-VCDM-and-DIDs-implems-FINAL-20211015.pdf)
 
 ## Academic Research and Papers
 
@@ -123,4 +126,18 @@ Implementation libraries
 * [DIF web-did-resolver](https://github.com/decentralized-identity/web-did-resolver)
 * [DIF key-did-resolver](https://github.com/ceramicnetwork/js-ceramic/tree/develop/packages/key-did-resolver)
 
+
+## Vendor Solutions, Products and Services
+
+Currently in the market
+
+* [Apple Passkeys](https://developers.apple.com/videos/play/wwdc2022/10092/)
+* [Credivera](https://www.credivera.com/)
+* [Microsoft Entra](https://www.microsoft.com/en-us/security/business/microsoft-entra)
+* [Trinsic](https://trinsic.id/)
+* [Mattr](https://mattr.global/)
+
 --end--
+
+
+[def]: https://www.w3.org/TR/vc-data-model/

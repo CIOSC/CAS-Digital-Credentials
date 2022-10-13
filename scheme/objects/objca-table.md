@@ -69,3 +69,10 @@ A recognized body is any organization that develops a standards, specifications 
 * ICAO
 * ToIP
 * W3C
+
+## ISO Conventions for Requirements
+
+* **Requirements** - SHALL, SHALL NOT
+* **Recommendations** - SHOULD, SHOULD NOT
+* **Permission** - MAY, MAY NOT
+* **Possibility and Capability** - CAN, CANNOT

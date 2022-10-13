@@ -7,23 +7,29 @@ _Normative definition and description used for the purposes of the object of con
 
 
 ### Related Definitions
+
 Non-normative definitions which may assist in interpretation and application of the conformity. 
 
 
 Further definitions provided by the evaluator or vendor:
+
 * Relevant definitions
 
 
+
 ## Part 2: Use Cases
+
 _A description of an appropriate [use case](./use-cases.md) that situates the context where the object of conformity is being used._
 
 1. The use case must describe a WALLET scenario or an ISSUER scenario.
 
 
 ### Conformity Asssessment Requirements
+
 1. A relevant use case MUST be provided to illustrate how the object of conformity behaves in context.
 
 ### Additional Guidance
+
 * ...
 
 
