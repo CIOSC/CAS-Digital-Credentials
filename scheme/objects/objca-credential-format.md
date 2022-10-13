@@ -31,8 +31,6 @@ _A description of an appropriate [use case](./use-cases.md) that situates the co
 ### Additional Guidance
 
 * ...
-
-
 ## Part 3: Selection of Product, Service and Process
 
 _Selection of the product, service and/or process that is being tested in relation to the specified requirements._
@@ -47,36 +45,36 @@ _Selection of the product, service and/or process that is being tested in relati
 * JSON-LD ZKP with BBS+
 * JWP
 
-
-
-
 ### Conformity Asssessment Requirements
+
 1. A description of the components being assessed MUST be provided that demonstrates the object of conformity assessment
 
 ### Additional Guidance
-* ...
+
+* TBD
 
 ## Part 4: Determination of Activities
 
 _Determination of activities to obtain information regarding the fulfillment  of the specified requirements. For the purposes of this scheme, activities are the [methods of test](./methods-of-tests.md)._ 
 
-
 ### Conformity Asssessment Requirements
+
 1. TBD
 
 ### Additional Guidance
-* ...
 
+* ...
 
 ## Part 5: Determination of Outputs
 
 _Determination of [outputs](../scheme-definitions.md) that are used as input into the review, decision and attestation stage._
 
-
 ### Conformity Asssessment Requirements
+
 1. TBD
 
 ### Additional Guidance
+
 * ...
 
 ## Part 6: Review Decision
@@ -85,23 +83,23 @@ _Determination of [outputs](../scheme-definitions.md) that are used as input int
 
 _Review is the final stage of checking before taking the decision as to whether or not the object of conformity assessment e.g. product, service and system, has been reliably demonstrated to fulfil the specified requirements._
 
-
-
 ### Conformity Asssessment Requirements
+
 1. TBD
 
-
 ### Additional Guidance
+
 * ...
 
 
+## Part 7: Attestation
 
-## Part 7:Attestation
 _The creation of a “statement of conformity”, which is a generic expression used to include all means of communicating that fulfilment of specified requirements has been demonstrated. It should be noted that a "statement of conformity" can include non fulfilment of specified requirements._
 
-
 ### Conformity Asssessment Requirements
+
 1. TBD
 
 ### Additional Guidance
-...
+
+* ...
