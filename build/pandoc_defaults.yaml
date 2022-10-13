@@ -1,5 +1,6 @@
 input-files:
- - ${.}/ts-115-cover.md
+ - ${.}/ts-115-title.md
+  - ${.}/ts-115-intro.md
  - ${.}/../scheme/objects/objca-table.md
  - ${.}/../scheme/objects/objca-digital-credential.md
  - ${.}/../scheme/objects/objca-issuer.md

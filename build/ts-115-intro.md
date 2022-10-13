@@ -12,5 +12,3 @@ This specification supports conformity assessment needs that can:
 * provide greater consumer confidence in digital credentials and digital trust services and products, thus potentially helping with adoption.
 * provide a means for third-party assessment of the safety, efficacy, and ethical profile of digital credentials and digital trust services.
 * provide Canadian governments with a standards-based tool for establishing regulations for digital credentials and digital trust services.
-
-![CIO Strategy Council](../images/ciosc-logo-blk.png)
