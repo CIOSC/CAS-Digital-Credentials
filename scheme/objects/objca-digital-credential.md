@@ -22,31 +22,33 @@ Further definitions may provided by the evaluator or vendor:
 
 ### Appropriate Use Cases
 
-_A description of an appropriate [use case](./use-cases.md) that situates the context where the object of conformity is being used._
+* Provide descriptions of appropriate [use cases](./use-cases.md) that situate the context where the object of conformity is being used.
 
 ### Selection of Product, Service or Process
 
-_Descriptions of selected the products, services or process that are being tested in relation to the conformity assessment requirements._
+* Provide descriptions of selected the products, services or process that are being tested in relation to the conformity assessment requirements._
 
-### Determination of Activities
+### Determination of Activities and Methods of Test
 
-_Determination of activities to obtain information regarding the fulfillment  of the specified requirements. For the purposes of this scheme, activities are the [methods of test](./methods-of-tests.md)._
+* Provide a description of activities undertaken and [methods of test](./methods-of-tests.md). used to btain information regarding the fulfillment of the conformity assessment  requirements. 
 
 
 ## Part 2: Object of Conformity Asssessment Requirements
 
-1. A demonstrable use case MUST be provided to illustrate how the object of conformity behaves in context.
-2. A description of the components being assessed MUST be provided that demonstrates the object of conformity assessment
+1. A demonstrable use case SHALL be provided to illustrate how the object of conformity behaves in context.
+2. A description of the components being assessed SHALL be provided that demonstrates the object of conformity assessment
 3. A digital credential SHALL be composed of three components:
     * Credential metadata: One or more Credential Attributes that describe the properties or characteristics of the Credential;
     * Credential payload: A set of one or more Claims asserted about one or more Subjects; and
     * Credential proofs: One or more methods or mechanisms that are used to verify that the Issuer authored the Credential and that the Credential has not been tampered with.
-4. Digital credentials SHALL be tamper-evident.
-5. The authorship of a digital credential SHALL be cryptographically verified.
-6. Method of test SHALL demonstrate that the digital credential is tamper-evident
-7. Credential formats SHALL demonstrate conformity to one or several of the following specifications
-    * [JSON](https://www.json.org/json-en.html)
-    * [JWT](https://www.rfc-editor.org/rfc/rfc7519)
+4. A digital credentials SHALL be tamper-evident.
+5. The authorship of a digital credential SHALL be cryptographically verifiable.
+6. A digital credential format SHALL demonstrate conformity to one or several of the following specifications
+    * JSON
+    * JSON-LD
+    * W3C VC Data Model
+7. A digital credential SHALL demonstrate that it can be stored within and presented from a minimum of two independent implementations.
+8. A diigtal credential SHALL demonstrate that it can be cryptograhically verified using a minimum of two independent implementations.
 
 ## Part 3: Determination of Outputs, Review and Attestation
 
