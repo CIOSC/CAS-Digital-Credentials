@@ -47,6 +47,7 @@ Link to relevant references. All references are provided without warrant or endo
 * [EBSI Publications](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/What+is+ebsi)
 * [European Digital Identity Framework](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2021/0136(COD)&l=en)
 * [Europen Digital Identity Wallet Consortium](https://eudiwalletconsortium.org/)
+* [Digital Identity Lab Building the trust needed to accelerate adoption of a digital verifiable credential ecosystem for all Canadians](https://www.idlab.org/wp-content/uploads/2022/10/IDLab-PBS-Oct-8-2022-FINAL-1.pdf)
 
 ## Specifications, Standards and Recommendations for Conformity Assessment
 
@@ -71,6 +72,7 @@ References to specifications,standards and recommendations for consideration as 
 * [IETF JSON Web Proof](https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html)
 * [IETF Multibase Format](https://datatracker.ietf.org/doc/html/draft-multiformats-multibase-03)
 * [IETF Multiformatt Code Registrations](https://datatracker.ietf.org/doc/html/draft-snell-multicodec-00)
+* [IETF OAUTH 2.0 Pushed Authorization Requests](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-par)
 * [ISO 18013-5:2021 Personal Identification Part 5: Mobile Driving Licence](https://www.iso.org/standard/69084.html)
 * [ITU Public-key and attribute certificate frameworks](https://www.itu.int/rec/T-REC-X.509)
 * [ITU Recommendation X.509 (10/19)](https://www.itu.int/rec/T-REC-X.509-201910-I/en)
