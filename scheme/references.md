@@ -127,6 +127,7 @@ Implementation libraries
 * [DIF did-resolver](https://github.com/decentralized-identity/did-resolver)
 * [DIF web-did-resolver](https://github.com/decentralized-identity/web-did-resolver)
 * [DIF key-did-resolver](https://github.com/ceramicnetwork/js-ceramic/tree/develop/packages/key-did-resolver)
+* [Verite Governance Overview](https://verite.id/verite/overview/governance-overview)
 
 
 ## Vendor Solutions, Products and Services
