@@ -113,6 +113,7 @@ References to specifications,standards and recommendations for consideration as 
 * [Tonomy - How Best to Implement and in which VC Library?](https://docs.google.com/presentation/d/1DsjJOfOCMhfXJgATbQAt6Ugk9Vmbq0zVrzL8thgsGVI/edit?usp=sharing)
 * [VC Library Research](https://docs.google.com/spreadsheets/d/1zyFlATImpzndK9wu8J9DaWslZqITNM-5VCUxgGVn5oE/edit?usp=sharing)
 * [W3C VC & W3C DID Cryptography Review](http://www.csl.sri.com/papers/vcdm-did-crypto-recs/crypto-review-and-recs-for-VCDM-and-DIDs-implems-FINAL-20211015.pdf)
+* [European Parliament: Updating the European Digital Identity Framework](https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/698772/EPRS_BRI(2021)698772_EN.pdf)
 
 ## Academic Research and Papers
 
