@@ -48,6 +48,7 @@ Link to relevant references. All references are provided without warrant or endo
 * [European Digital Identity Framework](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2021/0136(COD)&l=en)
 * [Europen Digital Identity Wallet Consortium](https://eudiwalletconsortium.org/)
 * [Digital Identity Lab Building the trust needed to accelerate adoption of a digital verifiable credential ecosystem for all Canadians](https://www.idlab.org/wp-content/uploads/2022/10/IDLab-PBS-Oct-8-2022-FINAL-1.pdf)
+* [World Bank National Digital Identity and Government Data Sharing in Singapore](https://www.developer.tech.gov.sg/assets/files/GovTech%20World%20Bank%20NDI%20APEX%20report.pdf)
 
 ## Specifications, Standards and Recommendations for Conformity Assessment
 
@@ -114,6 +115,8 @@ References to specifications,standards and recommendations for consideration as 
 * [VC Library Research](https://docs.google.com/spreadsheets/d/1zyFlATImpzndK9wu8J9DaWslZqITNM-5VCUxgGVn5oE/edit?usp=sharing)
 * [W3C VC & W3C DID Cryptography Review](http://www.csl.sri.com/papers/vcdm-did-crypto-recs/crypto-review-and-recs-for-VCDM-and-DIDs-implems-FINAL-20211015.pdf)
 * [European Parliament: Updating the European Digital Identity Framework](https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/698772/EPRS_BRI(2021)698772_EN.pdf)
+* [Digital Credentials Consortium: Credentials to Employment: The Last Mile](https://digitalcredentials.mit.edu/docs/Credentials-to-Employment-The-Last-Mile.pdf)
+
 
 ## Academic Research and Papers
 

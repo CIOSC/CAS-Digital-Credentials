@@ -16,7 +16,10 @@ Non-normative definitions which may assist in interpretation and application of 
 
 * **Verifiable Credential** [California](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB786#93ENR) means a cryptographically secure set of information that is both of the following: (A) Created in accordance with open standards that comply with all existing privacy protections. (B) Shared through a user-controlled, portable means that can be authenticated through publicly available services.
 
-Further definitions may provided by the evaluator or vendor:
+* **Credential** A document, object, or data structure that vouches for the identity of a person or other entity through some method of
+trust and authentication. [World Bank](https://www.developer.tech.gov.sg/assets/files/GovTech%20World%20Bank%20NDI%20APEX%20report.pdf)
+
+### Further definitions may provided by the evaluator or vendor:
 
 * Relevant definitions
 
