@@ -18,7 +18,7 @@ The objects definitions are intended to be:
 * **PILOT** - approved by the sponsor for pilot as part of a prototype conformity asssessment program (note: material may still be in draft phase)
 * **RELEASED** - material is finalized and released as part of a published deliverable.
 
-Where possible, the object definitions are developed to be interpreted as a single process, service or component. If an object definition consists of several components (i.e. a composite object), this is further specified in the object template.
+Where possible, the object definitions are developed to be interpreted as a single process, service or component. If the definition implies  a role, then this will be specified as part of the definition. If an object definition consists of several components (i.e. a composite object), this is further specified in the object template.
 
 ## Table of Object Defintions
 
@@ -29,12 +29,15 @@ The table below contains object definitions being developed by the technical exp
 |**Digital Credential**|A portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information.|[DRAFT](./objca-digital-credential.md)|
 |**Digital Trust Service**|A Digital Trust Service is an enabling service that can include one or several of the followiing: digital credentials, verifiable data registries, issuing services, verifying services, and, digital wallet services.|PROPOSED|
 |**Identifier**|The set of identity attributes used to uniquely distinguish a particular Entity within a population.`|PROPOSED|
-|**Issuer**|`An Entity that asserts one or more Claims about one or more Subjects, creates a Credential from these Claims, and assigns the Credential to a Holder.|[DRAFT](./objca-issuer.md)|
-|**Verifier**|An Entity that accepts a Presentation (Proof) from a Holder for the purposes of delivering services, administering programs or yielding an ACCEPT or REJECT decision.| PROPOSED|
+|**Issuer Role**|An Entity that asserts one or more Claims about one or more Subjects, creates a Credential from these Claims, and assigns the Credential to a Holder.|[DRAFT](./objca-issuer.md)|
+|**Issuer**|A process, service or component that generates and signs the digital credential|PROPOSED|
+|**Verifier Role**|An Entity that accepts a Presentation (Proof) from a Holder for the purposes of delivering services, administering programs or yielding an ACCEPT or REJECT decision.|PROPOSED|
+|**Verifer**|A process, service or component that verifies the presentation of a credential to yield an ACCEPT or REJECT decision|Proposed|
 |**Key**|A key is data structure that represents a cryptographic key.|PROPOSED|
 |**Presentation**|A Presentaion is information derived from one or more Credentials. The source Credentials may have been issued by different Issuers.|PROPOSED|
 |**Signature**|An electronic representation where, at a minimum: the Entity signing the data can be associated with the electronic representation, it is clear that the Entity intended to sign, the reason or purpose for signing is conveyed, and the data integrity of the signed transaction is maintained, including the original. **Alternate definition:** A key represents content secured with a digital   signature or message authentication code |PROPOSED|
-|**Holder**|An Entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.|PROPOSED|
+|**Holder Role**|An Entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.|PROPOSED|
+|**Holder**|A process, service or component from which a Presentation can be expressed to a Verifier. A Holder is usually under the control of a User|PROPOSED|
 |**Cryptographic Proof**|A Cryptographic Proof is a method by which one party (the prover) can prove to another party (the verifier) that a given statement is true without conveying additional information apart from the fact that the statement is true.|PROPOSED|
 |**Storage**|A foundational layer for secure data storage, including personal data, including data models for storage and transport, syntax, data at rest protection, CRUD API, access control, synchronization, and a minimum viable HTTP-based interface compatible with W3C DIDs/VCs.|PROPOSED|
 |**Schema Object**|A Schema object is used to list a set of attributes and data types. Issuers of Verifiable Credentials may reference schemas within Credentials they issue in order to provide a layer of semantic interoperability with other issuers utilising the same schema.|PROPOSED|
@@ -47,6 +50,8 @@ The table below contains object definitions being developed by the technical exp
 |**Trust Registry**|A Trust Registry answers queries about whether a particular party is trusted and authorized to perform a particular action in a particular context. A system role that mediate the creation and verification of identifiers, keys, and other relevant data, such as verifiable credential schemas, revocation registries and issuer public keys.|PROPOSED|
 |**Messaging Protocol**|A Messaging Protocol supports identifier-based relationships, credential exchanges, and specialized application workflows in a manner that ensures privacy and security.|PROPOSED|
 |**Selective Disclosure**|The ability of a user to make nuanced decisions about what information to share.|PROPOSED|
+|**Predicate**| The ability of a user to check a value against a certain condition, disclosing only true or false without revealing the value.|PROPOSED|
+|**Rich Schema**|Hierarchically composable graph-based representations of complex data.|PROPOSED|
 
 ### Other Objects of Conformity Assessment for consideration (from DHS)
 
@@ -55,9 +60,6 @@ The table below contains object definitions being developed by the technical exp
 * Key Management - Issuer
 * Key Management - Holder
 * Encoding Scheme
-* Rich Schemas / Semantic
-* Selective Disclosure
-* Predicates
 
 ## Recognized Bodies
 

@@ -2,9 +2,9 @@
 
 ## Part 1: Object of Conformity Assessment Specifications
 
-_Normative definition and description used for the purposes of the object of conformity assessment._
+### Definition
 
->**Digital Credential** is a portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information. [Statement of Work](/docs/statement-of-work.md)
+A **Digital Credential** is a portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information. [Statement of Work](/docs/statement-of-work.md)
 
 ### Related Definitions
 
@@ -19,13 +19,20 @@ Non-normative definitions which may assist in interpretation and application of 
 * **Credential** A document, object, or data structure that vouches for the identity of a person or other entity through some method of
 trust and authentication. [World Bank](https://www.developer.tech.gov.sg/assets/files/GovTech%20World%20Bank%20NDI%20APEX%20report.pdf)
 
-### Further definitions may provided by the evaluator or vendor
-
-* Relevant definitions
-
 ### Appropriate Use Cases
 
 * Provide descriptions of appropriate [use cases](./use-cases.md) that situate the context where the object of conformity is being used.
+
+Digital Credentials may be employed in a wide variety of use cases. For the purposes of testing, the use cases SHALL be centred around the key functionalities associated with the digital credential. These are:
+
+1. Issue Credential
+2. Present Credential.
+3. Store Credential.
+4. Verify Credential
+5. Retrieve Credential
+6. Revoke Credential
+
+Please refer to [W3C Verifiable Credentials Use Cases](https://www.w3.org/TR/vc-use-cases/) for additional detail.
 
 ### Selection of Product, Service or Process
 
@@ -33,24 +40,37 @@ trust and authentication. [World Bank](https://www.developer.tech.gov.sg/assets/
 
 ### Determination of Activities and Methods of Test
 
-* Provide a description of activities undertaken and [methods of test](./methods-of-tests.md). used to btain information regarding the fulfillment of the conformity assessment  requirements. 
+* Provide a description of activities undertaken and [methods of test](./methods-of-tests.md). used to btain information regarding the fulfillment of the conformity assessment requirements.
+
+Methods of test SHOULD include one or more the following:
+
+* Black box testing
+* Automated testing where feasible
+* Manual testing with documented scripts
 
 ## Part 2: Object of Conformity Asssessment Requirements
 
-1. A demonstrable use case SHALL be provided to illustrate how the object of conformity behaves in context.
-2. A description of the components being assessed SHALL be provided that demonstrates the object of conformity assessment
-3. A digital credential SHALL be composed of three components:
-    * Credential metadata: One or more Credential Attributes that describe the properties or characteristics of the Credential;
-    * Credential payload: A set of one or more Claims asserted about one or more Subjects; and
-    * Credential proofs: One or more methods or mechanisms that are used to verify that the Issuer authored the Credential and that the Credential has not been tampered with.
-4. A digital credentials SHALL be tamper-evident.
-5. The authorship of a digital credential SHALL be cryptographically verifiable.
-6. A digital credential format SHALL demonstrate conformity to one or several of the following specifications
+1. The relevant specifications or standards used for the method of test SHALL published by a recognized body. These MAY include one or several of the following:
     * JSON
     * JSON-LD
     * W3C VC Data Model
+2. A test plan that demonstrate conformance to the relevant specification or standard. The test plan should be sufficiently detailed to include specific test cases with specific inputs, outputs, execution conditions, testing procedures and expected results.
+3. Use cases SHALL be provided to illustrate how the digital credential behaves in context. Thes MAY include one or several of the following:
+    * Issue Credential
+    * Present Credential.
+    * Store Credential.
+    * Verify Credential
+    * Retrieve Credential
+    * Revoke Credential
+
+4. A digital credential SHALL be composed of three components:
+    * Credential metadata: One or more Credential Attributes that describe the properties or characteristics of the Credential;
+    * Credential payload: A set of one or more Claims asserted about one or more Subjects; and
+    * Credential proofs: One or more methods or mechanisms that are used to verify that the Issuer authored the Credential and that the Credential has not been tampered with.
+5. A digital credentials SHALL be tamper-evident.
+6. The authorship of a digital credential SHALL be cryptographically verifiable.
 7. A digital credential SHALL demonstrate that it can be stored within and presented from a minimum of two independent implementations.
-8. A diigtal credential SHALL demonstrate that it can be cryptograhically verified using a minimum of two independent implementations.
+8. A digtal credential SHALL demonstrate that it can be cryptograhically verified using a minimum of two independent implementations.
 
 ## Part 3: Determination of Outputs, Review and Attestation
 

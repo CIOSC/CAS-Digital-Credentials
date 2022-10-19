@@ -8,7 +8,7 @@ This repository is the open collaboration workspace for the development of confo
 
 Deliverables are being developed through a multi-phased approach with on-going opportunities for consultation and feedback from national and international stakeholders.
 
-The **National Technical Specification (TS-115)** is being collaboratively developed by means of this repository. The initial version of the technical specification is being developed by a technical committee and draft working versions are are periodically built based on this repo. 
+The **National Technical Specification (TS-115)** is being collaboratively developed by means of this repository. The initial version of the technical specification is being developed by a technical committee and draft working versions are are periodically built based on this repo.
 
 * Draft working versions of the technical specifications are available as .docx and .pdf at: [Technical Specification - working versions](./build/build.md).
 * Finalized versions of the technical specification will be published and made available in English and French [here](./publish/publish.md)

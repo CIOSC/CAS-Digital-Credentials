@@ -117,6 +117,7 @@ References to specifications,standards and recommendations for consideration as 
 * [European Parliament: Updating the European Digital Identity Framework](https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/698772/EPRS_BRI(2021)698772_EN.pdf)
 * [Digital Credentials Consortium: Credentials to Employment: The Last Mile](https://digitalcredentials.mit.edu/docs/Credentials-to-Employment-The-Last-Mile.pdf)
 * [RWOT Enterprise Stakeholder Map](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/draft-documents/ssi-stakeholder-mapping.md)
+* [RWOT Credential Profile Matrix](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/draft-documents/credential-profile-comparison.md)
 
 ## Academic Research and Papers
 

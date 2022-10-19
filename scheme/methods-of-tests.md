@@ -1,10 +1,10 @@
 # Methods of Test
+
 Methods of test which provides repeatable and reproducible procedures with consistent outcomes for the assessment of the product.
 
-	
 Test methods can be drawn up by ISO/TCs and SCs, however they must simply outline the process and thresholds of testing, and must not include provisions on who should undertake the test, or establish the conformity assessment structure that might employ such test methods within it.
 
-# Test Method Requirements
+## Generalized Test Method Requirements
 
 Adapted from ISO/IEC 17007
 
@@ -18,7 +18,12 @@ Adapted from ISO/IEC 17007
 SHOULD be considered for inclusion in the normative document. Requirements related to testing equipment SHOULD follow the provisions concerning accuracy and calibration
 
 Adapted from ISO/IEC 17065
- * Methods of test can be used in combination with a number of related product standards and guides to demonstrate that a product complies with specified criteria.
 
+* Methods of test can be used in combination with a number of related product standards and guides to demonstrate that a product complies with specified criteria.
 
+## Software Test Methods
 
+* **Black Box Testing** tests the functionality of an application based on the requirement specification. It does not focus on the internal structure or code of the application.
+* **White Box Testing** examines the program structure and business logic. Testers perform validation of the entire code structure of an application. It is also called clear box testing, glass box testing, open box testing, transparent box testing, and structural testing.
+* **Manual Testing** uses manual methods with human testers.
+* **Automated Testing** uses scripts and tools
