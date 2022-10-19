@@ -83,7 +83,7 @@ References to specifications,standards and recommendations for consideration as 
 * [OpenID for Self-Issued OpenID Provider v2](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
 * [ToIP Trust Registry V1 Protocol Specification](https://github.com/trustoverip/tswg-trust-registry-tf/blob/main/docs/ToIP%20Trust%20Registry%20V1%20Specification.md)
 * [W3C Decentralized Identifiers v1.0](https://www.w3.org/TR/did-core/)
-* [W3C Verifiable Credentials Data Model][def]
+* [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
 * [W3C JSON-LD 1.1](https://www.w3.org/TR/json-ld11/)
 * [W3C Verifiable Credential JWT](https://w3c.github.io/vc-jwt/)
 * [W3C did:key Method Specificatin](https://w3c-ccg.github.io/did-method-key/)
@@ -116,7 +116,7 @@ References to specifications,standards and recommendations for consideration as 
 * [W3C VC & W3C DID Cryptography Review](http://www.csl.sri.com/papers/vcdm-did-crypto-recs/crypto-review-and-recs-for-VCDM-and-DIDs-implems-FINAL-20211015.pdf)
 * [European Parliament: Updating the European Digital Identity Framework](https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/698772/EPRS_BRI(2021)698772_EN.pdf)
 * [Digital Credentials Consortium: Credentials to Employment: The Last Mile](https://digitalcredentials.mit.edu/docs/Credentials-to-Employment-The-Last-Mile.pdf)
-
+* [RWOT Enterprise Stakeholder Map](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/draft-documents/ssi-stakeholder-mapping.md)
 
 ## Academic Research and Papers
 
@@ -133,7 +133,6 @@ Implementation libraries
 * [DIF key-did-resolver](https://github.com/ceramicnetwork/js-ceramic/tree/develop/packages/key-did-resolver)
 * [Verite Governance Overview](https://verite.id/verite/overview/governance-overview)
 
-
 ## Vendor Solutions, Products and Services
 
 Currently in the market
@@ -145,6 +144,3 @@ Currently in the market
 * [Mattr](https://mattr.global/)
 
 --end--
-
-
-[def]: https://www.w3.org/TR/vc-data-model/
