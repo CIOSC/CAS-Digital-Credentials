@@ -12,14 +12,14 @@ Non-normative definitions which may assist in interpretation and application of 
 
 * A digital credential is a set of machine-readable claims that can be verified. A digital credential can be used to increase efficiency of sharing trusted information while reducing or eliminating fraud due to misuse or modification. (TS-115 D1)
 
-* **Credential** [103-1]() an assertion of identity, qualification, competence, authority, rights, privileges, permissions, status, eligibility, or asset ownership (or a combination of these). A Credential contains a set of one or more Claims asserted about one or more Subjects.  
+* **Credential** An assertion of identity, qualification, competence, authority, rights, privileges, permissions, status, eligibility, or asset ownership (or a combination of these). A Credential contains a set of one or more Claims asserted about one or more Subjects.  [CAN/CIOSC 103-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
 
 * **Verifiable Credential** [California](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB786#93ENR) means a cryptographically secure set of information that is both of the following: (A) Created in accordance with open standards that comply with all existing privacy protections. (B) Shared through a user-controlled, portable means that can be authenticated through publicly available services.
 
 * **Credential** A document, object, or data structure that vouches for the identity of a person or other entity through some method of
 trust and authentication. [World Bank](https://www.developer.tech.gov.sg/assets/files/GovTech%20World%20Bank%20NDI%20APEX%20report.pdf)
 
-### Further definitions may provided by the evaluator or vendor:
+### Further definitions may provided by the evaluator or vendor
 
 * Relevant definitions
 
@@ -34,7 +34,6 @@ trust and authentication. [World Bank](https://www.developer.tech.gov.sg/assets/
 ### Determination of Activities and Methods of Test
 
 * Provide a description of activities undertaken and [methods of test](./methods-of-tests.md). used to btain information regarding the fulfillment of the conformity assessment  requirements. 
-
 
 ## Part 2: Object of Conformity Asssessment Requirements
 

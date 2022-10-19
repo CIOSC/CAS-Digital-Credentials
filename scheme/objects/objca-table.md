@@ -1,8 +1,10 @@
-# Objects of Conformity Assessment Schedule
+# Objects of Conformity Assessment
 
-Objects of Conformity Assessment definitions are adapted from selected techical specifications and standards and agreed to by the working group. The definition reflects a common understanding of what is required to define scope of method of test for the purposes of conformity.
+Objects of Conformity Assessment definitions ("object definitions") are adapted from selected techical specifications and standards and agreed to by the technical experts The definition reflects a common understanding and is used to define scope of the process, service or component and to specify the appropriate methods of test used for the purposes of conformity assessment.
 
-The objects of conformity assessment definitions are intended to be:
+## Object Definitions
+
+The objects definitions are intended to be:
 
 * **CONCISE** as agreed on by the technical experts.
 * **NORMATIVE** in relation to the conformity assessment scheme, scope, requirements and method of test.
@@ -16,9 +18,11 @@ The objects of conformity assessment definitions are intended to be:
 * **PILOT** - approved by the sponsor for pilot as part of a prototype conformity asssessment program (note: material may still be in draft phase)
 * **RELEASED** - material is finalized and released as part of a published deliverable.
 
-## Objects of Conformity Asessment Definitions
+Where possible, the object definitions are developed to be interpreted as a single process, service or component. If an object definition consists of several components (i.e. a composite object), this is further specified in the object template.
 
-Defined and listed in the table below
+## Table of Object Defintions
+
+The table below contains object definitions being developed by the technical experts.
 
 |Object of Conformity Assessment |Object of Conformity Assessment Definition|Status|
 |----|----|----|
