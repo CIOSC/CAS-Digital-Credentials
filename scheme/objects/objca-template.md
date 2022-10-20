@@ -14,8 +14,6 @@ Non-normative definitions which may assist in interpretation and application of 
 
 Further definitions may provided by the evaluator or vendor:
 
-
-
 ### Appropriate Use Cases
 
 * Provide descriptions of appropriate [use cases](./use-cases.md) that situate the context where the object of conformity is being used.
@@ -26,8 +24,7 @@ Further definitions may provided by the evaluator or vendor:
 
 ### Determination of Activities and Methods of Test
 
-* Provide a description of activities undertaken and [methods of test](./methods-of-tests.md). used to btain information regarding the fulfillment of the conformity assessment  requirements. 
-
+* Provide a description of activities undertaken and [methods of test](./methods-of-tests.md). used to btain information regarding the fulfillment of the conformity assessment  requirements.
 
 ## Part 2: Object of Conformity Asssessment Requirements
 

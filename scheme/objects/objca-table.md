@@ -24,7 +24,7 @@ Where possible, the object definitions are developed to be interpreted as a sing
 
 The table below contains object definitions being developed by the technical experts.
 
-|Object of Conformity Assessment |Object of Conformity Assessment Definition|Status|
+|Object of Conformity Assessment|Object of Conformity Assessment Definition|Status|
 |----|----|----|
 |**Digital Credential**|A portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information.|[DRAFT](./objca-digital-credential.md)|
 |**Digital Trust Service**|A Digital Trust Service is an enabling service that can include one or several of the followiing: digital credentials, verifiable data registries, issuing services, verifying services, and, digital wallet services.|PROPOSED|
@@ -84,3 +84,23 @@ A recognized body is any organization that develops a standards, specifications 
 * **Recommendations** - SHOULD, SHOULD NOT
 * **Permission** - MAY, MAY NOT
 * **Possibility and Capability** - CAN, CANNOT
+
+## Technology Readiness Levels
+
+Technology Readiness Levels (TRL) describe the different stages of pre-commercial development.
+
+All objects of conformity SHOULD be TRL 7 or greater
+
+|TRL|Short Definition|Description|Example of Activities|
+|----|----|----|----|
+|1|Basic principles observed and reported.|Lowest level of technology readiness. Scientific research begins to be translated into applied research and development (R&D).|Activities might include paper studies of a technology's basic properties.|
+|2|Technology concept and/or application formulated.|Invention begins. Once basic principles are observed, practical applications can be invented. Applications are speculative, and there may be no proof or detailed analysis to support the assumptions.|Activities are limited to analytic studies.|
+|3|Analytical and experimental critical function and/or characteristic proof of concept.|Active R&D is initiated. This includes analytical studies and laboratory studies to physically validate the analytical predictions of separate elements of the technology.|Activities include components that are not yet integrated or representative.|
+|4|Component(s)/subsystem(s) and/or process validation in a laboratory environment.|Basic technological components are integrated to establish that they will work together.|Activities include integration of "ad hoc" hardware in the laboratory.|
+|5|Semi-integrated component(s)/subsystem(s) and/or process validation in a simulated environment.|The basic technological components are integrated for testing in a simulated environment.|Activities include laboratory integration of components.|
+|6|System and/or process prototype demonstration in a simulated environment.|A model or prototype that represents a near desired configuration.|Activities include testing a model or prototype in a simulated or laboratory environment.|
+|7|Prototype system ready (form, fit, and function) for demonstration in an appropriate operational environment.|Prototype is ready for demonstration in an operational environment and is at planned operational level.|Activities include prototype field testing in a real-world operational setting.|
+|8|Actual technology completed and qualified through tests and demonstrations.|Technology has been proven to work in its final form and under expected conditions.|Activities include developmental testing and evaluation of whether it will meet operational requirements.|
+|9|Actual technology proven through successful deployment in an operational setting.|Actual application of the technology in its final form and under real-life conditions, such as those encountered in operational tests and evaluations.|Activities include using the innovation under operational conditions.|
+
+[Source: ISC Technology Readiness Scale](https://ised-isde.canada.ca/site/innovative-solutions-canada/en/isc-technology-readiness-level-scale)
