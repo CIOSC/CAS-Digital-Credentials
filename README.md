@@ -2,6 +2,8 @@
 
 ![GitHub issues](https://img.shields.io/github/issues/CIOSC/CAS-Digital-Credentials)
 ![GitHub Discussions](https://img.shields.io/github/discussions/CIOSC/CAS-Digital-Credentials)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CIOSC/CAS-Digital-Credentials)
+![GitHub contributors](https://img.shields.io/github/contributors/CIOSC/CAS-Digital-Credentials)
 
 ## Overview of this Repository
 
