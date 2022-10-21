@@ -1,5 +1,8 @@
 # Standardization for Digital Credentials & Digital Trust Services
 
+![GitHub issues](https://img.shields.io/github/issues/CIOSC/CAS-Digital-Credentials)
+![GitHub Discussions](https://img.shields.io/github/discussions/CIOSC/CAS-Digital-Credentials)
+
 ## Overview of this Repository
 
 This repository is the open collaboration workspace for the development of conformity assessment tools and publicatons for digital credentials and the digital trust services in Canada. These tools are intended to establish trust, enable national and international interoperability, and mitigate risks of platform capture and industry fragmentation.
