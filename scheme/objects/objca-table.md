@@ -31,6 +31,7 @@ The table below contains object definitions being developed by the technical exp
 |**Identifier**|The set of identity attributes used to uniquely distinguish a particular entity within a population.`|PROPOSED|
 |**Decentralized Identifier**|A globally unique persistent identifier that does not require a centralized registration authority and is often generated and/or registered cryptographically.|PROPOSED|
 |**Assigned Identifier**|A numeric or alphanumeric string that is generated automatically and that uniquely distinguishes between Entities within a population without the use of any other identity attributes.|PROPOSED|
+|**Verifiable Identifier**|A type of identifier which its control can be independently verified (generally by cryptographic means|PROPOSED|
 |**Issuer Role**|A role in which an entity asserts one or more claims about one or more Subjects, creates a credential from these claims, and assigns the credential to a Holder.|[DRAFT](./objca-issuer.md)|
 |**Issuer**|A process, service or component that generates and signs the digital credential|PROPOSED|
 |**Verifier Role**|A role in which an entity accepts a Presentation (Proof) from a prover (usually a Holder) for the purposes of delivering services, administering programs or yielding an ACCEPT or REJECT decision.|PROPOSED|
