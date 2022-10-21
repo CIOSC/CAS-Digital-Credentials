@@ -27,6 +27,7 @@ Credential formats SHALL be:
 * JSON-LD ZKP with BBS+
 * JWP
 * X.509
+* Verifiable PDF
 
 ### Determination of Activities and Methods of Test
 
