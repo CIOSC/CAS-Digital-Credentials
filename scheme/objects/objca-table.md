@@ -36,7 +36,7 @@ The table below contains object definitions being developed by the technical exp
 |**Verifier Role**|A role in which an entity accepts a Presentation (Proof) from a prover (usually a Holder) for the purposes of delivering services, administering programs or yielding an ACCEPT or REJECT decision.|PROPOSED|
 |**Verifier**|A process, service or component that verifies the presentation of a credential to yield an ACCEPT or REJECT decision|Proposed|
 |**Key**|A key is data structure that represents a key or a secret.|PROPOSED|
-|**Presentation**|A Presentaion is information derived from one or more Credentials. The source Credentials may have been issued by different Issuers.|PROPOSED|
+|**Presentation**|A Presentation is information derived from one or more Credentials. The source Credentials may have been issued by different Issuers.|PROPOSED|
 |**Signature**|An electronic representation where, at a minimum: the entity signing the data can be associated with the electronic representation, it is clear that the entity intended to sign, the reason or purpose for signing is conveyed, and the data integrity of the signed transaction is maintained, including the original. **Alternate definition:** A key represents content secured with a digital   signature or message authentication code |PROPOSED|
 |**Holder Role**|A role in which an entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.|PROPOSED|
 |**Holder**|A process, service or component from which a Presentation can be expressed to a Verifier. A Holder is usually under the control of a User|PROPOSED|
