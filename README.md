@@ -24,7 +24,7 @@ The **National Technical Specification (TS-115)** is being collaboratively devel
 ## Project Detail Summary
 
 * This project is being carried out under CIOSC Service Agreement No. 2022‐07 ‐ National Technical Specification for digital credentials and digital trust services. An excerpt of the [statement of work](./docs/statement-of-work.md) is available.
-* The primary deliverable is the [Technical Specification](./scheme/scheme.md) which is being developed as a Github repository, consisting of  comformity assessment scheme elements that can be used to define a small-scale set of conformity assessment criteria to support a protototy conformity assessment program.
+* The primary deliverable is the [Technical Specification](https://github.com/CIOSC/CAS-Digital-Credentials/blob/main/build/build.md) which is being developed as a Github repository, consisting of  comformity assessment scheme elements that can be used to define a small-scale set of conformity assessment criteria to support a protototy conformity assessment program.
 * The elements of the technical specification that are developed are part of this service agreement are organized within the context of a [Conformity Assessment Scheme Document](./scheme/scheme.md) intended to support a prototype conformity assessment program.
 
 ## Program Context
