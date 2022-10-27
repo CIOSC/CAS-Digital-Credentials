@@ -7,7 +7,7 @@
 
 ## Overview of this Repository
 
-This repository is the open collaboration workspace for the development of conformity assessment tools and publicatons for digital credentials and the digital trust services in Canada. These tools are intended to establish trust, enable national and international interoperability, and mitigate risks of platform capture and industry fragmentation.
+This repository is the open collaboration workspace for the development of conformity assessment tools and publications for digital credentials and the digital trust services in Canada. These tools are intended to establish trust, enable national and international interoperability, and mitigate risks of platform capture and industry fragmentation.
 
 
 [Standards Council of Canada Press Release](https://www.scc.ca/en/news-events/news/2021/national-technical-specification-for-digital-credentials-provide-greater-privacy-and-security-for)
