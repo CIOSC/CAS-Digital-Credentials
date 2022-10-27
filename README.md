@@ -1,4 +1,4 @@
-# Standardization for Digital Credentials & Digital Trust Services
+# Conformity Assessment Scheme for Digital Credentials, Digital Trust Services, and Digital Wallets
 
 ![GitHub issues](https://img.shields.io/github/issues/CIOSC/CAS-Digital-Credentials)
 ![GitHub Discussions](https://img.shields.io/github/discussions/CIOSC/CAS-Digital-Credentials)
@@ -7,25 +7,26 @@
 
 ## Overview of this Repository
 
-This repository is the open collaboration workspace for the development of conformity assessment tools and publications for digital credentials and the digital trust services in Canada. These tools are intended to establish trust, enable national and international interoperability, and mitigate risks of platform capture and industry fragmentation.
+This repository contains the conformity assessment scheme for digital credentials, digital trust services and digital wallets.
 
+This repository also provided an open collaboration workspace for the development of conformity assessment assessment technical specifications for digital credentials, digital trust services and digital wallets within the Canada market. These tools are intended to establish trust, enable national and international interoperability, and mitigate risks of platform capture and industry fragmentation.
 
-[Standards Council of Canada Press Release](https://www.scc.ca/en/news-events/news/2021/national-technical-specification-for-digital-credentials-provide-greater-privacy-and-security-for)
+## Current Project Activity Summary
+
+* A current project is being carried out under CIOSC Service Agreement No. 2022‐07 ‐ National Technical Specification for digital credentials and digital trust services. An excerpt of the [statement of work](./docs/statement-of-work.md) is available.
+* The primary deliverable is the [Technical Specification](https://github.com/CIOSC/CAS-Digital-Credentials/blob/main/build/build.md) which is being developed as a Github repository, consisting of  comformity assessment scheme elements that can be used to define a small-scale set of conformity assessment criteria to support a protototy conformity assessment program.
+* The elements of the technical specification that are developed are part of this service agreement are organized within the context of a [Conformity Assessment Scheme Document](./scheme/scheme.md) intended to support a prototype conformity assessment program.
+
 
 ## Technical Specification Deliverables
 
-Deliverables are being developed through a multi-phased approach with on-going opportunities for consultation and feedback from national and international stakeholders.
+Currently, the **National Technical Specification (TS-115)** is being collaboratively developed by means of this repository. Background on this activity may be found at: [Standards Council of Canada Press Release](https://www.scc.ca/en/news-events/news/2021/national-technical-specification-for-digital-credentials-provide-greater-privacy-and-security-for)
 
-The **National Technical Specification (TS-115)** is being collaboratively developed by means of this repository. The initial version of the technical specification is being developed by a technical committee and draft working versions are are periodically built based on this repo.
+By means of this repository, content is developed technical experts and draft working versions of the techical specificatios are built on a periodic basis for for peer review.
 
 * Draft working versions of the technical specifications are available as .docx and .pdf at: [Technical Specification - working versions](./build/build.md).
 * Finalized versions of the technical specification will be published and made available in English and French [here](./publish/publish.md)
 
-## Project Detail Summary
-
-* This project is being carried out under CIOSC Service Agreement No. 2022‐07 ‐ National Technical Specification for digital credentials and digital trust services. An excerpt of the [statement of work](./docs/statement-of-work.md) is available.
-* The primary deliverable is the [Technical Specification](https://github.com/CIOSC/CAS-Digital-Credentials/blob/main/build/build.md) which is being developed as a Github repository, consisting of  comformity assessment scheme elements that can be used to define a small-scale set of conformity assessment criteria to support a protototy conformity assessment program.
-* The elements of the technical specification that are developed are part of this service agreement are organized within the context of a [Conformity Assessment Scheme Document](./scheme/scheme.md) intended to support a prototype conformity assessment program.
 
 ## Program Context
 
