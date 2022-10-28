@@ -40,13 +40,13 @@ Please refer to [W3C Verifiable Credentials Use Cases](https://www.w3.org/TR/vc-
 
 ### Determination of Activities and Methods of Test
 
-* Provide a description of activities undertaken and [methods of test](./methods-of-tests.md). used to btain information regarding the fulfillment of the conformity assessment requirements.
+1. Methods of test SHALL include one or more the following:
+    * Black box testing
+    * Automated testing where feasible
+    * Manual testing with documented scripts
+2. Methods of test SHALL reference a recommendation, standard, or specification published by a recognized body.
+3. All conformity assessment requirements SHALL be verifiable via the appropriate method of test
 
-Methods of test SHOULD include one or more the following:
-
-* Black box testing
-* Automated testing where feasible
-* Manual testing with documented scripts
 
 ## Part 2: Object of Conformity Asssessment Requirements
 
@@ -54,6 +54,7 @@ Methods of test SHOULD include one or more the following:
     * JSON
     * JSON-LD
     * W3C VC Data Model
+    * ISO 18013-5
 2. A test plan that demonstrate conformance to the relevant specification or standard. The test plan should be sufficiently detailed to include specific test cases with specific inputs, outputs, execution conditions, testing procedures and expected results.
 3. Use cases SHALL be provided to illustrate how the digital credential behaves in context. Thes MAY include one or several of the following:
     * Issue Credential

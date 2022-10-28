@@ -122,6 +122,7 @@ References to specifications,standards and recommendations for consideration as 
 * [Digital Credentials Consortium: Credentials to Employment: The Last Mile](https://digitalcredentials.mit.edu/docs/Credentials-to-Employment-The-Last-Mile.pdf)
 * [RWOT Enterprise Stakeholder Map](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/draft-documents/ssi-stakeholder-mapping.md)
 * [RWOT Credential Profile Matrix](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/draft-documents/credential-profile-comparison.md)
+* [T3 Innovation Network: APPLYING SELF-SOVEREIGN IDENTITY PRINCIPLES TO INTEROPERABLE LEARNING RECORDS](https://www.uschamberfoundation.org/sites/default/files/media-uploads/Applying%20SSI%20Principles%20to%20ILRs%20Report.pdf)
 
 ## Academic Research and Papers
 
