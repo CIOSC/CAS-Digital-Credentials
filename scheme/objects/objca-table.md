@@ -24,6 +24,8 @@ Where possible, the object definitions are developed to be interpreted as a sing
 
 The table below contains object definitions being developed by the technical experts.
 
+## Prioritized Subset for TS-115
+
 |Object of Conformity Assessment|Object of Conformity Assessment Definition|Status|
 |----|----|----|
 |**Digital Credential**|A portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information.|[DRAFT](./objca-digital-credential.md)|
@@ -56,6 +58,8 @@ The table below contains object definitions being developed by the technical exp
 |**Selective Disclosure**|The ability of a user to make nuanced decisions about what information to share.|PROPOSED|
 |**Predicate**| The ability of a user to check a value against a certain condition, disclosing only true or false without revealing the value.|PROPOSED|
 |**Rich Schema**|Hierarchically composable graph-based representations of complex data.|PROPOSED|
+
+## Prioritized Subset for TS-115
 
 ### Other Objects of Conformity Assessment for consideration (from DHS)
 
