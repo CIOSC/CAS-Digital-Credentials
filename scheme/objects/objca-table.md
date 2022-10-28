@@ -24,30 +24,40 @@ Where possible, the object definitions are developed to be interpreted as a sing
 
 The table below contains object definitions being developed by the technical experts.
 
-## Prioritized Subset for TS-115
+## Minimal Viable Set for TS-115
 
 |Object of Conformity Assessment|Object of Conformity Assessment Definition|Status|
 |----|----|----|
 |**Digital Credential**|A portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information.|[DRAFT](./objca-digital-credential.md)|
+|**Issuer**|A process, service or component that generates and signs the digital credential|[DRAFT](./objca-issuer.md)|
+|**Issuer Role**|A role in which an entity asserts one or more claims about one or more Subjects, creates a credential from these claims, and assigns the credential to a Holder.|[DRAFT](./objca-issuer.md)|
+|**Holder**|A process, service or component from which a Presentation can be expressed to a Verifier. A Holder is usually under the control of a User|[DRAFT](./objca-holder.md)|
+|**Holder Role**|A role in which an entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.|[DRAFT](./objca-holder.md)|
+
+## Prioritized Subset
+
+|Object of Conformity Assessment|Object of Conformity Assessment Definition|Status|
+|----|----|----|
 |**Digital Trust Service**|A Digital Trust Service is an enabling service that can include one or several of the followiing: digital credentials, verifiable data registries, issuing services, verifying services, and, digital wallet services.|PROPOSED|
-|**Identifier**|The set of identity attributes used to uniquely distinguish a particular entity within a population.`|PROPOSED|
 |**Decentralized Identifier**|A globally unique persistent identifier that does not require a centralized registration authority and is often generated and/or registered cryptographically.|PROPOSED|
+|**Verifier**|A process, service or component that verifies the presentation of a credential to yield an ACCEPT or REJECT decision|Proposed|
+|**Verifier Role**|A role in which an entity accepts a Presentation (Proof) from a prover (usually a Holder) for the purposes of delivering services, administering programs or yielding an ACCEPT or REJECT decision.|PROPOSED|
+|**Credential Proof**|see Cryptographic Proof|PROPOSED|
+|**Credential Format**|A Credential Format is used to specify: 1. Identifier of the credential issuer, 2. Schema of issued credential. 3. Keys used to sign claims within the credential 4. Cryptographic methods used. 5. Revocation methods (optional)|[DRAFT](./objca-credential-format.md)|
+
+## Others
+
+|Object of Conformity Assessment|Object of Conformity Assessment Definition|Status|
+|----|----|----|
+|**Identifier**|The set of identity attributes used to uniquely distinguish a particular entity within a population.`|PROPOSED|
 |**Assigned Identifier**|A numeric or alphanumeric string that is generated automatically and that uniquely distinguishes between Entities within a population without the use of any other identity attributes.|PROPOSED|
 |**Verifiable Identifier**|A type of identifier which its control can be independently verified (generally by cryptographic means|PROPOSED|
-|**Issuer Role**|A role in which an entity asserts one or more claims about one or more Subjects, creates a credential from these claims, and assigns the credential to a Holder.|[DRAFT](./objca-issuer.md)|
-|**Issuer**|A process, service or component that generates and signs the digital credential|PROPOSED|
-|**Verifier Role**|A role in which an entity accepts a Presentation (Proof) from a prover (usually a Holder) for the purposes of delivering services, administering programs or yielding an ACCEPT or REJECT decision.|PROPOSED|
-|**Verifier**|A process, service or component that verifies the presentation of a credential to yield an ACCEPT or REJECT decision|Proposed|
 |**Key**|A key is data structure that represents a key or a secret.|PROPOSED|
 |**Presentation**|A Presentation is information derived from one or more Credentials. The source Credentials may have been issued by different Issuers.|PROPOSED|
 |**Signature**|An electronic representation where, at a minimum: the entity signing the data can be associated with the electronic representation, it is clear that the entity intended to sign, the reason or purpose for signing is conveyed, and the data integrity of the signed transaction is maintained, including the original. **Alternate definition:** A key represents content secured with a digital   signature or message authentication code |PROPOSED|
-|**Holder Role**|A role in which an entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.|PROPOSED|
-|**Holder**|A process, service or component from which a Presentation can be expressed to a Verifier. A Holder is usually under the control of a User|PROPOSED|
 |**Cryptographic Proof**|A Cryptographic Proof is a method by which one party (the prover) can prove to another party (the verifier) that a given statement is true while avoiding conveying additional information apart from the fact that the statement is true.|PROPOSED|
 |**Storage**|A foundational layer for secure data storage, including personal data, including data models for storage and transport, syntax, data at rest protection, CRUD API, access control, synchronization, and a minimum viable HTTP-based interface compatible with W3C DIDs/VCs.|PROPOSED|
 |**Schema**|A Schema is used to define a set of attributes and data types in order to provide a layer of semantic interoperability with other entities utilising the same schema.|PROPOSED|
-|**Credential Format**|A Credential Format is used to specify: 1. Identifier of the credential issuer, 2. Schema of issued credential. 3. Keys used to sign claims within the credential 4. Cryptographic methods used. 5. Revocation methods (optional)|[DRAFT](./objca-credential-format.md)|
-|**Credential Proof**|see Cryptographic Proof|PROPOSED|
 |**Credential Exchange**|Credential Exchange is the set of protocols required to 1. Issue a Credential to a Holder, 2) Present a Proof to a Verifier|PROPOSED|
 |**Credential Binding**|Credential Binding is the process of associating a Credential issued to a Holder|PROPOSED|
 |**Credential Data Model**|A credential data model organizes elements of data and standardizes how they relate to one another and to the properties of real-world|PROPOSED|
