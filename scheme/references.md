@@ -14,6 +14,7 @@ Link to relevant references. All references are provided without warrant or endo
 * [Digital Credentials Consortium](https://digitalcredentials.mit.edu/)
 * [Grongingen Declaration Network](https://www.groningendeclaration.org/2022-groningen/)
 * [European Self Sovereign Identity Framework](https://decentralized-id.com/government/europe/eSSIF/)
+* [eSSIF-Lab Framework](https://github.com/essif-lab/framework)
 * [Open Wallet Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-an-intent-to-form-the-openwallet-foundation)
 * [Open Wallet Foundation GitHub Repo](https://github.com/openwallet-foundation)
 * [Ontario's Digital ID: Technology and standards](https://www.ontario.ca/page/ontarios-digital-id-technology-and-standards)

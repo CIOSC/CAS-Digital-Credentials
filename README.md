@@ -38,3 +38,6 @@ This repo and associated technical specification deliverables are intended to su
 This repo is intended to provide the context of a prototype conformity assessment scheme for which the technical specification may be applied.
 
 This project is managed by the [Standards Council of Canada](https://www.scc.ca/) and has many opportunties for involvement of government bodies, standards development organizations, certification bodies, and developers of digital credentials and digital trust products and services.
+
+---
+Interested in contributing? Here is a great resource on [Open Source](https://opensource.guide/)
