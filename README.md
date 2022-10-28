@@ -17,7 +17,6 @@ This repository also provided an open collaboration workspace for the developmen
 * The primary deliverable is the [Technical Specification](https://github.com/CIOSC/CAS-Digital-Credentials/blob/main/build/build.md) which is being developed as a Github repository, consisting of  comformity assessment scheme elements that can be used to define a small-scale set of conformity assessment criteria to support a protototy conformity assessment program.
 * The elements of the technical specification that are developed are part of this service agreement are organized within the context of a [Conformity Assessment Scheme Document](./scheme/scheme.md) intended to support a prototype conformity assessment program.
 
-
 ## Technical Specification Deliverables
 
 Currently, the **National Technical Specification (TS-115)** is being collaboratively developed by means of this repository. Background on this activity may be found at: [Standards Council of Canada Press Release](https://www.scc.ca/en/news-events/news/2021/national-technical-specification-for-digital-credentials-provide-greater-privacy-and-security-for)
@@ -26,7 +25,6 @@ By means of this repository, content is developed technical experts and draft wo
 
 * Draft working versions of the technical specifications are available as .docx and .pdf at: [Technical Specification - working versions](./build/build.md).
 * Finalized versions of the technical specification will be published and made available in English and French [here](./publish/publish.md)
-
 
 ## Program Context
 
