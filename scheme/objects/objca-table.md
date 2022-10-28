@@ -20,11 +20,11 @@ The objects definitions are intended to be:
 
 Where possible, the object definitions are developed to be interpreted as a single process, service or component. If the definition implies  a role, then this will be specified as part of the definition. If an object definition consists of several components (i.e. a composite object), this is further specified in the object template.
 
-## Table of Object Defintions
 
-The table below contains object definitions being developed by the technical experts.
 
 ## Minimal Viable Set for TS-115
+
+Conformity assessment object definitions being developed by the technical experts for inclusion in TS-115
 
 |Object of Conformity Assessment|Object of Conformity Assessment Definition|Status|
 |----|----|----|
@@ -34,7 +34,9 @@ The table below contains object definitions being developed by the technical exp
 |**Holder**|A process, service or component from which a Presentation can be expressed to a Verifier. A Holder is usually under the control of a User|[DRAFT](./objca-holder.md)|
 |**Holder Role**|A role in which an entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.|[DRAFT](./objca-holder.md)|
 
-## Prioritized Subset
+## Priority List
+
+Conformity assessment object definitions that will be included in subsequent document releases.
 
 |Object of Conformity Assessment|Object of Conformity Assessment Definition|Status|
 |----|----|----|
@@ -46,6 +48,8 @@ The table below contains object definitions being developed by the technical exp
 |**Credential Format**|A Credential Format is used to specify: 1. Identifier of the credential issuer, 2. Schema of issued credential. 3. Keys used to sign claims within the credential 4. Cryptographic methods used. 5. Revocation methods (optional)|[DRAFT](./objca-credential-format.md)|
 
 ## Others
+
+Conformity assessment object definitions that are under consideration and may be included in subsquent document releases.
 
 |Object of Conformity Assessment|Object of Conformity Assessment Definition|Status|
 |----|----|----|
@@ -69,32 +73,29 @@ The table below contains object definitions being developed by the technical exp
 |**Predicate**| The ability of a user to check a value against a certain condition, disclosing only true or false without revealing the value.|PROPOSED|
 |**Rich Schema**|Hierarchically composable graph-based representations of complex data.|PROPOSED|
 
-## Prioritized Subset for TS-115
 
-### Other Objects of Conformity Assessment for consideration (from DHS)
-
-* Signing Algorithm
-* Revocation Algorithm
-* Key Management - Issuer
-* Key Management - Holder
-* Encoding Scheme
 
 ## Recognized Bodies
 
-A recognized body is any organization that develops a standards, specifications or recommendation that is used is conjuction with conformity assessment scheme.
+Recognized bodies are any organizations that develop standards, specifications or recommendations and which have established governance and  processes that ensure fair development and ongoing maintenance of published materials. Standards, specificatios and recommendations used in conjunction for conformity assessment SHALL be published by a recognized body.
 
-(To be reviewed:)
+Recognized bodies (under review)
 
-* DIF
-* FIDO
-* Hyperledger
-* IETF
-* ISO
-* ICAO
-* ToIP
-* W3C
+|Acronym/Short Name|Official Name|Website|
+|---|---|---|
+|DIF|Decentralized Identity Foundation| <https://identity.foundation>|
+|FIDO|FIDO Alliance|<https://fidoalliance.org/>|
+Hyperledger|Hyperledger Foundation, Aries|<https://www.hyperledger.org/use/aries>|
+|IETF|Internet Engineering Task Force|<https://www.ietf.org/>|
+|NIST|National Institute for Standards and Technology|<https://www.nist.gov/>|
+|ISO|International Organization for Standardization|<https://www.iso.org/home.html>|
+|ICAO|International Civil Aviation Organization|<https://www.icao.int/Pages/default.aspx>|
+|ToIP|Trust Over IP Foundation|<https://trustoverip.org/>|
+|W3C|Worldwide Web Consortium|<https://www.w3.org>|
 
 ## ISO Conventions for Requirements
+
+Recommended terminology for conformity assessment requirements:
 
 * **Requirements** - SHALL, SHALL NOT
 * **Recommendations** - SHOULD, SHOULD NOT
@@ -105,7 +106,7 @@ A recognized body is any organization that develops a standards, specifications 
 
 Technology Readiness Levels (TRL) describe the different stages of pre-commercial development.
 
-All objects of conformity SHOULD be TRL 7 or greater
+All objects of conformity SHOULD be assessed at TRL 7 or greater
 
 |TRL|Short Definition|Description|Example of Activities|
 |----|----|----|----|
