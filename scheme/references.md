@@ -105,6 +105,7 @@ References to specifications,standards and recommendations for consideration as 
 * [Hyperledger Aries Interoperability Information](https://aries-interop.info/)
 * [Tonomy DID-JWT-VC implementation](https://github.com/Tonomy-Foundation/Antelope-SSI-Toolkit/issues/17#issuecomment-1263319391)
 * [W3C Status List 2021](https://w3c-ccg.github.io/vc-status-list-2021/)
+* [TBD Verifiable Credential Selector](https://developer.tbd.website/blog/announcing-web5-verifiable-credential-selector/)
 
 ## Industry/Vendor Reports, Blogs, Media Articles, etc
 
@@ -123,6 +124,7 @@ References to specifications,standards and recommendations for consideration as 
 * [RWOT Enterprise Stakeholder Map](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/draft-documents/ssi-stakeholder-mapping.md)
 * [RWOT Credential Profile Matrix](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/draft-documents/credential-profile-comparison.md)
 * [T3 Innovation Network: APPLYING SELF-SOVEREIGN IDENTITY PRINCIPLES TO INTEROPERABLE LEARNING RECORDS](https://www.uschamberfoundation.org/sites/default/files/media-uploads/Applying%20SSI%20Principles%20to%20ILRs%20Report.pdf)
+
 
 ## Academic Research and Papers
 
