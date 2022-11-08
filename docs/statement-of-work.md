@@ -1,6 +1,8 @@
 # Project
+
 The Supplier will provide standardization expertise and collaborate with a team of experts to develop, publish, and distribute a national Technical Specification (TS), in both English and French, to enable interoperability and mutual support for digital credentials and digital trust services across the economy and society.
-# Background
+## Background
+
 Currently in Canada, there is no way to verify/certify if digital credentials and digital trust services meet the requirements of emerging standards because no SCC-accredited conformity assessment program exists to ensure they meet the national or international standards, including for interoperability, privacy and security. 
 
 Some action has already been taken at the provincial level. For example, Quebec launched a 5-year project to create a blockchain-based digital ID and digital wallet for every Quebec resident. Both British Columbia and Alberta offer digital identities to their citizens as a secure way to access government services, which are integrated with federal government services. Ontario also recently announced the start of industry consultations with the intent to implement digital identity by the end of 2021. 
@@ -13,8 +15,10 @@ The TS will provide technical requirements for digital credentials and digital t
 
 The prototype conformity assessment program will be tested in a sandbox with close oversight, participation, and feedback from Canadian governments. This will not only help shed light on the impact of certain requirements upon organizations providing digital credentials and/or digital trust services, but it will also provide unprecedented access by Canadian governments to the standards and conformity assessment development process. These standardization solutions will help Canadian governments respond to the emerging concerns and challenges around privacy, digital trade and commerce, exchange of data and assets, to name a few.
 
-# Definitions
-**Digital credentials** are portable digital records about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled digital wallet. They are the digital representation of traditionally physical certificates or information such as: 
+## Definitions
+
+**Digital credentials** are portable digital records about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled digital wallet. They are the digital representation of traditionally physical certificates or information such as:
+
 * Personal identification
 * Proof of payment (plane ticket)
 * Certificate of incorporation 
@@ -24,8 +28,10 @@ The prototype conformity assessment program will be tested in a sandbox with clo
 
 **Digital trust services** are enabling services for digital credentials, such as a blockchain-based verifiable data registries, issuing and verifying services, and digital wallets. References: SCC’s draft standards landscape on digital credentials and data trusts (to be provided by SCC on signing of contract)
 
-# Scope
-The Technical Specification will support a prototype conformity assessment program for digital credentials and digital trust services. The TS is intended to be a method of test, which provides repeatable and reproducible procedures with consistent outcomes for the assessment of the product. This would deliver a small-scale set of conformity assessment criteria that are based directly on digital credential policy and regulatory objectives of Canadian governments. It must, at a minimum support conformity assessment needs that will 
+## Scope
+
+The Technical Specification will support a prototype conformity assessment program for digital credentials and digital trust services. The TS is intended to be a method of test, which provides repeatable and reproducible procedures with consistent outcomes for the assessment of the product. This would deliver a small-scale set of conformity assessment criteria that are based directly on digital credential policy and regulatory objectives of Canadian governments. It must, at a minimum support conformity assessment needs that will:
+
 * provide market structure and clarity for digital credentials and digital trust services. 
 * enable interoperability and mutual support for digital credentials and digital trust services nationally and internationally.
 * offer an avenue for product differentiation and competition between developers and providers.
