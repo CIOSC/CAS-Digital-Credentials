@@ -124,7 +124,8 @@ References to specifications,standards and recommendations for consideration as 
 * [RWOT Enterprise Stakeholder Map](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/draft-documents/ssi-stakeholder-mapping.md)
 * [RWOT Credential Profile Matrix](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/draft-documents/credential-profile-comparison.md)
 * [T3 Innovation Network: APPLYING SELF-SOVEREIGN IDENTITY PRINCIPLES TO INTEROPERABLE LEARNING RECORDS](https://www.uschamberfoundation.org/sites/default/files/media-uploads/Applying%20SSI%20Principles%20to%20ILRs%20Report.pdf)
-
+* [VC <> mDL Project Stakeholder Interviews](https://medium.com/@identitywoman-in-business/vc-mdl-project-stakeholder-interviews-6d175da09598)
+* [VC <> mDL Summary Report](https://docs.google.com/document/d/1YaMqEQzxt9GE35R2Sbmmh9Nncl8P44JxKEvPls8WXEc/edit)
 
 ## Academic Research and Papers
 
