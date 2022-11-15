@@ -127,6 +127,12 @@ References to specifications,standards and recommendations for consideration as 
 * [VC <> mDL Project Stakeholder Interviews](https://medium.com/@identitywoman-in-business/vc-mdl-project-stakeholder-interviews-6d175da09598)
 * [VC <> mDL Summary Report](https://docs.google.com/document/d/1YaMqEQzxt9GE35R2Sbmmh9Nncl8P44JxKEvPls8WXEc/edit)
 
+## Working Groups
+
+* [ISO/IEC JTC 1/SC 17 Cards and Security Devices](https://www.iso.org/committee/45144.html)
+* [W3C Verifiable Credentials Working Group](https://www.w3.org/2017/vc/WG/)
+* [OpenID Connect Working Group](https://openid.net/wg/)
+
 ## Academic Research and Papers
 
 * [Stanford Proofs in Cryptography](https://crypto.stanford.edu/~ananthr/docs/crypto-proofs.pdf)

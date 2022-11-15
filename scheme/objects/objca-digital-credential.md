@@ -19,6 +19,14 @@ Non-normative definitions which may assist in interpretation and application of 
 * **Credential** A document, object, or data structure that vouches for the identity of a person or other entity through some method of
 trust and authentication. [World Bank](https://www.developer.tech.gov.sg/assets/files/GovTech%20World%20Bank%20NDI%20APEX%20report.pdf)
 
+### Key Characteristics
+
+In general, a well-formed digital credential has three components:
+
+1. **Metadata** Provides information about the credential. 
+2. **Payload** Contains the actual content of the credential, which is attested by the issuer of the credential. The content may consist of a set of one or claims, and any additional information that the issuer intends to be relied on by other parties.
+3. **Proof** A method to detect to tampering and to verify the authorship of the credential.
+
 ### Appropriate Use Cases
 
 * Provide descriptions of appropriate [use cases](./use-cases.md) that situate the context where the object of conformity is being used.

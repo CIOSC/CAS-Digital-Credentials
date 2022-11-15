@@ -30,9 +30,8 @@ Conformity assessment object definitions being developed by the technical expert
 |----|----|----|
 |**Digital Credential**|A portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information.|[DRAFT](./objca-digital-credential.md)|
 |**Issuer**|A process, service or component that generates and signs the digital credential|[DRAFT](./objca-issuer.md)|
-|**Issuer Role**|A role in which an entity asserts one or more claims about one or more Subjects, creates a credential from these claims, and assigns the credential to a Holder.|[DRAFT](./objca-issuer.md)|
 |**Holder**|A process, service or component from which a Presentation can be expressed to a Verifier. A Holder is usually under the control of a User|[DRAFT](./objca-holder.md)|
-|**Holder Role**|A role in which an entity that controls one or more Credentials from which a Presentation can be expressed to a Verifier. A Holder is usually, but not always, the Subject of a Credential.|[DRAFT](./objca-holder.md)|
+|**Verifier**|A process, service or component that verifies the presentation of a credential to yield an ACCEPT or REJECT decision|[DRAFT](./objca-verifier.md)|
 
 ## Priority List
 
@@ -42,9 +41,7 @@ Conformity assessment object definitions that will be included in subsequent doc
 |----|----|----|
 |**Digital Trust Service**|A Digital Trust Service is an enabling service that can include one or several of the followiing: digital credentials, verifiable data registries, issuing services, verifying services, and, digital wallet services.|PROPOSED|
 |**Decentralized Identifier**|A globally unique persistent identifier that does not require a centralized registration authority and is often generated and/or registered cryptographically.|PROPOSED|
-|**Verifier**|A process, service or component that verifies the presentation of a credential to yield an ACCEPT or REJECT decision|Proposed|
-|**Verifier Role**|A role in which an entity accepts a Presentation (Proof) from a prover (usually a Holder) for the purposes of delivering services, administering programs or yielding an ACCEPT or REJECT decision.|PROPOSED|
-|**Credential Proof**|see Cryptographic Proof|PROPOSED|
+|**Credential Proof**|A generalized proof (or set of proofs) that can be used to demonstrate one or more of: that the credential is valid, that the information (or derived information) is consistent with the intent for which it was issued, that the credential has not been tampered with, and, that the credential is being presented by the Holder (or authorized delegate) to whom it was issued. The proofs may employ cryptographic, or non-cryptographic means|PROPOSED|
 |**Credential Format**|A Credential Format is used to specify: 1. Identifier of the credential issuer, 2. Schema of issued credential. 3. Keys used to sign claims within the credential 4. Cryptographic methods used. 5. Revocation methods (optional)|[DRAFT](./objca-credential-format.md)|
 
 ## Others
@@ -63,7 +60,7 @@ Conformity assessment object definitions that are under consideration and may be
 |**Storage**|A foundational layer for secure data storage, including personal data, including data models for storage and transport, syntax, data at rest protection, CRUD API, access control, synchronization, and a minimum viable HTTP-based interface compatible with W3C DIDs/VCs.|PROPOSED|
 |**Schema**|A Schema is used to define a set of attributes and data types in order to provide a layer of semantic interoperability with other entities utilising the same schema.|PROPOSED|
 |**Credential Exchange**|Credential Exchange is the set of protocols required to 1. Issue a Credential to a Holder, 2) Present a Proof to a Verifier|PROPOSED|
-|**Credential Binding**|Credential Binding is the process of associating a Credential issued to a Holder|PROPOSED|
+|**Holder Binding**|Holder Binding is the process of associating a Credential issued to a Holder and limiting its control to the associated Holder|PROPOSED|
 |**Credential Data Model**|A credential data model organizes elements of data and standardizes how they relate to one another and to the properties of real-world|PROPOSED|
 |**Revocation Method**|A Revocation Method generates the necessary information required to indicate whether a credential has been revoked by the issuer since issuance.|PROPOSED|
 |**Facial Comparison**|Facial comparision is the use of a facial recognition algorthim to yield a matching or confidence score (e.g MATCH/NO MATCH, PERCENT SIMILARITY)|PROPOSED|
