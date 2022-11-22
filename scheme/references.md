@@ -156,6 +156,7 @@ Currently in the market
 * [Apple Passkeys](https://developers.apple.com/videos/play/wwdc2022/10092/)
 * [Credivera](https://www.credivera.com/)
 * [Microsoft Entra](https://www.microsoft.com/en-us/security/business/microsoft-entra)
+* [Northern Block](https://northernblock.io/)
 * [Trinsic](https://trinsic.id/)
 * [Mattr](https://mattr.global/)
 
