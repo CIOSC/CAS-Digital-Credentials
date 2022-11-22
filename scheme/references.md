@@ -126,6 +126,7 @@ References to specifications,standards and recommendations for consideration as 
 * [T3 Innovation Network: APPLYING SELF-SOVEREIGN IDENTITY PRINCIPLES TO INTEROPERABLE LEARNING RECORDS](https://www.uschamberfoundation.org/sites/default/files/media-uploads/Applying%20SSI%20Principles%20to%20ILRs%20Report.pdf)
 * [VC <> mDL Project Stakeholder Interviews](https://medium.com/@identitywoman-in-business/vc-mdl-project-stakeholder-interviews-6d175da09598)
 * [VC <> mDL Summary Report](https://docs.google.com/document/d/1YaMqEQzxt9GE35R2Sbmmh9Nncl8P44JxKEvPls8WXEc/edit)
+* [IDUnion Concepts for Wallet Security in SSI](../docs/IIW/IDUnion.pdf)
 
 ## Working Groups
 
@@ -157,5 +158,6 @@ Currently in the market
 * [Microsoft Entra](https://www.microsoft.com/en-us/security/business/microsoft-entra)
 * [Trinsic](https://trinsic.id/)
 * [Mattr](https://mattr.global/)
+
 
 --end--
