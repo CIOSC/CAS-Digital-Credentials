@@ -61,10 +61,7 @@ Conformity assessment object definitions that are under consideration and may be
 |**Verifiable Identifier**|A type of identifier which its control can be independently verified (generally by cryptographic means|PROPOSED|
 |**Key**|A key is data structure that represents a key or a secret.|PROPOSED|
 |**Presentation**|A Presentation is information derived from one or more Credentials. The source Credentials may have been issued by different Issuers.|PROPOSED|
-
 |**Schema**|A Schema is used to define a set of attributes and data types in order to provide a layer of semantic interoperability with other entities utilising the same schema.|PROPOSED|
-
-
 |**Credential Data Model**|A credential data model organizes elements of data and standardizes how they relate to one another and to the properties of real-world|PROPOSED|
 |**Revocation Method**|A Revocation Method generates the necessary information required to indicate whether a credential has been revoked by the issuer since issuance.|PROPOSED|
 |**Facial Comparison**|Facial comparision is the use of a facial recognition algorthim to yield a matching or confidence score (e.g MATCH/NO MATCH, PERCENT SIMILARITY)|PROPOSED|
