@@ -1,24 +1,14 @@
-# Object of Conformity Assessment Specification: STORAGE COMPONENT
+# Object of Conformity Assessment Specification: DIGITAL TRUST REGISTRY
 
 ## Part 1: Object of Conformity Assessment Specifications
 
-**Storage** A foundational layer for secure data storage, including personal data, including data models for storage and transport, syntax, data at rest protection, CRUD API, access control, synchronization, and a minimum viable HTTP-based interface compatible with W3C DIDs/VCs.
+**Digital Trust Registry** A system that mediates the creation and verification of identifiers, keys, and other relevant data, such as credential schemas, revocation registries, issuer public keys, and so on, which might be required to use credentials.
 
 ### Related Definitions
 
-Non-normative definitions which may assist in interpretation and application of the conformity.
-
-* **Additional defintions** that may be helpful in the conformity assessment
-
-Further definitions may provided by the evaluator or vendor:
-
 ### Appropriate Use Cases
 
-* Provide descriptions of appropriate [use cases](./use-cases.md) that situate the context where the object of conformity is being used.
-
 ### Selection of Product, Service or Process
-
-* Provide descriptions of selected the products, services or process that are being tested in relation to the conformity assessment requirements._
 
 ### Determination of Activities and Methods of Test
 
@@ -26,17 +16,9 @@ Further definitions may provided by the evaluator or vendor:
 
 ## Part 2: Object of Conformity Asssessment Requirements
 
-Conformity assessment requirements:
-
-ISO Conventions for Requirements
-
-* **Requirements** - SHALL, SHALL NOT
-* **Recommendations** - SHOULD, SHOULD NOT
-* **Permission** - MAY, MAY NOT
-* **Possibility and Capability** - CAN, CANNOT
-
-1. Conformity Assessment requirement 1
-2. ...
+1. The Digital Trust Registry shall store keys and other relevant data needed for the issuance and verification of credentials.
+2. The Digital Trust Registry shall employ adequate authentication and access control to prevent against unauthorized access, compromise, or destruction of data.
+3. The Digital Trust Registry shall provide cryptographic assurances that the keys and other relevant data stored in the Digital Trust Registry have not been altered and are complete.  
 
 ## Part 3: Determination of Outputs, Review and Attestation
 

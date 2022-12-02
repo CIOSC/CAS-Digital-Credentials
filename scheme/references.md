@@ -160,5 +160,4 @@ Currently in the market
 * [Trinsic](https://trinsic.id/)
 * [Mattr](https://mattr.global/)
 
-
 --end--

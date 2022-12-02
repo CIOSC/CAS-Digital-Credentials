@@ -20,8 +20,6 @@ The objects definitions are intended to be:
 
 Where possible, the object definitions are developed to be interpreted as a single process, service or component. If the definition implies  a role, then this will be specified as part of the definition. If an object definition consists of several components (i.e. a composite object), this is further specified in the object template.
 
-
-
 ## Minimal Viable Set for TS-115
 
 Conformity assessment object definitions being developed by the technical experts for inclusion in TS-115
@@ -32,6 +30,11 @@ Conformity assessment object definitions being developed by the technical expert
 |**Issuer**|A process, service or component that generates and signs the digital credential|[DRAFT](./objca-issuer.md)|
 |**Holder**|A process, service or component from which a Presentation can be expressed to a Verifier. A Holder is usually under the control of a User|[DRAFT](./objca-holder.md)|
 |**Verifier**|A process, service or component that verifies the presentation of a credential to yield an ACCEPT or REJECT decision|[DRAFT](./objca-verifier.md)|
+|**Digital Trust Registry**|A system that mediates the creation and verification of identifiers, keys, and other relevant data, such as credential schemas, revocation registries, issuer public keys, and so on, which might be required to use credentials.|[DRAFT](./objca-digital-trust-registry.md)|
+|**Decentralized Identifier**|A globally unique persistent identifier that does not require a centralized registration authority and is often generated and/or registered cryptographically.|DRAFT|
+|**Cryptographic Module**|The set of hardware, software, and/or firmware that implements cryptographic security functions (including cryptographic algorithms and key generation) and is contained within the cryptographic boundary.|DRAFT|
+|**Storage Component**|A foundational layer for secure data storage, including personal data, including data models for storage and transport, syntax, data at rest protection.|DRAFT|
+|**Credential Format**|The format used to specify identifier of the credential issuer, schema of issued credential, keys used to sign claims within the credential and cryptographic methods used. Revocation methods are optional|DRAFT|
 
 ## Priority List
 
@@ -39,7 +42,6 @@ Conformity assessment object definitions that will be included in subsequent doc
 
 |Object of Conformity Assessment|Object of Conformity Assessment Definition|Status|
 |----|----|----|
-|**Storage**|A foundational layer for secure data storage, including personal data, including data models for storage and transport, syntax, data at rest protection, CRUD API, access control, synchronization, and a minimum viable HTTP-based interface compatible with W3C DIDs/VCs.|[DRAFT](objca-storage.md)|
 |**Holder Binding**|Holder Binding is the process of associating a Credential issued to a Holder and limiting its control to the associated Holder|PROPOSED|
 |**Signature**|An electronic representation where, at a minimum: the entity signing the data can be associated with the electronic representation, it is clear that the entity intended to sign, the reason or purpose for signing is conveyed, and the data integrity of the signed transaction is maintained, including the original. **Alternate definition:** A key represents content secured with a digital   signature or message authentication code |PROPOSED|
 |**Credential Format**|A Credential Format is used to specify: 1. Identifier of the credential issuer, 2. Schema of issued credential. 3. Keys used to sign claims within the credential 4. Cryptographic methods used. 5. Revocation methods (optional)|[DRAFT](./objca-credential-format.md)|
@@ -48,7 +50,6 @@ Conformity assessment object definitions that will be included in subsequent doc
 |**Credential Exchange**|Credential Exchange is the set of protocols required to 1. Issue a Credential to a Holder, 2) Present a Proof to a Verifier|PROPOSED|
 |**Credential Proof**|A generalized proof (or set of proofs) that can be used to demonstrate one or more of: that the credential is valid, that the information (or derived information) is consistent with the intent for which it was issued, that the credential has not been tampered with, and, that the credential is being presented by the Holder (or authorized delegate) to whom it was issued. The proofs may employ cryptographic, or non-cryptographic means|PROPOSED|
 |**Cryptographic Proof**|A Cryptographic Proof is a method by which one party (the prover) can prove to another party (the verifier) that a given statement is true while avoiding conveying additional information apart from the fact that the statement is true.|PROPOSED|
-
 
 ## Others
 
@@ -70,8 +71,6 @@ Conformity assessment object definitions that are under consideration and may be
 |**Selective Disclosure**|The ability of a user to make nuanced decisions about what information to share.|PROPOSED|
 |**Predicate**| The ability of a user to check a value against a certain condition, disclosing only true or false without revealing the value.|PROPOSED|
 |**Rich Schema**|Hierarchically composable graph-based representations of complex data.|PROPOSED|
-
-
 
 ## Recognized Bodies
 
