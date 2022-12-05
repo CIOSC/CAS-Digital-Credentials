@@ -17,8 +17,8 @@ This repo and associated deliverables are intended to support strategic outcomes
 
 * Fostering standardization for the future of the digital credential ecosystem
 * Establish a baseline of trust for products, processes and services.
-* Enable interoperabilty across jurisdictins and economic sectors
-* Mitigate risks ot vendor lock-in, ecosystem fragmentatina and platform capture
+* Enable interoperabilty across jurisdictions and economic sectors
+* Mitigate risks ot vendor lock-in, ecosystem fragmentation and platform capture
 
 This repo is intended to provide the context of a prototype conformity assessment scheme for which the technical specification may be applied.
 
