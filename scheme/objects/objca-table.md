@@ -27,14 +27,14 @@ Conformity assessment object definitions being developed by the technical expert
 |Object of Conformity Assessment|Object of Conformity Assessment Definition|Status|
 |----|----|----|
 |**Digital Credential**|A portable digital record about a subject (e.g., organization, individual, product) that can be held and shared through a user-controlled wallet. It is the digital representation of a traditional physical certificate or information.|[DRAFT](./objca-digital-credential.md)|
-|**Issuer**|A process, service or component that generates and signs the digital credential|[DRAFT](./objca-issuer.md)|
-|**Holder**|A process, service or component from which a Presentation can be expressed to a Verifier. A Holder is usually under the control of a User|[DRAFT](./objca-holder.md)|
-|**Verifier**|A process, service or component that verifies the presentation of a credential to yield an ACCEPT or REJECT decision|[DRAFT](./objca-verifier.md)|
+|**Issuer Component**|A process, service or component that generates and signs the digital credential|[DRAFT](./objca-issuer.md)|
+|**Holder Component**|A process, service or component from which a Presentation can be expressed to a Verifier. A Holder is usually under the control of a User|[DRAFT](./objca-holder.md)|
+|**Verifier Component**|A process, service or component that verifies the presentation of a credential to yield an ACCEPT or REJECT decision|[DRAFT](./objca-verifier.md)|
 |**Digital Trust Registry**|A system that mediates the creation and verification of identifiers, keys, and other relevant data, such as credential schemas, revocation registries, issuer public keys, and so on, which might be required to use credentials.|[DRAFT](./objca-digital-trust-registry.md)|
 |**Decentralized Identifier**|A globally unique persistent identifier that does not require a centralized registration authority and is often generated and/or registered cryptographically.|[DRAFT](./objca-decentralized-identifier.md)|
 |**Cryptographic Module**|The set of hardware, software, and/or firmware that implements cryptographic security functions (including cryptographic algorithms and key generation) and is contained within the cryptographic boundary.|[DRAFT](./objca-cryptographic-module.md)|
 |**Storage Component**|A foundational layer for secure data storage, including personal data, including data models for storage and transport, syntax, data at rest protection.|[DRAFT](./objca-storage.md)|
-|**Credential Format**|The format used to specify identifier of the credential issuer, schema of issued credential, keys used to sign claims within the credential and cryptographic methods used. Revocation methods are optional|DRAFT|
+|**Credential Format**|The format used to specify identifier of the credential issuer, schema of issued credential, keys used to sign claims within the credential and cryptographic methods used. Revocation methods are optional|[DRAFT](./objca-credential-format.md)|
 
 ## Priority List
 

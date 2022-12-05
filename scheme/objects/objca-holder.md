@@ -1,4 +1,4 @@
-# Object of Conformity Assessment Specification: HOLDER
+# Object of Conformity Assessment Specification: HOLDER COMPONENT
 
 ## Part 1: Object of Conformity Assessment Specifications
 

@@ -1,4 +1,4 @@
-# Object of Conformity Assessment Specification: ISSUER
+# Object of Conformity Assessment Specification: ISSUER COMPONENT
 
 ## Part 1: Object of Conformity Assessment Definition
 
