@@ -26,17 +26,8 @@ Further definitions may provided by the evaluator or vendor:
 
 ## Part 2: Object of Conformity Asssessment Requirements
 
-Conformity assessment requirements:
-
-ISO Conventions for Requirements
-
-* **Requirements** - SHALL, SHALL NOT
-* **Recommendations** - SHOULD, SHOULD NOT
-* **Permission** - MAY, MAY NOT
-* **Possibility and Capability** - CAN, CANNOT
-
-1. Conformity Assessment requirement 1
-2. ...
+1. All data held in device-based or cloud-based storage shall be encrypted in accordance with relevant specification.
+2. Cloud-based storage shall be implemented in accordance with ISO/IEC 27018 to protect personally identifiable information (PII) and ISO/IEC 29100 to protect personal information (PI).
 
 ## Part 3: Determination of Outputs, Review and Attestation
 

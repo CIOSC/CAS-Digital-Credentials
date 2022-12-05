@@ -1,4 +1,4 @@
-# Object of Conformity Assessment Specification: VERFFIER
+# Object of Conformity Assessment Specification: VERIFIER
 
 ## Part 1: Object of Conformity Assessment Specifications
 
@@ -30,4 +30,3 @@
 ### Review and Decision
 
 ### Attestation
-

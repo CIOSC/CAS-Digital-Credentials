@@ -60,4 +60,3 @@ _Review is the final stage of checking before taking the decision as to whether 
 ### Attestation
 
 _The “statement of conformity”, a standardizedc expression used to include then means of communicating that fulfilment of conformity assessment requirements has been demonstrated. It should be noted that a "statement of conformity" may include non fulfilment of specified requirements._
-

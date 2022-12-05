@@ -16,14 +16,11 @@ Non-normative definitions which may assist in interpretation and application of 
 
 * **Verifiable Credential** [California](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB786#93ENR) means a cryptographically secure set of information that is both of the following: (A) Created in accordance with open standards that comply with all existing privacy protections. (B) Shared through a user-controlled, portable means that can be authenticated through publicly available services.
 
-* **Credential** A document, object, or data structure that vouches for the identity of a person or other entity through some method of
-trust and authentication. [World Bank](https://www.developer.tech.gov.sg/assets/files/GovTech%20World%20Bank%20NDI%20APEX%20report.pdf)
-
 ### Key Characteristics
 
 In general, a well-formed digital credential has three components:
 
-1. **Metadata** Provides information about the credential. 
+1. **Metadata** Provides information about the credential.
 2. **Payload** Contains the actual content of the credential, which is attested by the issuer of the credential. The content may consist of a set of one or claims, and any additional information that the issuer intends to be relied on by other parties.
 3. **Proof** A method to detect to tampering and to verify the authorship of the credential.
 
@@ -55,31 +52,26 @@ Please refer to [W3C Verifiable Credentials Use Cases](https://www.w3.org/TR/vc-
 2. Methods of test SHALL reference a recommendation, standard, or specification published by a recognized body.
 3. All conformity assessment requirements SHALL be verifiable via the appropriate method of test
 
-
 ## Part 2: Object of Conformity Asssessment Requirements
 
-1. The relevant specifications or standards used for the method of test SHALL published by a recognized body. These MAY include one or several of the following:
-    * JSON
-    * JSON-LD
-    * W3C VC Data Model
-    * ISO 18013-5
-2. A test plan that demonstrate conformance to the relevant specification or standard. The test plan should be sufficiently detailed to include specific test cases with specific inputs, outputs, execution conditions, testing procedures and expected results.
-3. Use cases SHALL be provided to illustrate how the digital credential behaves in context. Thes MAY include one or several of the following:
-    * Issue Credential
-    * Present Credential.
-    * Store Credential.
-    * Verify Credential
-    * Retrieve Credential
-    * Revoke Credential
+1. The digital credential shall be composed of three components:
+    * Credential metadata: One or more credential attributes that describe the properties or characteristics of the credential;
+    * Credential payload: A set of one or more claims asserted about one or more Subjects; and
+    * Credential proofs: One or more methods or mechanisms that are used to verify that the issuer authored the credential and that the credential has not been tampered with.
 
-4. A digital credential SHALL be composed of three components:
-    * Credential metadata: One or more Credential Attributes that describe the properties or characteristics of the Credential;
-    * Credential payload: A set of one or more Claims asserted about one or more Subjects; and
-    * Credential proofs: One or more methods or mechanisms that are used to verify that the Issuer authored the Credential and that the Credential has not been tampered with.
-5. A digital credentials SHALL be tamper-evident.
-6. The authorship of a digital credential SHALL be cryptographically verifiable.
-7. A digital credential SHALL demonstrate that it can be stored within and presented from a minimum of two independent implementations.
-8. A digtal credential SHALL demonstrate that it can be cryptograhically verified using a minimum of two independent implementations.
+2. Digital credentials shall:
+    * contain claims about one or more Subjects;
+    * reference a relevant event or activity;
+    * identify the Issuer;
+    * define a validity period;
+    * be tamper-evident and unique within a specified population; and
+    * be machine readable.
+
+3. The authorship of a digital credential shall be cryptographically verifiable.
+
+4. The digital credential shall demonstrate that it can be stored within and presented from a minimum of two independent implementations.
+5. The digital credential shall demonstrate that it can be cryptographically verified using a minimum of two independent implementations.
+6. At least one authenticator shall be bound to a digital credential
 
 ## Part 3: Determination of Outputs, Review and Attestation
 

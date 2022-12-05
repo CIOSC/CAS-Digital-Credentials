@@ -31,9 +31,9 @@ Conformity assessment object definitions being developed by the technical expert
 |**Holder**|A process, service or component from which a Presentation can be expressed to a Verifier. A Holder is usually under the control of a User|[DRAFT](./objca-holder.md)|
 |**Verifier**|A process, service or component that verifies the presentation of a credential to yield an ACCEPT or REJECT decision|[DRAFT](./objca-verifier.md)|
 |**Digital Trust Registry**|A system that mediates the creation and verification of identifiers, keys, and other relevant data, such as credential schemas, revocation registries, issuer public keys, and so on, which might be required to use credentials.|[DRAFT](./objca-digital-trust-registry.md)|
-|**Decentralized Identifier**|A globally unique persistent identifier that does not require a centralized registration authority and is often generated and/or registered cryptographically.|DRAFT|
+|**Decentralized Identifier**|A globally unique persistent identifier that does not require a centralized registration authority and is often generated and/or registered cryptographically.|[DRAFT](./objca-decentralized-identifier.md)|
 |**Cryptographic Module**|The set of hardware, software, and/or firmware that implements cryptographic security functions (including cryptographic algorithms and key generation) and is contained within the cryptographic boundary.|DRAFT|
-|**Storage Component**|A foundational layer for secure data storage, including personal data, including data models for storage and transport, syntax, data at rest protection.|DRAFT|
+|**Storage Component**|A foundational layer for secure data storage, including personal data, including data models for storage and transport, syntax, data at rest protection.|[DRAFT](./objca-cryptographic-module.md)|
 |**Credential Format**|The format used to specify identifier of the credential issuer, schema of issued credential, keys used to sign claims within the credential and cryptographic methods used. Revocation methods are optional|DRAFT|
 
 ## Priority List
@@ -51,7 +51,7 @@ Conformity assessment object definitions that will be included in subsequent doc
 |**Credential Proof**|A generalized proof (or set of proofs) that can be used to demonstrate one or more of: that the credential is valid, that the information (or derived information) is consistent with the intent for which it was issued, that the credential has not been tampered with, and, that the credential is being presented by the Holder (or authorized delegate) to whom it was issued. The proofs may employ cryptographic, or non-cryptographic means|PROPOSED|
 |**Cryptographic Proof**|A Cryptographic Proof is a method by which one party (the prover) can prove to another party (the verifier) that a given statement is true while avoiding conveying additional information apart from the fact that the statement is true.|PROPOSED|
 
-## Others
+## Under Consideration
 
 Conformity assessment object definitions that are under consideration and may be included in subsquent document releases.
 
@@ -71,6 +71,31 @@ Conformity assessment object definitions that are under consideration and may be
 |**Selective Disclosure**|The ability of a user to make nuanced decisions about what information to share.|PROPOSED|
 |**Predicate**| The ability of a user to check a value against a certain condition, disclosing only true or false without revealing the value.|PROPOSED|
 |**Rich Schema**|Hierarchically composable graph-based representations of complex data.|PROPOSED|
+
+## General Requirements
+
+The following requirements apply to all objects of conformity under assessment:
+
+### Conformance
+
+1. Conforming implementations shall pass respective normative specification-based techniques and requirements of this Specification. Test results including the test plan for executing specification-based techniques shall be reviewed before taking a final decision as to whether the object of conformity has been reliably demonstrated. A standardized expression shall be used for means of communicating the fulfilment of conformity assessment requirements. NOTE: A statement of conformity may include non-fulfilment of specified requirements.
+
+### Methods of Test
+
+1. The following two specification-based testing techniques shall be used in accordance with ISO/IEC/IEEE 29119-4 to derive test cases that, when executed, generate evidence that test item requirements have been met or not: a) scenario testing, b) Requirements-based testing. NOTE: Additional specification-based test design techniques, structure-based test design techniques, and experience-based test design techniques may be used in accordance with ISO/IEC/IEEE 29119-4 where appropriate to provide added evidence and confidence that requirements in this Technical Specification are met.
+2. Test results shall demonstrate conformance to the relevant specification or open standard specified  and remain in accordance with the conformity assessment requirements.
+3. Data model, data interchange and file formats used shall be published by a recognized body.
+
+### Scenario Testing
+
+1. A test plan for executing the test scenarios using the data model and data interchange and file formats specified shall be sufficiently detailed with specific inputs, outputs, execution conditions, testing procedures and expected results.
+2. Test scenarios shall be executed on the service in scope. Each test scenario shall illustrate how the object of conformity behaves in context. Test scenarios shall include one or several of the following dependent on the scope of the service.
+3. The result of the test scenarios should be documented in a test report.
+4. All test scenarios executed shall result and/or preserve the general characteristics of the object of conformity.
+
+### Requirements-based Testing
+
+1. The criteria specified shall comprise the test model and a test case derived to cover each atomic requirements with at least one test case and executed in accordance with ISO/IEC/IEEE 29119-4.
 
 ## Recognized Bodies
 
