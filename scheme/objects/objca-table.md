@@ -71,7 +71,7 @@ Conformity assessment object definitions that are under consideration and may be
 |**Predicate**| The ability of a user to check a value against a certain condition, disclosing only true or false without revealing the value.|PROPOSED|
 |**Rich Schema**|Hierarchically composable graph-based representations of complex data.|PROPOSED|
 
-## Object of Conformity Common Requirements
+## Common Requirements for Objects of Conformity
 
 The following requirements apply to all objects of conformity under assessment:
 
