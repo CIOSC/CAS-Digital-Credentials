@@ -20,9 +20,9 @@ The objects definitions are intended to be:
 
 Where possible, the object definitions are developed to be interpreted as a single process, service or component. If the definition implies  a role, then this will be specified as part of the definition. If an object definition consists of several components (i.e. a composite object), this is further specified in the object template.
 
-## Minimal Viable Set for TS-115
+## Minimal Viable Set for Inclusion into Technical Specification
 
-Conformity assessment object definitions being developed by the technical experts for inclusion in TS-115
+Conformity assessment object definitions being developed by the technical experts for inclusion in technical specification
 
 |Object of Conformity Assessment|Object of Conformity Assessment Definition|Status|
 |----|----|----|
