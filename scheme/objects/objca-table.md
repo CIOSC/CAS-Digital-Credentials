@@ -44,7 +44,6 @@ Conformity assessment object definitions that will be included in subsequent doc
 |----|----|----|
 |**Holder Binding**|Holder Binding is the process of associating a Credential issued to a Holder and limiting its control to the associated Holder|PROPOSED|
 |**Signature**|An electronic representation where, at a minimum: the entity signing the data can be associated with the electronic representation, it is clear that the entity intended to sign, the reason or purpose for signing is conveyed, and the data integrity of the signed transaction is maintained, including the original. **Alternate definition:** A key represents content secured with a digital   signature or message authentication code |PROPOSED|
-|**Credential Format**|A Credential Format is used to specify: 1. Identifier of the credential issuer, 2. Schema of issued credential. 3. Keys used to sign claims within the credential 4. Cryptographic methods used. 5. Revocation methods (optional)|[DRAFT](./objca-credential-format.md)|
 |**Digital Trust Service**|A Digital Trust Service is an enabling service that can include one or several of the followiing: digital credentials, verifiable data registries, issuing services, verifying services, and, digital wallet services.|PROPOSED|
 |**Decentralized Identifier**|A globally unique persistent identifier that does not require a centralized registration authority and is often generated and/or registered cryptographically.|PROPOSED|
 |**Credential Exchange**|Credential Exchange is the set of protocols required to 1. Issue a Credential to a Holder, 2) Present a Proof to a Verifier|PROPOSED|
@@ -72,7 +71,7 @@ Conformity assessment object definitions that are under consideration and may be
 |**Predicate**| The ability of a user to check a value against a certain condition, disclosing only true or false without revealing the value.|PROPOSED|
 |**Rich Schema**|Hierarchically composable graph-based representations of complex data.|PROPOSED|
 
-## General Requirements
+## Object of Conformity Common Requirements
 
 The following requirements apply to all objects of conformity under assessment:
 
