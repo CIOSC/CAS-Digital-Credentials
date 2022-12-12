@@ -48,6 +48,9 @@ Link to relevant references. All references are provided without warrant or endo
 * [EBSI Publications](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/What+is+ebsi)
 * [European Digital Identity Framework](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2021/0136(COD)&l=en)
 * [Europen Digital Identity Wallet Consortium](https://eudiwalletconsortium.org/)
+* [European Council Common Position](https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/european-digital-identity-eid-council-adopts-its-position-on-a-new-regulation-for-a-digital-wallet-at-eu-level/)
+* [European Council Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) No 910/2014 as regards establishing a framework for a European Digital Identity](https://data.consilium.europa.eu/doc/document/ST-14959-2022-INIT/en/pdf)
+* [European Commission European Digital Identity](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_en)
 * [Digital Identity Lab Building the trust needed to accelerate adoption of a digital verifiable credential ecosystem for all Canadians](https://www.idlab.org/wp-content/uploads/2022/10/IDLab-PBS-Oct-8-2022-FINAL-1.pdf)
 * [World Bank National Digital Identity and Government Data Sharing in Singapore](https://www.developer.tech.gov.sg/assets/files/GovTech%20World%20Bank%20NDI%20APEX%20report.pdf)
 
@@ -71,6 +74,9 @@ References to specifications,standards and recommendations for consideration as 
 * [Hyperledger Aries Interop Profile](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0302-aries-interop-profile#aries-interop-profile-version-10)
 * [ICAO Guiding Core Principles for the Development of Digital Travel Credential](https://www.icao.int/Security/FAL/TRIP/PublishingImages/Pages/Publications/Guiding%20core%20principles%20for%20the%20development%20of%20a%20Digital%20Travel%20Credential%20%20%28DTC%29.PDF)
 * [ICAO Machine Readable Travel Documents](https://www.icao.int/publications/pages/publication.aspx?docnum=9303)
+* [IDunion / RWOT Paper A credential profile comparison matrix to facilitate technical and non-technical decision making](https://hackmd.io/@pYxu1_DpSHuR1VO_UwmnHg/BJiQRdgGo/edit)
+* [IDunion Credential Comparison Matrix](https://docs.google.com/spreadsheets/d/1Z4cYfjbbE-rABcfC-xab8miocKLomivYMUFibOh9BVo/edit?usp=sharing)
+
 * [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
 * [IETF CBOR Web Token RFC 8392](https://datatracker.ietf.org/doc/rfc8392/)
 * [IETF JSON Web Proof](https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html)
