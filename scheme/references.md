@@ -76,7 +76,7 @@ References to specifications,standards and recommendations for consideration as 
 * [ICAO Machine Readable Travel Documents](https://www.icao.int/publications/pages/publication.aspx?docnum=9303)
 * [IDunion / RWOT Paper A credential profile comparison matrix to facilitate technical and non-technical decision making](https://hackmd.io/@pYxu1_DpSHuR1VO_UwmnHg/BJiQRdgGo/edit)
 * [IDunion Credential Comparison Matrix](https://docs.google.com/spreadsheets/d/1Z4cYfjbbE-rABcfC-xab8miocKLomivYMUFibOh9BVo/edit?usp=sharing)
-
+* [IDunion Credential Comparison Matix GitHub](https://github.com/vcstuff/credential-profile-comparison)
 * [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
 * [IETF CBOR Web Token RFC 8392](https://datatracker.ietf.org/doc/rfc8392/)
 * [IETF JSON Web Proof](https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html)
