@@ -45,12 +45,15 @@ Link to relevant references. All references are provided without warrant or endo
 * [California Legislature: SB-786 County birth, death, and marriage records: blockchain](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB786#93ENR)
 * [DHS Scaling Interoperability](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/att-0027/DHS.SVIP-Scaling.W3C.VC.DID.Interoperability-SHARE_20220712.pdf)
 * [DHS Implementation Profile](/docs/DHS.W3C.VC-DID.Implemenation.Profile-20220929-SHARE.pdf)
+* [NIST SP 800 63-4 Digital Identity Guidelines](https://csrc.nist.gov/publications/detail/sp/800-63/4/draft)
 * [EBSI Publications](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/What+is+ebsi)
 * [European Digital Identity Framework](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2021/0136(COD)&l=en)
 * [Europen Digital Identity Wallet Consortium](https://eudiwalletconsortium.org/)
 * [European Council Common Position](https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/european-digital-identity-eid-council-adopts-its-position-on-a-new-regulation-for-a-digital-wallet-at-eu-level/)
 * [European Council Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) No 910/2014 as regards establishing a framework for a European Digital Identity](https://data.consilium.europa.eu/doc/document/ST-14959-2022-INIT/en/pdf)
 * [European Commission European Digital Identity](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_en)
+* [European NOBID Consortium](https://www.nobidconsortium.com/)
+* [European Digital Identity Wallet Consortium](https://eudiwalletconsortium.org/)
 * [Digital Identity Lab Building the trust needed to accelerate adoption of a digital verifiable credential ecosystem for all Canadians](https://www.idlab.org/wp-content/uploads/2022/10/IDLab-PBS-Oct-8-2022-FINAL-1.pdf)
 * [World Bank National Digital Identity and Government Data Sharing in Singapore](https://www.developer.tech.gov.sg/assets/files/GovTech%20World%20Bank%20NDI%20APEX%20report.pdf)
 
@@ -77,6 +80,7 @@ References to specifications,standards and recommendations for consideration as 
 * [IDunion / RWOT Paper A credential profile comparison matrix to facilitate technical and non-technical decision making](https://hackmd.io/@pYxu1_DpSHuR1VO_UwmnHg/BJiQRdgGo/edit)
 * [IDunion Credential Comparison Matrix](https://docs.google.com/spreadsheets/d/1Z4cYfjbbE-rABcfC-xab8miocKLomivYMUFibOh9BVo/edit?usp=sharing)
 * [IDunion Credential Comparison Matix GitHub](https://github.com/vcstuff/credential-profile-comparison)
+* [IETF Authentic Chained Data Containers](https://datatracker.ietf.org/doc/draft-ssmith-acdc/)
 * [IETF SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)
 * [IETF CBOR Web Token RFC 8392](https://datatracker.ietf.org/doc/rfc8392/)
 * [IETF JSON Web Proof](https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html)
@@ -153,6 +157,7 @@ Implementation libraries
 * [DIF did-resolver](https://github.com/decentralized-identity/did-resolver)
 * [DIF web-did-resolver](https://github.com/decentralized-identity/web-did-resolver)
 * [DIF key-did-resolver](https://github.com/ceramicnetwork/js-ceramic/tree/develop/packages/key-did-resolver)
+* [KERI Core Libraries](https://github.com/decentralized-identity/keripy)
 * [Verite Governance Overview](https://verite.id/verite/overview/governance-overview)
 
 ## Vendor Solutions, Products and Services
