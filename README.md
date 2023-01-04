@@ -7,20 +7,20 @@
 
 ## Overview of this Repository
 
-This repository contains industsry and government expert contributions in support of the developments of standards-based conformity assessment schemes for digital credentials, digital trust services and digital wallets.
+This repository contains industry and government expert contributions in support of the developments of standards-based conformity assessment schemes for digital credentials, digital trust services and digital wallets.
 
 ## Strategic Context
 
 This content and supporting tools are intended to contribute to the establishment of digital trust, enablement of national and international interoperability, and the mitigation of related risks.
 
-This repo and associated deliverables are intended to support strategic outcomes of:
+This repository and associated deliverables are intended to support strategic outcomes of:
 
 * Fostering standardization for the future of the digital credential ecosystem
 * Establish a baseline of trust for products, processes and services.
 * Enable interoperabilty across jurisdictions and economic sectors
-* Mitigate risks ot vendor lock-in, ecosystem fragmentation and platform capture
+* Mitigate risks of vendor lock-in, ecosystem fragmentation and platform capture
 
-This repo is intended to provide the context of a prototype conformity assessment scheme for which the technical specification may be applied.
+This repository is intended to provide the context of a prototype conformity assessment scheme for which the technical specification may be applied.
 
 ## Immediate Objectives
 
