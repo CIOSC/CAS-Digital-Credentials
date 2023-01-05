@@ -31,5 +31,7 @@ This repository is intended to provide the context of a prototype conformity ass
 
 The experts are now defining the **objects of conformity** for inclusion in a technical specification. The table of objects being developed can be found [here](./scheme/objects/objca-table.md)
 
+The [draft versions of TS-115](./publish/publish.md) are now avaialable.
+
 ---
 Interested in contributing? Here is a great resource on [Open Source](https://opensource.guide/)
