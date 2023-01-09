@@ -4,4 +4,3 @@ The CIO Strategy Council, in partnership with the Standards Council of Canada (S
 
 The draft [CIOSC TS 115 National Technical Specification for Digital Credentials and Digital Trust Services](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/), is available on the CIO Strategy Council website for public review and stakeholder feedback. The deadline for comments is January 27, 2023
 
-
