@@ -31,7 +31,7 @@ This repository is intended to provide the context of a prototype conformity ass
 
 The experts are now defining the **objects of conformity** for inclusion in a technical specification. The table of objects being developed can be found [here](./scheme/objects/objca-table.md)
 
-The [draft versions of TS-115](./publish/publish.md) are now avaialable.
+The [draft versions of TS-115](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)are now avaialable for public review.
 
 ---
 Interested in contributing? Here is a great resource on [Open Source](https://opensource.guide/)
