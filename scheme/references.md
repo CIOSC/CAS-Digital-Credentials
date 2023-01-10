@@ -137,6 +137,10 @@ References to specifications,standards and recommendations for consideration as 
 * [VC <> mDL Project Stakeholder Interviews](https://medium.com/@identitywoman-in-business/vc-mdl-project-stakeholder-interviews-6d175da09598)
 * [VC <> mDL Summary Report](https://docs.google.com/document/d/1YaMqEQzxt9GE35R2Sbmmh9Nncl8P44JxKEvPls8WXEc/edit)
 * [IDUnion Concepts for Wallet Security in SSI](../docs/IIW/IDUnion.pdf)
+* [LinkedIn Plugfest December 19, 2022](https://www.linkedin.com/pulse/plugfest-simone-ravaioli/)
+* [Road to DIDComm Issuance](https://docs.google.com/presentation/d/11Crv96IqARpwEIes7B0OQwuEvWaN1G1dYMofBXLWWiU/edit?usp=sharing)
+* [SmartReport Ecosystem Map](https://www.smartresume.com/resources/smartreport-ecosystem-map)
+* [VC-EDU 2022 Recap and 2023 Planning](https://docs.google.com/presentation/d/1XrrXHcQI3_M_VMgeSyVloJ0z6jrZHhDKiqRNM3Lw0TE/edit?usp=sharing)
 
 ## Working Groups
 
