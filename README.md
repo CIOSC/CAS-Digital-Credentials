@@ -5,6 +5,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CIOSC/CAS-Digital-Credentials)
 ![GitHub contributors](https://img.shields.io/github/contributors/CIOSC/CAS-Digital-Credentials)
 
+Quick links to: [Objects of Conformity](./scheme/objects/objca-table.md), [Draft Specification](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)
+
 ## Overview of this Repository
 
 This repository contains industry and government expert contributions in support of the developments of standards-based conformity assessment schemes for digital credentials, digital trust services and digital wallets.
