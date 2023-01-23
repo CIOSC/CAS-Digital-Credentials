@@ -20,7 +20,7 @@ The objects definitions are intended to be:
 
 Where possible, the object definitions are developed to be interpreted as a single process, service or component. If the definition implies  a role, then this will be specified as part of the definition. If an object definition consists of several components (i.e. a composite object), this is further specified in the object template.
 
-[Solution Profiles](/scheme/solution-profiles/solution-profiles.md) are being mapped to the objects of conformity/
+[Implemenation Profiles](/scheme/implementation-profiles/implementation-profiles.md) are being mapped to the objects of conformity.
 
 ## Minimal Viable Set for Inclusion into Technical Specification
 
