@@ -5,6 +5,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CIOSC/CAS-Digital-Credentials)
 ![GitHub contributors](https://img.shields.io/github/contributors/CIOSC/CAS-Digital-Credentials)
 
+**FOR THE LATEST CHANGES, PLEASE VISIT THE REPOS ON OUR NEW [DIGITAL GOVERNANCE COUNCIL PAGE](https://github.com/dgc-cgn.org)**
+
 Quick links to: [Objects of Conformity](./scheme/objects/objca-table.md), [Draft Specification](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)
 
 ## Overview of this Repository
